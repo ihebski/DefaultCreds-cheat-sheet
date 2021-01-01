@@ -39,6 +39,23 @@ We welcome contributions as github pull requests.<br>
 | axis (web) | root | admin  | 
 | hikvision (ssh) | admin | 12345  | 
 | honeywell (ssh) | admin | 12345  |
+| Apache Tomcat (web) |  tomcat | tomcat |
+| Apache Tomcat (web) |  admin | admin |
+| Apache Tomcat (web) |  ovwebusr | OvW*busr1 |
+| Apache Tomcat (web) |  j2deployer | j2deployer |
+| Apache Tomcat (web) |  cxsdk | kdsxc |
+| Apache Tomcat (web) |  ADMIN | ADMIN |
+| Apache Tomcat (web) |  xampp | xampp |
+| Apache Tomcat (web) |  tomcat | s3cret |
+| Apache Tomcat (web) |  QCC | QLogic66 |
+| Apache Tomcat (web) |  admin | None |
+| Apache Tomcat (web) |  admin | tomcat |
+| Apache Tomcat (web) |  root | root |
+| Apache Tomcat (web) |  role1 | role1 |
+| Apache Tomcat (web) |  role | changethis |
+| Apache Tomcat (web) |  tomcat | changethis |
+| Apache Tomcat (web) |  admin | j5Brn9 |
+| Apache Tomcat (web) |  role1 | tomcat |
 | Zyxel NWA/NAP/WAC wireless access point series (ftp) |  devicehaecived | 1234 |
 | ftp (ftp) |  anonymous | None |
 | ftp (ftp) |  ftp | ftp |
@@ -243,19 +260,6 @@ We welcome contributions as github pull requests.<br>
 | AudioCodes Mediant 1000 (web) |  Admin | Admin |
 | ActiveMQ (general) |  admin | admin |
 | ActiveMQ (general) |   |  |
-| Weblogic (web) |  system | manager |
-| Weblogic (web) |  weblogic | weblogic1 |
-| Weblogic (web) |  WEBLOGIC | WEBLOGIC |
-| Weblogic (web) |  PUBLIC | PUBLIC |
-| Weblogic (web) |  EXAMPLES | EXAMPLES |
-| Weblogic (web) |  weblogic | weblogic |
-| Weblogic (web) |  system | password |
-| Weblogic (web) |  weblogic | welcome(1) |
-| Weblogic (web) |  system | welcome(1) |
-| Weblogic (web) |  operator | weblogic |
-| Weblogic (web) |  operator | password |
-| Weblogic (web) |  system | Passw0rd |
-| Weblogic (web) |  monitor | password |
 | Kanboard (web) |  admin | admin |
 | IBM UrbanCode Deploy (web) |  admin | admin |
 | IBM UrbanCode Deploy (web) |  ucdpadmin | ucdpadmin |
@@ -310,23 +314,6 @@ We welcome contributions as github pull requests.<br>
 | HP Server Automation (web) |  admin | opsware_admin |
 | JasperReports (web) |  jasperadmin | jasperadmin |
 | JasperReports (web) |  jasperadmin | bitnami |
-| Apache Tomcat (web) |  tomcat | tomcat |
-| Apache Tomcat (web) |  admin | admin |
-| Apache Tomcat (web) |  ovwebusr | OvW*busr1 |
-| Apache Tomcat (web) |  j2deployer | j2deployer |
-| Apache Tomcat (web) |  cxsdk | kdsxc |
-| Apache Tomcat (web) |  ADMIN | ADMIN |
-| Apache Tomcat (web) |  xampp | xampp |
-| Apache Tomcat (web) |  tomcat | s3cret |
-| Apache Tomcat (web) |  QCC | QLogic66 |
-| Apache Tomcat (web) |  admin | None |
-| Apache Tomcat (web) |  admin | tomcat |
-| Apache Tomcat (web) |  root | root |
-| Apache Tomcat (web) |  role1 | role1 |
-| Apache Tomcat (web) |  role | changethis |
-| Apache Tomcat (web) |  tomcat | changethis |
-| Apache Tomcat (web) |  admin | j5Brn9 |
-| Apache Tomcat (web) |  role1 | tomcat |
 | Nortel Integrated Call Director (web) |  admin | admin |
 | Elasticsearch (http) |   |  |
 | Makito Decoder (web) |  admin | %89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01 |
