@@ -4,6 +4,8 @@ One place for all the default credentials to assist the peneration tester during
 > P.S : Most of the credentials are currently extracted from changeme tool please use it in case to automate the process https://github.com/ztgrace/changeme (kudos for the awesome work)
 
 - [x] Project in progress
+### Contribute
+We welcome contributions as github pull requests.<br>
 
 | Product/Vendor   | Username | Password |
 | ---      | ---      | --- |
