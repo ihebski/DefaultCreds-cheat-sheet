@@ -1,4 +1,4 @@
-# DefaultCreds-cheat-sheet
+# Default Credentials Cheat Sheet
 One place for all the default credentials to assist the peneration tester during an engagement, this document has a several products default credentials that are gathered from several sources.
 
 > P.S : Most of the credentials are currently extracted from changeme tool please use it in case to automate the process https://github.com/ztgrace/changeme (kudos for the awesome work)
