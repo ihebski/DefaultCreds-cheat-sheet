@@ -56,6 +56,15 @@ We welcome contributions as github pull requests.<br>
 | Apache Tomcat (web) |  tomcat | changethis |
 | Apache Tomcat (web) |  admin | j5Brn9 |
 | Apache Tomcat (web) |  role1 | tomcat |
+| zte (ssh) | admin | admin | 
+| zte (ssh) | ZXDSL | ZXDSL | 
+| zte (ssh) | user | user | 
+| zte (ssh) | on | on | 
+| zte (ssh) | root | Zte521 | 
+| zte (ssh) | root | W!n0&oO7. | 
+| netgar (ssh) | admin | admin | 
+| netgar (ssh) | admin | 1234 | 
+| netgar (ssh) | admin |  | 
 | Zyxel NWA/NAP/WAC wireless access point series (ftp) |  devicehaecived | 1234 |
 | ftp (ftp) |  anonymous | None |
 | ftp (ftp) |  ftp | ftp |
