@@ -24,6 +24,19 @@ One place for all the default credentials to assist the peneration tester during
 | Weblogic (web) |  system | Passw0rd |
 | Weblogic (web) |  monitor | password |
 | Kanboard (web) |  admin | admin |
+| Dlink (web) | admin | admin | 
+| Dlink (web) | 1234 | 1234 | 
+| Dlink (web) | root | 12345 | 
+| Dlink (web) | root | root | 
+| Pfsense (web) | admin | pfsense | 
+| fortinet (web) | admin |  | 
+| fortinet (web) | maintainer | bcpb+serial# | 
+| fortinet (web) | maintainer | admin  | 
+| comtrend (ssh) | admin | admin  | 
+| axis (web) | root | pass  | 
+| axis (web) | root | admin  | 
+| hikvision (ssh) | admin | 12345  | 
+| honeywell (ssh) | admin | 12345  |
 | Zyxel NWA/NAP/WAC wireless access point series (ftp) |  devicehaecived | 1234 |
 | ftp (ftp) |  anonymous | None |
 | ftp (ftp) |  ftp | ftp |
