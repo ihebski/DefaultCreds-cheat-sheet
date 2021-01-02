@@ -4,6 +4,16 @@ One place for all the default credentials to assist the pentester during an enga
 > P.S : Most of the credentials are currently extracted from the changeme and routersploit projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
 
 - [x] Project in progress
+
+#### Short stats of the dataset
+|       | Product/Vendor |	Username | Password |
+| --- | --- | --- | --- |
+| **count**	| 452	| 452	| 452 |
+| **unique** |	139	| 110 |	273 |
+| **top** |	SNMP (snmp)| None | admin |
+| **freq** |	118 |	125 |	46 |
+
+
 ### Contribute
 We welcome contributions as github pull requests.<br>
 
