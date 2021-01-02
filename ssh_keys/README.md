@@ -1,5 +1,5 @@
 ## ssh keys
-Default ssh keys for several products, extracted from routersploit project https://github.com/threat9/routersploit/tree/master/routersploit/resources/ssh_keys, gathered here as a part of the project
+Default ssh keys for several products, extracted from routersploit project https://github.com/threat9/routersploit/tree/master/routersploit/resources/ssh_keys > Gathered here as a part of the project
 
 
 Available key products:
