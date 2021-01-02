@@ -65,6 +65,46 @@ We welcome contributions as github pull requests.<br>
 | netgar (ssh) | admin | admin | 
 | netgar (ssh) | admin | 1234 | 
 | netgar (ssh) | admin |  | 
+| 2wire (ssh) | admin | admin | 
+| asmax (ssh) | admin | admin | 
+| asmax (ssh) | support | support | 
+| asmax (ssh) | user | user | 
+| bhu (ssh) | admin | admin | 
+| ipfire (ssh) | admin | admin | 
+| ipfire (ssh) | root | admin | 
+| ipfire (ssh) | admin |  | 
+| linksys (ssh) | admin | admin | 
+| linksys (ssh) | admin | password | 
+| linksys (ssh) | root | admin  | 
+| linksys (ssh) | linksys |  | 
+| netcore (ssh) | admin | admin  | 
+| netcore (ssh) | guest | guest | 
+| thomson (ssh) | admin | admin | 
+| thomson (ssh) | admin | password | 
+| 3com (ssh) | admin | admin | 
+| asus (ssh) | admin | admin | 
+| asus (ssh) | admin | password | 
+| asus (ssh) | root | root  | 
+| asus (ssh) | Admin | Admin  | 
+| billion (ssh) | admin | admin | 
+| huawei (ssh) | admin | admin | 
+| huawei (ssh) | admin |  | 
+| huawei (ssh) | Admin | admin | 
+| huawei (ssh) | user | user | 
+| huawei (ssh) | vodafone | vodafone | 
+| huawei (ssh) | user | HuaweiUser | 
+| huawei (ssh) | telecomadmin | admintelecom | 
+| huawei (ssh) | digicel | digicel | 
+| juniper (ssh) | admin | abc123 | 
+| juniper (ssh) | super | juniper123 | 
+| juniper (ssh) | admin | <<< %s(un=\'%s\') = %u. | 
+| movistar (ssh) | admin | admin | 
+| movistar (ssh) | 1234 | 1234 | 
+| netsys (ssh) | admin | admin | 
+| technicolor (ssh) | admin | admin | 
+| ubiquiti (ssh) | admin | admin | 
+| ubiquiti (ssh) | root | ubnt | 
+| ubiquiti (ssh) | ubnt | ubnt | 
 | Zyxel NWA/NAP/WAC wireless access point series (ftp) |  devicehaecived | 1234 |
 | ftp (ftp) |  anonymous | None |
 | ftp (ftp) |  ftp | ftp |
