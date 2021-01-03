@@ -95,6 +95,52 @@
  ubiquiti (ssh) , admin , admin 
  ubiquiti (ssh) , root , ubnt 
  ubiquiti (ssh) , ubnt , ubnt 
+ acti (web) ,  admin , 12345 
+ acti (web) ,  admin , 123456 
+ acti (web) ,  Admin , 12345 
+ acti (web) ,  Admin , 123456 
+ avigilon (web) ,  admin , admin   
+ avigilon (web) ,  Administrator ,  
+ basler (web) ,  admin , admin 
+ grandstream (web) ,  admin , admin 
+ siemens (web) ,  admin , admin 
+ vacron (web) ,  admin , admin 
+ american_dynamics (web) ,  admin , admin 
+ american_dynamics (web) ,  admin , 9999 
+ avtech (web) ,  admin , admin 
+ brickcom (web) ,  admin , admin 
+ iqinvision (web) ,  root , system 
+ mobotix (web) ,  admin , meinsm 
+ samsung (web) ,  admin , 1111111 
+ samsung (web) ,  admin , 4321 
+ samsung (web) ,  root , admin 
+ speco (web) ,  admin , 1234 
+ videoiq (web) ,  supervisor , supervisor 
+ arecont (web) ,  admin ,  
+ arecont (web) ,   ,  
+ canon (web) ,  root , camera 
+ geovision (web) ,  admin , admin 
+ honeywell (web) ,  admin , 1234 
+ jvc (web) ,  admin , jvc 
+ sentry360 (web) ,  admin , 1234 
+ stardot (web) ,  admin , admin 
+ db2 (Databse) , ADONIS , BPMS 
+ db2 (Databse) , db2inst1 , db2inst1 
+ db2 (Databse) , db2inst1 , db2pass 
+ db2 (Databse) , db2inst1 , db2pw 
+ db2 (Databse) , db2inst1 , db2password 
+ db2 (Databse) , dasusr1 , dasusr1 
+ db2 (Databse) , db2fenc1 , db2fenc1 
+ db2 (Databse) , db2admin , db2admin 
+ postgres (Databse) , dcmadmin , passw0rd 
+ postgres (Databse) , postgres , amber 
+ postgres (Databse) , postgres , postgres 
+ postgres (Databse) , postgres , password 
+ postgres (Databse) , postgres , admin 
+ postgres (Databse) , admin , admin 
+ postgres (Databse) , admin , password 
+ postgres (Databse) , postgres , 123 
+ DELL IDARC (web) , root , calvin 
  Zyxel NWA/NAP/WAC wireless access point series (ftp) ,  devicehaecived , 1234 
  ftp (ftp) ,  anonymous , None 
  ftp (ftp) ,  ftp , ftp 
