@@ -1,4 +1,8 @@
 # Default Credentials Cheat Sheet
+<p align="center">
+  <img src="https://media.moddb.com/cache/images/games/1/65/64034/thumb_620x2000/Lockpicking.jpg"/>
+</p>
+
 One place for all the default credentials to assist the pentester during an engagement, this document has a several products default credentials that are gathered from several sources.
 
 > P.S : Most of the credentials are currently extracted from the changeme and routersploit projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
