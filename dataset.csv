@@ -71,6 +71,33 @@
  netcore (ssh) , guest , guest 
  thomson (ssh) , admin , admin 
  thomson (ssh) , admin , password 
+ windows (RDP) , Administrator , FELDTECH 
+ windows (RDP) , secure , SecurityMaster08 
+ windows (RDP) , admin , trinity 
+ windows (RDP) , administrator , Wyse#123 
+ windows (RDP) , user , Wyse#123 
+ windows (RDP) , admin , admin 
+ windows (RDP) , Administrator , Administrator 
+ windows (RDP) , sonos , sonos 
+ windows (RDP) , demo , m9ff.QW 
+ windows (RDP) , wasadmin , wasadmin 
+ windows (RDP) , maxadmin , maxadmin 
+ windows (RDP) , mxintadm , mxintadm 
+ windows (RDP) , maxreg , maxreg 
+ windows (RDP) , root , 
+ windows (RDP) , admin , admin 
+ windows (RDP) , admin , 12345 
+ windows (RDP) , admin , 1234 
+ windows (RDP) , admin , 123456 
+ windows (RDP) , instrument , instrument 
+ windows (RDP) , admin , 
+ windows (RDP) , nmt , 1234 
+ windows (RDP) , admin , password 
+ windows (RDP) , IEUser , Passw0rd! 
+ windows (RDP) , openhabian , openhabian 
+ windows (RDP) , vagrant , vagrant 
+ windows (RDP) , Administrator , vagrant 
+ windows (RDP) , john , Password123! 
  3com (ssh) , admin , admin 
  asus (ssh) , admin , admin 
  asus (ssh) , admin , password 

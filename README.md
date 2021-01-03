@@ -8,14 +8,20 @@ One place for all the default credentials to assist the pentester during an enga
 #### Short stats of the dataset
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 498	| 498	| 498 |
-| **unique** |	163	| 117 |	285 |
+| **count**	| 525	| 525	| 525 |
+| **unique** |	164	| 132 |	296 |
 | **top** |	SNMP (snmp)| None | admin |
-| **freq** |	118 |	125 |	58 |
+| **freq** |	118 |	125 |	60 |
 
+#### Sources
+- [Changeme](https://github.com/ztgrace/changeme "Changeme project")
+- [Routersploit]( https://github.com/threat9/routersploit "Routersploit project")
+- [betterdefaultpasslist]( https://github.com/govolution/betterdefaultpasslist "betterdefaultpasslist")
+- [Seclist]( https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials "Seclist project")
+- Vendors documentations/blogs
 
-### Contribute
-We welcome contributions as github pull requests.<br>
+#### Contribute
+If you cannot find the password for a specific product, please submit a pull request to update the dataset.<br>
 
 | Product/Vendor   | Username | Password |
 | ---      | ---      | --- |
@@ -91,6 +97,33 @@ We welcome contributions as github pull requests.<br>
 | netcore (ssh) | guest | guest | 
 | thomson (ssh) | admin | admin | 
 | thomson (ssh) | admin | password | 
+| windows (RDP) | Administrator | FELDTECH |
+| windows (RDP) | secure | SecurityMaster08 |  
+| windows (RDP) | admin | trinity |
+| windows (RDP) | administrator | Wyse#123 |
+| windows (RDP) | user | Wyse#123 |
+| windows (RDP) | admin | admin |
+| windows (RDP) | Administrator | Administrator |
+| windows (RDP) | sonos | sonos |
+| windows (RDP) | demo | m9ff.QW |
+| windows (RDP) | wasadmin | wasadmin |
+| windows (RDP) | maxadmin | maxadmin |
+| windows (RDP) | mxintadm | mxintadm |
+| windows (RDP) | maxreg | maxreg |
+| windows (RDP) | root | |
+| windows (RDP) | admin | admin |
+| windows (RDP) | admin | 12345 |
+| windows (RDP) | admin | 1234 |
+| windows (RDP) | admin | 123456 |
+| windows (RDP) | instrument | instrument |
+| windows (RDP) | admin | |
+| windows (RDP) | nmt | 1234 | 
+| windows (RDP) | admin | password | 
+| windows (RDP) | IEUser | Passw0rd! |
+| windows (RDP) | openhabian | openhabian |
+| windows (RDP) | vagrant | vagrant |
+| windows (RDP) | Administrator | vagrant |
+| windows (RDP) | john | Password123! |
 | 3com (ssh) | admin | admin | 
 | asus (ssh) | admin | admin | 
 | asus (ssh) | admin | password | 
