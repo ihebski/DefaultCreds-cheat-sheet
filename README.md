@@ -12,10 +12,10 @@ One place for all the default credentials to assist the pentester during an enga
 #### Short stats of the dataset
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 525	| 525	| 525 |
-| **unique** |	164	| 132 |	296 |
+| **count**	| 674	| 674	| 674 |
+| **unique** |	191	| 182 |	391 |
 | **top** |	SNMP (snmp)| None | admin |
-| **freq** |	118 |	125 |	60 |
+| **freq** |	118 |	125 |	70 |
 
 #### Sources
 - [Changeme](https://github.com/ztgrace/changeme "Changeme project")
@@ -50,6 +50,16 @@ If you cannot find the password for a specific product, please submit a pull req
 | Dlink (web) | 1234 | 1234 | 
 | Dlink (web) | root | 12345 | 
 | Dlink (web) | root | root | 
+| F5 | admin | admin | 
+| F5 | root | default | 
+| F5 | support | <BLANK> | 
+| F5-Networks | <N/A> | <BLANK> | 
+| Barracuda (web) | admin | admin | 
+| Barracuda (web) | ssladmin | ssladmin | 
+| Checkpoint (web) | admin | admin | 
+| Checkpoint (web) | admin| abc123  | 
+| Citrix Systems (web) | nsroot | nsroot | 
+| Citrix Systems (web) | root | rootadmin | 
 | Pfsense (web) | admin | pfsense | 
 | fortinet (web) | admin |  | 
 | fortinet (web) | maintainer | bcpb+serial# | 
@@ -129,6 +139,9 @@ If you cannot find the password for a specific product, please submit a pull req
 | windows (RDP) | Administrator | vagrant |
 | windows (RDP) | john | Password123! |
 | 3com (ssh) | admin | admin | 
+| topnet (web) | topadmin | topadmin | 
+| orange livebox4  (web) | admin |  | 
+| orange livebox4  (web) | admin | (blank) | 
 | asus (ssh) | admin | admin | 
 | asus (ssh) | admin | password | 
 | asus (ssh) | root | root  | 
@@ -145,9 +158,71 @@ If you cannot find the password for a specific product, please submit a pull req
 | juniper (ssh) | admin | abc123 | 
 | juniper (ssh) | super | juniper123 | 
 | juniper (ssh) | admin | <<< %s(un=\'%s\') = %u. | 
+| Juniper (ssh) | admin | abc123 | 
+| Juniper (ssh) | admin | netscreen | 
+| Juniper (ssh) | admin | peribit | 
+| Juniper (ssh) | netscreen | netscreen | 
+| Juniper (ssh) | redline | redline | 
+| Juniper (ssh) | serial# | serial# | 
+| Konica Minolta (web)  |  | 0000 | 
+| Konica Minolta (web)  |  | 1234 | 
+| Konica Minolta (web)  |  |  | 
+| Konica Minolta (web)  |  | MagiMFP | 
+| Konica Minolta (web)  |  | sysAdmin | 
+| Konica Minolta (web)  | <N/A> | 0 | 
+| Konica Minolta (web)  | <N/A> | sysadm | 
+| Konica Minolta (web)  | admin | administrator | 
+| Kronos | SuperUser | kronites | 
+| McAfee | admin | admin123 | 
+| McAfee | scmadmin | scmchangeme | 
+| McAfee | webshield | webshieldchangeme | 
+| Mitel | <N/A> |  | 
+| Mitel Networks | 1nstaller | 5X2000 | 
+| Mitel Networks | installer | sx2000 | 
+| Mitel Networks | maint1 | sx2000 | 
+| Mitel Networks | maint2 | sx2000 | 
+| Mitel Networks | s1stem | 5X2000 | 
+| Mitel Networks | system | sx2000 | 
+| Mitel | installer | 1000 | 
+| Mitel | system | mnet | 
+| Mitel | system | password | 
+| RedHat (ssh) |  | AMIAMI | 
+| RedHat (ssh) |  | AMIDECOD | 
+| RedHat (ssh) | admin | admin | 
+| RedHat (ssh) | piranha | piranha | 
+| RedHat (ssh) | piranha | q | 
+| SAP (web) | Administrator | manage | 
+| SAP (web) | DDIC | 19920706 | 
+| SAP (web) | Developer | isdev | 
+| SAP (web) | EARLYWATCH | SUPPORT | 
+| SAP (web) | Replicator | iscopy | 
+| SAP (web) | SAP* | 06071992 | 
+| SAP (web) | SAP* | 7061992 | 
+| SAP (web) | SAP* | PASS | 
+| SAP (web) | SAPCPIC | ADMIN | 
+| SAP (web) | SAPCPIC | admin | 
+| SAP (web) | SAPR3 | SAP | 
+| SAP (web) | TMSADM | <BLANK> | 
+| SAP (web) | admin | axis2 | 
+| SAP (web) client EARLYWATCH | admin | Support | 
+| SAP (web) | ctb_admin | sap123 | 
+| SAP (web) | itsadmin | init | 
+| SAP (web) | xmi_demo | sap123 | 
+| Symantec |    |  symantec |  
+| Symantec |  <N/A> |  symantec |  
+| Symantec |  admin |    |  
+| Symantec |  admin |  symantec |  
+| Symantec |  root |  brightmail |  
+| Trend Micro |  admin |  admin |  
+| Trend Micro |  admin |  imsa7.0 |  
+| Trend Micro |  root |  trendimsa1.0 |  
+| TrendMicro |  admin |  imss7.0 |  
 | movistar (ssh) | admin | admin | 
 | movistar (ssh) | 1234 | 1234 | 
 | netsys (ssh) | admin | admin | 
+| XAMPP (web) | newuser | wampp |
+| Zebra |  admin |  1234 |  
+| zoom | admin | zoomadsl |
 | technicolor (ssh) | admin | admin | 
 | ubiquiti (ssh) | admin | admin | 
 | ubiquiti (ssh) | root | ubnt | 
@@ -181,22 +256,22 @@ If you cannot find the password for a specific product, please submit a pull req
 | jvc (web) |  admin | jvc |
 | sentry360 (web) |  admin | 1234 |
 | stardot (web) |  admin | admin |
-| db2 (Databse) | ADONIS | BPMS | 
-| db2 (Databse) | db2inst1 | db2inst1 |
-| db2 (Databse) | db2inst1 | db2pass |
-| db2 (Databse) | db2inst1 | db2pw |
-| db2 (Databse) | db2inst1 | db2password |
-| db2 (Databse) | dasusr1 | dasusr1 |
-| db2 (Databse) | db2fenc1 | db2fenc1 |
-| db2 (Databse) | db2admin | db2admin |
-| postgres (Databse) | dcmadmin | passw0rd |
-| postgres (Databse) | postgres | amber |
-| postgres (Databse) | postgres | postgres |
-| postgres (Databse) | postgres | password |
-| postgres (Databse) | postgres | admin |
-| postgres (Databse) | admin | admin |
-| postgres (Databse) | admin | password |
-| postgres (Databse) | postgres | 123 |
+| db2 (db2) | ADONIS | BPMS | 
+| db2 (db2) | db2inst1 | db2inst1 |
+| db2 (db2) | db2inst1 | db2pass |
+| db2 (db2) | db2inst1 | db2pw |
+| db2 (db2) | db2inst1 | db2password |
+| db2 (db2) | dasusr1 | dasusr1 |
+| db2 (db2) | db2fenc1 | db2fenc1 |
+| db2 (db2) | db2admin | db2admin |
+| postgres (postgres) | dcmadmin | passw0rd |
+| postgres (postgres) | postgres | amber |
+| postgres (postgres) | postgres | postgres |
+| postgres (postgres) | postgres | password |
+| postgres (postgres) | postgres | admin |
+| postgres (postgres) | admin | admin |
+| postgres (postgres) | admin | password |
+| postgres (postgres) | postgres | 123 |
 | DELL IDARC (web) | root | calvin |
 | Zyxel NWA/NAP/WAC wireless access point series (ftp) |  devicehaecived | 1234 |
 | ftp (ftp) |  anonymous | None |
@@ -457,7 +532,81 @@ If you cannot find the password for a specific product, please submit a pull req
 | JasperReports (web) |  jasperadmin | jasperadmin |
 | JasperReports (web) |  jasperadmin | bitnami |
 | Nortel Integrated Call Director (web) |  admin | admin |
-| Elasticsearch (http) |   |  |
+| Elasticsearch (web) |   |  |
+| elasticsearch (web) | elastic  | changeme  |
+| vnc (vnc) | | 123456 |
+| vnc (vnc) | | FELDTECH_VNC |
+| vnc (vnc) | | vnc_pcc |
+| vnc (vnc) | | elux |
+| vnc (vnc) | | Passwort |
+| vnc (vnc) | | visam |
+| vnc (vnc) | | password |
+| vnc (vnc) | | Amx1234! |
+| vnc (vnc) | | 1988 |
+| vnc (vnc) | | admin |
+| vnc (vnc) | | Vision2 |
+| vnc (vnc) | | ADMIN |
+| vnc (vnc) | | TOUCHLON |
+| vnc (vnc) | | EltakoFVS |
+| vnc (vnc) | | Wyse#123 |
+| vnc (vnc) | | muster |
+| vnc (vnc) | | passwd11 |
+| vnc (vnc) | | qwasyx21 |
+| vnc (vnc) | | Administrator |
+| vnc (vnc) | | ripnas |
+| vnc (vnc) | | eyevis |
+| vnc (vnc) | | fidel123 |
+| vnc (vnc) | | Admin#1 |
+| vnc (vnc) | | default |
+| vnc (vnc) | | sigmatek |
+| vnc (vnc) | | hapero |
+| vnc (vnc) | | 1234 |
+| vnc (vnc) | | pass |
+| vnc (vnc) | | raspberry |
+| vnc (vnc) | | user |
+| vnc (vnc) | | solarfocus |
+| vnc (vnc) | | AVStumpfl |
+| vnc (vnc) | | m9ff.QW |
+| vnc (vnc) | | maryland-dstar |
+| vnc (vnc) | | pass1 |
+| vnc (vnc) | | pass2 |
+| vnc (vnc) | | instrument |
+| vnc (vnc) | | beijer |
+| vnc (vnc) | | vnc |
+| vnc (vnc) | | yesco |
+| vnc (vnc) | | protech |
+| vnc (vnc) | | Wyse |
+| Aruba (web) | admin | admin |
+| Avaya  | <BLANK> | Craftr4 | 
+| Avaya  | <N/A> | <BLANK> | 
+| Avaya  | <N/A> | admin | 
+| Avaya  | Administrator | ggdaseuaimhrke | 
+| Avaya  | Craft | crftpw | 
+| Avaya  | admin | admin |
+| Avaya  | admin | admin123 | 
+| Avaya  | admin | barney | 
+| Avaya  | admin | password |
+| Avaya  | craft | <BLANK> | 
+| Avaya  | craft | crftpw | 
+| Avaya  | dadmin | dadmin | 
+| Avaya  | dadmin | dadmin01 | 
+| Avaya  | diag | danger | 
+| Avaya  | manuf | xxyyzz | 
+| Avaya  | root | ROOT500 | 
+| Avaya  | root | cms500 | 
+| Avaya  | root | ggdaseuaimhrke | 
+| Avaya  | root | root |
+| Atlassian | Crowd | password |
+| Atlassian | Demo | password |
+| Atlassian | Username | password |
+| Atlassian | crowd­-openid-­server | password |
+| Adobe  | admin | admin | 
+| Adobe  | anonymous | anonymous | 
+| Adobe  | aparker@geometrixx.info | aparker | 
+| Adobe  | author | author | 
+| Adobe  | jdoe@geometrixx.info | jdoe | 
+| Adobe  | replication-receiver | 
+| Adobe  | vgnadmin | vgnadmin | 
 | Makito Decoder (web) |  admin | %89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01 |
 | Heatmiser Wifi Thermostat (iot) |  admin | admin |
 | Proliphix Thermostat (iot) |  admin | admin |
@@ -478,7 +627,7 @@ If you cannot find the password for a specific product, please submit a pull req
 | Cisco (ssh) |  cisco | cisco |
 | Cisco (ssh) |  pix | cisco |
 | Cisco Aironet (ssh) |  Cisco | Cisco |
-| Raspberry Pi (ssh) |  pi | raspberry |
+| raspberry Pi (ssh) |  pi | raspberry |
 | Apple Jailbroken Device (ssh) |  root | alpine |
 | Apple Jailbroken Device (ssh) |  root | dottie |
 | ssh (ssh) |  root | 7ujMko0admin |
