@@ -26,6 +26,8 @@ One place for all the default credentials to assist the pentester during an enga
 
 #### Contribute
 If you cannot find the password for a specific product, please submit a pull request to update the dataset.<br>
+> #### Disclaimer
+> For educational purposes only, use it at your own responsibility. 
 
 | Product/Vendor   | Username | Password |
 | ---      | ---      | --- |
