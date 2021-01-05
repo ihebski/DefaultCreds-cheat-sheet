@@ -12,10 +12,10 @@ One place for all the default credentials to assist the pentester during an enga
 #### Short stats of the dataset
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 674	| 674	| 674 |
-| **unique** |	191	| 182 |	391 |
-| **top** |	SNMP (snmp)| None | admin |
-| **freq** |	118 |	125 |	70 |
+| **count**	| 3523	| 3150	| 3523 |
+| **unique** |	1073	| 1168 |	1711 |
+| **top** |	Oracle| admin |  |
+| **freq** |	235 |	507 |	422 |
 
 #### Sources
 - [Changeme](https://github.com/ztgrace/changeme "Changeme project")
