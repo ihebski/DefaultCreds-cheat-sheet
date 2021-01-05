@@ -12,7 +12,7 @@ One place for all the default credentials to assist the pentesters during an eng
 ## Motivation
 - One document for the most known vendors default credentials
 - Assist pentesters during a pentest/red teaming engagement
-- **Helping the Red/Blue teamers to secure the company infrastructure by discovering this security flaw and mitigate it**, See 
+- **Helping the Red/Blue teamers to secure the company infrastructure by discovering this security flaw in order to mitigate it**. See 
 [OWASP Guide [WSTG-ATHN-02] - Testing_for_Default_Credentials](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/04-Authentication_Testing/02-Testing_for_Default_Credentials "OWASP Guide")
 
 
