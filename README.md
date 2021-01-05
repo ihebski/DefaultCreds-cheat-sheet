@@ -5,7 +5,7 @@
 
 One place for all the default credentials to assist the pentester during an engagement, this document has a several products default credentials that are gathered from several sources.
 
-> P.S : Most of the credentials are currently extracted from the changeme and routersploit projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
+> P.S : Most of the credentials are currently extracted from the changeme,routersploit and Seclists projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
 
 - [x] Project in progress
 
@@ -21,13 +21,14 @@ One place for all the default credentials to assist the pentester during an enga
 - [Changeme](https://github.com/ztgrace/changeme "Changeme project")
 - [Routersploit]( https://github.com/threat9/routersploit "Routersploit project")
 - [betterdefaultpasslist]( https://github.com/govolution/betterdefaultpasslist "betterdefaultpasslist")
-- [Seclist]( https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials "Seclist project")
+- [Seclists]( https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials "Seclist project")
 - Vendors documentations/blogs
 
 #### Contribute
 If you cannot find the password for a specific product, please submit a pull request to update the dataset.<br>
+
 > #### Disclaimer
-> For educational purposes only, use it at your own responsibility. 
+> **For educational purposes only, use it at your own responsibility.** 
 
 | Product/Vendor   | Username | Password |
 | ---      | ---      | --- |
