@@ -1381,7 +1381,7 @@ If you cannot find the password for a specific product, please submit a pull req
 |JetWay||spooml | 
 |JetWay|<N/A>|spooml | 
 |Jetform|Jetform| | 
-|JioFi|administrator|administrator|
+|JioFi (web)|administrator|administrator|
 |Johnson Controls|johnson|control | 
 |Joss Technology||57gbzb | 
 |Joss Technology||technolgi | 
