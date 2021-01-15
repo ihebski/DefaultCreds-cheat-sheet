@@ -19,10 +19,10 @@ One place for all the default credentials to assist the pentesters during an eng
 #### Short stats of the dataset
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 3524	| 3151	| 3524 |
+| **count**	| 3525	| 3152	| 3525 |
 | **unique** |	1074	| 1168 |	1711 |
 | **top** |	Oracle| admin |  |
-| **freq** |	235 |	507 |	422 |
+| **freq** |	236 |	508 |	422 |
 
 #### Sources
 - [Changeme](https://github.com/ztgrace/changeme "Changeme project")
