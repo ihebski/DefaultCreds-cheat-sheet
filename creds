@@ -3,7 +3,7 @@
 
 '''
 Search for a default credentials using the DefaultCreds-cheat-sheet dataset.
-inspired by whatportis project.
+inspired by @ncrocfer whatportis project.
 '''
 __author__ = "ihebski"
 __version__ = "0.1"
@@ -18,17 +18,22 @@ import csv
 from prettytable import PrettyTable
 import requests
 import fire
+import pathlib
 
-db = TinyDB("DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage))
+
+path = pathlib.Path(__file__).parent
+db = TinyDB(f"{path}/DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage))
 DefaultCreds_CSV_FILE = "https://raw.githubusercontent.com/ihebski/DefaultCreds-cheat-sheet/main/DefaultCreds-Cheat-Sheet.csv"
+
 
 def get_db():
     """
-    This function downloads the DefaultCreds-Cheat-Sheet.csv file and creates a json database.
+    This function downloads the DefaultCreds-Cheat-Sheet.csv file and converted into a json database.
     https://tinydb.readthedocs.io/en/latest/usage.html
     """
     vendor = []
     r = requests.get(DefaultCreds_CSV_FILE).content.decode("utf-8")
+    print("[+] Download database...")
     data = csv.reader(r.splitlines())
     for row in data:
         vendor.append(
@@ -38,9 +43,9 @@ def get_db():
                 "password" : row[2].strip() if row[0] else "-"
             }
         )
-        
     db.purge()
     db.insert_multiple(vendor)
+    db.close()
 
 def print_table(product):
     """
@@ -54,7 +59,6 @@ def print_table(product):
 
     for row in product:
         table.add_row([row.get("product"),row.get("username"),row.get("password")])
-        
     print(table)
 
 def search(keyword):
@@ -63,8 +67,11 @@ def search(keyword):
     :param keyword
     :return table
     """
-    get_db()
-    print_table(db.search(where("product").search(keyword)))
+    if len(db.all()) == 0:
+        get_db()
+        print_table(db.search(where("product").search(keyword)))
+    else:
+        print_table(db.search(where("product").search(keyword)))
 
 if __name__ == "__main__":
     fire.Fire()
