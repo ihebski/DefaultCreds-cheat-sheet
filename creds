@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/python3
+
+'''
+Search for a default credentials using the DefaultCreds-cheat-sheet dataset.
+inspired by whatportis project.
+'''
+__author__ = "ihebski"
+__version__ = "0.1"
+__status__ = "Development"
+__codename__ = 'creds'
+__source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
+
+from tinydb import TinyDB,Query,where
+from tinydb.storages import JSONStorage
+from tinydb.middlewares import CachingMiddleware
+import csv
+from prettytable import PrettyTable
+import requests
+import fire
+
+db = TinyDB("DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage))
+DefaultCreds_CSV_FILE = "https://raw.githubusercontent.com/ihebski/DefaultCreds-cheat-sheet/main/DefaultCreds-Cheat-Sheet.csv"
+
+def get_db():
+    """
+    This function downloads the DefaultCreds-Cheat-Sheet.csv file and creates a json database.
+    https://tinydb.readthedocs.io/en/latest/usage.html
+    """
+    vendor = []
+    r = requests.get(DefaultCreds_CSV_FILE).content.decode("utf-8")
+    data = csv.reader(r.splitlines())
+    for row in data:
+        vendor.append(
+            {
+                "product" : row[0].lower().strip() if row[0] else "-",
+                "username" : row[1].strip() if row[0] else "-",
+                "password" : row[2].strip() if row[0] else "-"
+            }
+        )
+        
+    db.purge()
+    db.insert_multiple(vendor)
+
+def print_table(product):
+    """
+    This function returns a pretty table used to display the results.
+    :param list of searched products
+    https://pypi.org/project/prettytable/
+    """
+    table = PrettyTable(["Product", "username", "password"])
+    table.align["Product"] = "l"
+    table.padding_width = 1
+
+    for row in product:
+        table.add_row([row.get("product"),row.get("username"),row.get("password")])
+        
+    print(table)
+
+def search(keyword):
+    """
+    This function search for a product using like statement
+    :param keyword
+    :return table
+    """
+    get_db()
+    print_table(db.search(where("product").search(keyword)))
+
+if __name__ == "__main__":
+    fire.Fire()
