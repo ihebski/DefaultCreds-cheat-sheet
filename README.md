@@ -20,9 +20,9 @@ One place for all the default credentials to assist the pentesters during an eng
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
 | **count**	| 3525	| 3152	| 3525 |
-| **unique** |	1074	| 1168 |	1711 |
+| **unique** |	1075	| 1169 |	1713 |
 | **top** |	Oracle| admin |  |
-| **freq** |	236 |	508 |	422 |
+| **freq** |	235 |	507 |	422 |
 
 #### Sources
 - [Changeme](https://github.com/ztgrace/changeme "Changeme project")
