@@ -33,7 +33,7 @@ One place for all the default credentials to assist the pentesters during an eng
 #### Creds
 You can turn the cheat sheet into a cli command and perform search queries for a specific product.
 ```bash
-# Useage
+# Usage
 ➤ python3 creds search tomcat                                                                                                      
 +----------------------------------+------------+------------+
 | Product                          |  username  |  password  |
