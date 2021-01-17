@@ -30,6 +30,19 @@ One place for all the default credentials to assist the pentesters during an eng
 - [betterdefaultpasslist]( https://github.com/govolution/betterdefaultpasslist "betterdefaultpasslist")
 - [Seclists]( https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials "Seclist project")
 - Vendors documentations/blogs
+## Creds
+You can use creds on cli to search for a default credentials on a specific product.
+```bash
+# Useage
+➤ python3 creds search tomcat                                                                                                      
++----------------------------------+------------+------------+
+| Product                          |  username  |  password  |
++----------------------------------+------------+------------+
+| apache tomcat (web)              |   tomcat   |   tomcat   |
+| apache tomcat (web)              |   admin    |   admin    |
+...
++----------------------------------+------------+------------+
+```
 
 #### Contribute
 If you cannot find the password for a specific product, please submit a pull request to update the dataset.<br>
