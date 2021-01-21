@@ -43,9 +43,10 @@ def get_db():
                 "password" : row[2].strip() if row[0] else "-"
             }
         )
-    db.purge()
+    db.truncate()
     db.insert_multiple(vendor)
     db.close()
+
 
 def print_table(product):
     """
@@ -60,6 +61,7 @@ def print_table(product):
     for row in product:
         table.add_row([row.get("product"),row.get("username"),row.get("password")])
     print(table)
+
 
 def search(keyword):
     """
