@@ -1,0 +1,5 @@
+tinydb==4.3
+requests
+prettytable
+fire
+pathlib
