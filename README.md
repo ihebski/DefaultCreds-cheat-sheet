@@ -73,6 +73,7 @@ If you cannot find the password for a specific product, please submit a pull req
 | Dlink (web) | 1234 | 1234 | 
 | Dlink (web) | root | 12345 | 
 | Dlink (web) | root | root | 
+| Kali linux (OS) | kali | kali | 
 | F5 | admin | admin | 
 | F5 | root | default | 
 | F5 | support |  | 
