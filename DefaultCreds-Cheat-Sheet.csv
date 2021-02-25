@@ -24,7 +24,18 @@
  Kali linux (OS) , root , toor
  F5 , admin , admin 
  F5 , root , default 
- F5 , support , <BLANK> 
+ F5 , support , <BLANK>
+ Schneider M340(FTP),sysdiag,factorycast@schneider
+ Schneider M340(Web),USER,USER
+ Schneider Premium(FTP),sysdiag,factorycast@schneider
+ Schneider Premium(WEB),USER,USER
+ Siemens S7-1200(Web),admin,,
+ Yealink,admin,admin
+ Snom,admi,,
+ Sonus,admin,Sonus12345
+ Grandstream,admin,admin
+ Asterisk,Admin,admin
+ GarrettCom Magnum Switch(Web),manager,manager
  JioFi,administrator,administrator
  F5-Networks , <N/A> , <BLANK> 
  Barracuda (web) , admin , admin 

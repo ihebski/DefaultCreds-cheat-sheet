@@ -19,7 +19,7 @@ One place for all the default credentials to assist the pentesters during an eng
 #### Short stats of the dataset
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 3525	| 3152	| 3525 |
+| **count**	| 3536	| 3163	| 3536 |
 | **unique** |	1075	| 1169 |	1713 |
 | **top** |	Oracle| admin |  |
 | **freq** |	235 |	507 |	422 |
