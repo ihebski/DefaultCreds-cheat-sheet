@@ -71,9 +71,9 @@ def search(keyword):
     """
     if len(db.all()) == 0:
         get_db()
-        print_table(db.search(where("product").search(keyword)))
+        print_table(db.search(where("product").search(keyword.lower())))
     else:
-        print_table(db.search(where("product").search(keyword)))
+        print_table(db.search(where("product").search(keyword.lower())))
 
 if __name__ == "__main__":
     fire.Fire()
