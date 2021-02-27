@@ -29,6 +29,7 @@ One place for all the default credentials to assist the pentesters during an eng
 - [Routersploit]( https://github.com/threat9/routersploit "Routersploit project")
 - [betterdefaultpasslist]( https://github.com/govolution/betterdefaultpasslist "betterdefaultpasslist")
 - [Seclists]( https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials "Seclist project")
+- [ics-default-passwords](https://github.com/arnaudsoullie/ics-default-passwords) (thanks to @noraj)
 - Vendors documentations/blogs
 #### Creds script
 You can turn the cheat sheet into a cli command and perform search queries for a specific product.
