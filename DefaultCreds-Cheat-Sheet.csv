@@ -1,3 +1,4 @@
+Product/Vendor,Username,Password
 "2Wire,Inc.",http,<blank>
 2wire (ssh),admin,admin
 360 Systems,factory,factory
@@ -2311,7 +2312,6 @@ Prime,system,prime
 Prime,system,system
 Prime,tele,tele
 Prime,test,test
-Product/Vendor,Username,Password
 Prolink,admin,password
 Proliphix Thermostat (iot),admin,admin
 Promise,admin,admin
