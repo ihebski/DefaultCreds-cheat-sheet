@@ -1,6 +1,6 @@
 Product/Vendor   , Username , Password 
  Zyxel (ssh)   , zyfwp , PrOw!aN_fXp 
- APC UPS (web) , apc , apc 
+ APC UPS (web) , apc , apc
  Weblogic (web) , system , manager 
  Weblogic (web) ,  system , manager 
  Weblogic (web) ,  weblogic , weblogic1 
@@ -405,7 +405,7 @@ Atlantis,admin,atlantis
 Atlassian,Crowd,password 
 Atlassian,Demo,password 
 Atlassian,Username,password 
-Atlassian,crowd­-openid-­server,password 
+Atlassian,crowd-openid-server,password 
 Attachmate,,PASSWORD 
 Audioactive,,telos 
 Autodesk,autocad,autocad 
@@ -2766,7 +2766,7 @@ Watchguard,user,pass
 Web Wiz,Administrator,letmein 
 Webmin,admin,hp.com 
 Webramp,wradmin,trancell 
-Weidm�eller,admin,detmond 
+Weidmüller,admin,detmond 
 Westell,CSG,SESAME 
 Westell,admin, 
 Westell,admin,password 
@@ -3433,7 +3433,7 @@ zoom,admin,zoomadsl
  Atlassian , Crowd , password 
  Atlassian , Demo , password 
  Atlassian , Username , password 
- Atlassian , crowd­-openid-­server , password 
+ Atlassian , crowd-openid-server , password 
  Adobe  , admin , admin 
  Adobe  , anonymous , anonymous 
  Adobe  , aparker@geometrixx.info , aparker 
