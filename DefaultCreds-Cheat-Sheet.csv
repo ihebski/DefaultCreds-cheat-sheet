@@ -29,9 +29,9 @@
  Schneider M340(Web),USER,USER
  Schneider Premium(FTP),sysdiag,factorycast@schneider
  Schneider Premium(WEB),USER,USER
- Siemens S7-1200(Web),admin,,
+ Siemens S7-1200(Web),admin,
  Yealink,admin,admin
- Snom,admi,,
+ Snom,admi,
  Sonus,admin,Sonus12345
  Grandstream,admin,admin
  Asterisk,Admin,admin
