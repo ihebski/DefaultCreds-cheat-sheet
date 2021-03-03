@@ -24,20 +24,20 @@ Kali linux (OS),kali,kali
 Kali linux (OS),root,toor
 F5,admin,admin
 F5,root,default
-F5,support,<BLANK>
+F5,support,<blank>
 Schneider M340(FTP),sysdiag,factorycast@schneider
 Schneider M340(Web),USER,USER
 Schneider Premium(FTP),sysdiag,factorycast@schneider
 Schneider Premium(WEB),USER,USER
-Siemens S7-1200(Web),admin,
+Siemens S7-1200(Web),admin,<blank>
 Yealink,admin,admin
-Snom,admi,
+Snom,admi,<blank>
 Sonus,admin,Sonus12345
 Grandstream,admin,admin
 Asterisk,Admin,admin
 GarrettCom Magnum Switch(Web),manager,manager
 JioFi,administrator,administrator
-F5-Networks,<N/A>,<BLANK>
+F5-Networks,<blank>,<blank>
 Barracuda (web),admin,admin
 Barracuda (web),ssladmin,ssladmin
 Checkpoint (web),admin,admin
@@ -45,7 +45,7 @@ Checkpoint (web),admin,abc123
 Citrix Systems (web),nsroot,nsroot
 Citrix Systems (web),root,rootadmin
 Pfsense (web),admin,pfsense
-fortinet (web),admin,
+fortinet (web),admin,<blank>
 fortinet (web),maintainer,bcpb+serial#
 fortinet (web),maintainer,admin
 comtrend (ssh),admin,admin
@@ -62,7 +62,7 @@ Apache Tomcat (web),ADMIN,ADMIN
 Apache Tomcat (web),xampp,xampp
 Apache Tomcat (web),tomcat,s3cret
 Apache Tomcat (web),QCC,QLogic66
-Apache Tomcat (web),admin,None
+Apache Tomcat (web),admin,<blank>
 Apache Tomcat (web),admin,tomcat
 Apache Tomcat (web),root,root
 Apache Tomcat (web),role1,role1
@@ -78,7 +78,7 @@ zte (ssh),root,Zte521
 zte (ssh),root,W!n0&oO7.
 netgar (ssh),admin,admin
 netgar (ssh),admin,1234
-netgar (ssh),admin,
+netgar (ssh),admin,<blank>
 2wire (ssh),admin,admin
 asmax (ssh),admin,admin
 asmax (ssh),support,support
@@ -86,35 +86,35 @@ asmax (ssh),user,user
 bhu (ssh),admin,admin
 ipfire (ssh),admin,admin
 ipfire (ssh),root,admin
-ipfire (ssh),admin,
+ipfire (ssh),admin,<blank>
 linksys (ssh),admin,admin
 linksys (ssh),admin,password
 linksys (ssh),root,admin
-linksys (ssh),linksys,
+linksys (ssh),linksys,<blank>
 netcore (ssh),admin,admin
 netcore (ssh),guest,guest
-"2Wire,Inc.",http,
+"2Wire,Inc.",http,<blank>
 360 Systems,factory,factory
 3COM,3comcso,RIP000
-3COM,,12345
-3COM,,1234admin
-3COM,,
-3COM,,ANYCOM
-3COM,,ILMI
-3COM,,PASSWORD
-3COM,,admin
-3COM,,comcomcom
-3COM,<N/A>,
-3COM,<N/A>,PASSWORD
-3COM,<N/A>,admin
+3COM,<blank>,12345
+3COM,<blank>,1234admin
+3COM,<blank>,<blank>
+3COM,<blank>,ANYCOM
+3COM,<blank>,ILMI
+3COM,<blank>,PASSWORD
+3COM,<blank>,admin
+3COM,<blank>,comcomcom
+3COM,<blank>,<blank>
+3COM,<blank>,PASSWORD
+3COM,<blank>,admin
 3COM,Admin,Admin
-3COM,Administrator,
+3COM,Administrator,<blank>
 3COM,Administrator,admin
-3COM,Type User: FORCE,
+3COM,Type User: FORCE,<blank>
 3COM,User,Password
-3COM,adm,
+3COM,adm,<blank>
 3COM,admin,1234admin
-3COM,admin,
+3COM,admin,<blank>
 3COM,admin,admin
 3COM,admin,comcomcom
 3COM,admin,password
@@ -124,70 +124,70 @@ netcore (ssh),guest,guest
 3COM,defug,synnet
 3COM,manager,manager
 3COM,monitor,monitor
-3COM,none,admin
+3COM,<blank>,admin
 3COM,read,synnet
 3COM,recover,recover
 3COM,recovery,recovery
 3COM,root,!root
 3COM,security,security
-3COM,tech,
+3COM,tech,<blank>
 3COM,tech,tech
 3COM,write,synnet
-3M,VOL-0215,
-3M,volition,
+3M,VOL-0215,<blank>
+3M,volition,<blank>
 3M,volition,volition
 3ware,Administrator,3ware
-ACCTON,,0000
+ACCTON,<blank>,0000
 ACCTON,__super,(caclulated)
-ACCTON,admin,
+ACCTON,admin,<blank>
 ACCTON,manager,manager
 ACCTON,monitor,monitor
-ACCTON,none,0
-ADC Kentrox,,secret
-ADC Kentrox,<N/A>,secret
+ACCTON,<blank>,0
+ADC Kentrox,<blank>,secret
+ADC Kentrox,<blank>,secret
 ADIC,admin,password
 ADIC,admin,secure
 ADP,sysadmin,master
-ADT,,2580
+ADT,<blank>,2580
 ADTRAN,admin,password
 AIRAYA Corp,Airaya,Airaya
 ALLNET,admin,admin
 ALLNET,admin,password
-ALLNET,none,admin
-AMI,,A.M.I
-AMI,,AM
-AMI,,AMI
-AMI,,AMI!SW
-AMI,,AMI.KEY
-AMI,,AMI.KEZ
-AMI,,AMI?SW
-AMI,,AMIPSWD
-AMI,,AMISETUP
-AMI,,AMI_SW
-AMI,,AMI~
-AMI,,BIOSPASS
-AMI,,CMOSPWD
-AMI,,HEWITT RAND
-AMI,,aammii
-AMI,<N/A>,A.M.I
-AMI,<N/A>,AM
-AMI,<N/A>,AMI
-AMI,<N/A>,AMI!SW
-AMI,<N/A>,AMI.KEY
-AMI,<N/A>,AMI.KEZ
-AMI,<N/A>,AMI?SW
-AMI,<N/A>,AMIAMI
-AMI,<N/A>,AMIDECOD
-AMI,<N/A>,AMIPSWD
-AMI,<N/A>,AMISETUP
-AMI,<N/A>,AMI_SW
-AMI,<N/A>,AMI~
-AMI,<N/A>,BIOSPASS
-AMI,<N/A>,HEWITT RAND
-AMI,<N/A>,aammii
-AMX,,1988
-AMX,,
-AMX,,admin
+ALLNET,<blank>,admin
+AMI,<blank>,A.M.I
+AMI,<blank>,AM
+AMI,<blank>,AMI
+AMI,<blank>,AMI!SW
+AMI,<blank>,AMI.KEY
+AMI,<blank>,AMI.KEZ
+AMI,<blank>,AMI?SW
+AMI,<blank>,AMIPSWD
+AMI,<blank>,AMISETUP
+AMI,<blank>,AMI_SW
+AMI,<blank>,AMI~
+AMI,<blank>,BIOSPASS
+AMI,<blank>,CMOSPWD
+AMI,<blank>,HEWITT RAND
+AMI,<blank>,aammii
+AMI,<blank>,A.M.I
+AMI,<blank>,AM
+AMI,<blank>,AMI
+AMI,<blank>,AMI!SW
+AMI,<blank>,AMI.KEY
+AMI,<blank>,AMI.KEZ
+AMI,<blank>,AMI?SW
+AMI,<blank>,AMIAMI
+AMI,<blank>,AMIDECOD
+AMI,<blank>,AMIPSWD
+AMI,<blank>,AMISETUP
+AMI,<blank>,AMI_SW
+AMI,<blank>,AMI~
+AMI,<blank>,BIOSPASS
+AMI,<blank>,HEWITT RAND
+AMI,<blank>,aammii
+AMX,<blank>,1988
+AMX,<blank>,<blank>
+AMX,<blank>,admin
 AMX,Admin,1988
 AMX,Administrator,vision2
 AMX,NetLinx,password
@@ -196,86 +196,86 @@ AMX,admin,admin
 AMX,administrator,password
 AMX,guest,guest
 AMX,root,mozart
-AOC,<N/A>,admin
+AOC,<blank>,admin
 APACHE,admin,jboss4
 APC,(any),TENmanUFactOryPOWER
-APC,,serial number of the Call-UPS
-APC,,serial number of the Share-UPS
-APC,<N/A>,TENmanUFactOryPOWER
-APC,<N/A>,backdoor
+APC,<blank>,serial number of the Call-UPS
+APC,<blank>,serial number of the Share-UPS
+APC,<blank>,TENmanUFactOryPOWER
+APC,<blank>,backdoor
 APC,POWERCHUTE,APC
 APC,apc,apc
 APC,device,apc
 APC,device,device
 APC,readonly,apc
-ARtem,,admin
+ARtem,<blank>,admin
 ASMAX,admin,epicrouter
-AST,,SnuFG5
-AST,<N/A>,SnuFG5
-AT&T,<N/A>,mcp
+AST,<blank>,SnuFG5
+AST,<blank>,SnuFG5
+AT&T,<blank>,mcp
 ATL,Service,5678
 ATL,operator,1234
-AVM,<N/A>,0
-AVM,<N/A>,<N/A>
-AWARD,,1322222
-AWARD,,256256
-AWARD,,589589
-AWARD,,589721
-AWARD,,
-AWARD,,?award
-AWARD,,AWARD SW
-AWARD,,AWARD?SW
-AWARD,,AWARD_PW
-AWARD,,AWARD_SW
-AWARD,,Award
-AWARD,,BIOS
-AWARD,,CONCAT
-AWARD,,HELGA-S
-AWARD,,HEWITT RAND
-AWARD,,HLT
-AWARD,,PASSWORD
-AWARD,,SER
-AWARD,,SKY_FOX
-AWARD,,SWITCHES_SW
-AWARD,,SW_AWARD
-AWARD,,SZYX
-AWARD,,Sxyz
-AWARD,,TTPTHA
-AWARD,,TzqF
-AWARD,,ZAAADA
-AWARD,,aLLy
-AWARD,,aPAf
-AWARD,,admin
-AWARD,,alfarome
-AWARD,,award.sw
-AWARD,,award_?
-AWARD,,award_ps
-AWARD,,awkward
-AWARD,,biosstar
-AWARD,,biostar
-AWARD,,condo
-AWARD,,djonet
-AWARD,,efmukl
-AWARD,,g6PJ
-AWARD,,h6BB
-AWARD,,j09F
-AWARD,,j256
-AWARD,,j262
-AWARD,,j322
-AWARD,,j64
-AWARD,,lkw peter
-AWARD,,lkwpeter
-AWARD,,setup
-AWARD,,t0ch20x
-AWARD,,t0ch88
-AWARD,,wodj
-AWARD,,zbaaaca
-AWARD,,zjaaadc
-AXUS,<N/A>,0
+AVM,<blank>,0
+AVM,<blank>,<blank>
+AWARD,<blank>,1322222
+AWARD,<blank>,256256
+AWARD,<blank>,589589
+AWARD,<blank>,589721
+AWARD,<blank>,<blank>
+AWARD,<blank>,?award
+AWARD,<blank>,AWARD SW
+AWARD,<blank>,AWARD?SW
+AWARD,<blank>,AWARD_PW
+AWARD,<blank>,AWARD_SW
+AWARD,<blank>,Award
+AWARD,<blank>,BIOS
+AWARD,<blank>,CONCAT
+AWARD,<blank>,HELGA-S
+AWARD,<blank>,HEWITT RAND
+AWARD,<blank>,HLT
+AWARD,<blank>,PASSWORD
+AWARD,<blank>,SER
+AWARD,<blank>,SKY_FOX
+AWARD,<blank>,SWITCHES_SW
+AWARD,<blank>,SW_AWARD
+AWARD,<blank>,SZYX
+AWARD,<blank>,Sxyz
+AWARD,<blank>,TTPTHA
+AWARD,<blank>,TzqF
+AWARD,<blank>,ZAAADA
+AWARD,<blank>,aLLy
+AWARD,<blank>,aPAf
+AWARD,<blank>,admin
+AWARD,<blank>,alfarome
+AWARD,<blank>,award.sw
+AWARD,<blank>,award_?
+AWARD,<blank>,award_ps
+AWARD,<blank>,awkward
+AWARD,<blank>,biosstar
+AWARD,<blank>,biostar
+AWARD,<blank>,condo
+AWARD,<blank>,djonet
+AWARD,<blank>,efmukl
+AWARD,<blank>,g6PJ
+AWARD,<blank>,h6BB
+AWARD,<blank>,j09F
+AWARD,<blank>,j256
+AWARD,<blank>,j262
+AWARD,<blank>,j322
+AWARD,<blank>,j64
+AWARD,<blank>,lkw peter
+AWARD,<blank>,lkwpeter
+AWARD,<blank>,setup
+AWARD,<blank>,t0ch20x
+AWARD,<blank>,t0ch88
+AWARD,<blank>,wodj
+AWARD,<blank>,zbaaaca
+AWARD,<blank>,zjaaadc
+AXUS,<blank>,0
 Accelerated Networks,sysadm,anicust
-Aceex,admin,
-Acer,,
-Actiontec,,
+Aceex,admin,<blank>
+Acer,<blank>,<blank>
+Actiontec,<blank>,<blank>
 Actiontec,admin,password
 AdComplete.com,Admin1,Admin1
 Adaptec,Administrator,adaptec
@@ -289,21 +289,21 @@ Adobe,jdoe@geometrixx.info,jdoe
 Adobe,replication-receiver,replication-receiver
 Adobe,vgnadmin,vgnadmin
 Adtech,root,ax400
-Adtran,,adtran
+Adtran,<blank>,adtran
 Adtran,admin,password
-Advanced Integration,,Advance
-Advanced Integration,<N/A>,Advance
-Advantek Networks,admin,
+Advanced Integration,<blank>,Advance
+Advanced Integration,<blank>,Advance
+Advantek Networks,admin,<blank>
 Aethra,admin,password
-AirLink Plus,,admin
+AirLink Plus,<blank>,admin
 AirTies RT-210,admin,admin
-Airlink,,admin
-Aironet,,
-Airway,,0000
+Airlink,<blank>,admin
+Aironet,<blank>,<blank>
+Airway,<blank>,0000
 Aladdin,root,kn1TG7psLu
-Alcatel,,
-Alcatel,,admin
-Alcatel,<N/A>,1064
+Alcatel,<blank>,<blank>
+Alcatel,<blank>,admin
+Alcatel,<blank>,1064
 Alcatel,SUPERUSER,ANS#150
 Alcatel Thomson,admin,admin
 Alcatel,adfexc,adfexc
@@ -321,40 +321,40 @@ Alcatel,halt,tlah
 Alcatel,install,llatsni
 Alcatel,kermit,kermit
 Alcatel,mtch,mtch
-Alcatel,mtcl,
+Alcatel,mtcl,<blank>
 Alcatel,mtcl,mtcl
 Alcatel,root,letacla
 Alcatel,root,permit
 Alcatel,superuser,superuser
 Alien Technology,alien,alien
 Alien Technology,root,alien
-Allied Telesyn,,manager
-Allied Telesyn,<N/A>,admin
-Allied Telesyn,admin,
+Allied Telesyn,<blank>,manager
+Allied Telesyn,<blank>,admin
+Allied Telesyn,admin,<blank>
 Allied Telesyn,manager,admin
 Allied Telesyn,manager,friend
 Allied Telesyn,manager,manager
-Allied Telesyn,root,
+Allied Telesyn,root,<blank>
 Allied Telesyn,secoff,secoff
 Allnet,admin,admin
 Allot,admin,allot
 Allot,root,bagabu
-Alteon,admin,
+Alteon,admin,<blank>
 Alteon,admin,admin
 Alteon,admin,linga
-Ambit,root,
+Ambit,root,<blank>
 Ambit,root,root
 Ambit,user,user
 Amigo,admin,epicrouter
-Amino,,leaves
-Amino,,snake
+Amino,<blank>,leaves
+Amino,<blank>,snake
 Amitech,admin,admin
 AmpJuke,admin,pass
-Amptron,,Polrty
-Amptron,<N/A>,Polrty
+Amptron,<blank>,Polrty
+Amptron,<blank>,Polrty
 Andover Controls,acc,acc
-Apache Project,jj,
-Apache,admin,
+Apache Project,jj,<blank>
+Apache,admin,<blank>
 Apache,admin,admin
 Apache,admin,j5Brn9
 Apache,admin,tomcat
@@ -366,39 +366,39 @@ Apache,root,changethis
 Apache,root,root
 Apache,tomcat,changethis
 Apache,tomcat,tomcat
-Apple,,public
-Apple,,xyzzy
-Apple,<N/A>,admin
-Apple,<N/A>,password
-Apple Computer,,public
-Apple Computer,,xyzzy
+Apple,<blank>,public
+Apple,<blank>,xyzzy
+Apple,<blank>,admin
+Apple,<blank>,password
+Apple Computer,<blank>,public
+Apple Computer,<blank>,xyzzy
 Apple,admin,public
 Apple,mobile,dottie
 Apple,root,admin
 Apple,root,alpine
 Applied Innovations,scout,scout
 Areca,admin,0
-Arescom,<N/A>,atc123
+Arescom,<blank>,atc123
 Arlotto,admin,123456
 Arris,admin,password
-Arrowpoint,,
+Arrowpoint,<blank>,<blank>
 Arrowpoint,admin,system
 Aruba,admin,admin
 Arun,123,234
 Asante,IntraStack,Asante
 Asante,IntraSwitch,Asante
 Asante,admin,asante
-Asante,superuser,
+Asante,superuser,<blank>
 Asante,superuser,asante
-Ascend,,ascend
-Ascend,<N/A>,ascend
+Ascend,<blank>,ascend
+Ascend,<blank>,ascend
 Ascend,readonly,lucenttech2
 Ascend,readwrite,lucenttech1
 Ascend,root,ascend
-Ascom,,3ascotel
+Ascom,<blank>,3ascotel
 Aspect,DTA,TJM
-Aspect,customer,none
-Asus,<N/A>,admin
+Aspect,customer,<blank>
+Asus,<blank>,admin
 Asus,admin,admin
 Asus,adsl,adsl1234
 Atlantis,admin,atlantis
@@ -406,19 +406,19 @@ Atlassian,Crowd,password
 Atlassian,Demo,password
 Atlassian,Username,password
 Atlassian,crowd-openid-server,password
-Attachmate,,PASSWORD
-Audioactive,,telos
+Attachmate,<blank>,PASSWORD
+Audioactive,<blank>,telos
 Autodesk,autocad,autocad
-Avaya,,Craftr4
-Avaya,<N/A>,
-Avaya,<N/A>,admin
+Avaya,<blank>,Craftr4
+Avaya,<blank>,<blank>
+Avaya,<blank>,admin
 Avaya,Administrator,ggdaseuaimhrke
 Avaya,Craft,crftpw
 Avaya,admin,admin
 Avaya,admin,admin123
 Avaya,admin,barney
 Avaya,admin,password
-Avaya,craft,
+Avaya,craft,<blank>
 Avaya,craft,crftpw
 Avaya,dadmin,dadmin
 Avaya,dadmin,dadmin01
@@ -428,58 +428,58 @@ Avaya,root,ROOT500
 Avaya,root,cms500
 Avaya,root,ggdaseuaimhrke
 Avaya,root,root
-Avenger News System (ANS),,Administrative
+Avenger News System (ANS),<blank>,Administrative
 Avocent,root,tslinux
-Award,,lkwpeter
-Award,<N/A>,1322222
-Award,<N/A>,256256
-Award,<N/A>,?award
-Award,<N/A>,AWARD_SW
-Award,<N/A>,BIOS
-Award,<N/A>,CONCAT
-Award,<N/A>,CONDO
-Award,<N/A>,HELGA-S
-Award,<N/A>,HEWITT RAND
-Award,<N/A>,HLT
-Award,<N/A>,PASSWORD
-Award,<N/A>,SER
-Award,<N/A>,SKY_FOX
-Award,<N/A>,SWITCHES_SW
-Award,<N/A>,SY_MB
-Award,<N/A>,SZYX
-Award,<N/A>,Sxyz
-Award,<N/A>,TTPTHA
-Award,<N/A>,TzqF
-Award,<N/A>,aLLy
-Award,<N/A>,aPAf
-Award,<N/A>,admin
-Award,<N/A>,alfarome
-Award,<N/A>,award
-Award,<N/A>,awkward
-Award,<N/A>,biosstar
-Award,<N/A>,biostar
-Award,<N/A>,g6PJ
-Award,<N/A>,h6BB
-Award,<N/A>,j09F
-Award,<N/A>,j256
-Award,<N/A>,j262
-Award,<N/A>,j322
-Award,<N/A>,j64
-Award,<N/A>,lkw peter
-Award,<N/A>,lkwpeter
-Award,<N/A>,setup
-Award,<N/A>,t0ch20x
-Award,<N/A>,t0ch88
-Award,<N/A>,wodj
-Award,<N/A>,zbaaaca
-Axis,<N/A>,
+Award,<blank>,lkwpeter
+Award,<blank>,1322222
+Award,<blank>,256256
+Award,<blank>,?award
+Award,<blank>,AWARD_SW
+Award,<blank>,BIOS
+Award,<blank>,CONCAT
+Award,<blank>,CONDO
+Award,<blank>,HELGA-S
+Award,<blank>,HEWITT RAND
+Award,<blank>,HLT
+Award,<blank>,PASSWORD
+Award,<blank>,SER
+Award,<blank>,SKY_FOX
+Award,<blank>,SWITCHES_SW
+Award,<blank>,SY_MB
+Award,<blank>,SZYX
+Award,<blank>,Sxyz
+Award,<blank>,TTPTHA
+Award,<blank>,TzqF
+Award,<blank>,aLLy
+Award,<blank>,aPAf
+Award,<blank>,admin
+Award,<blank>,alfarome
+Award,<blank>,award
+Award,<blank>,awkward
+Award,<blank>,biosstar
+Award,<blank>,biostar
+Award,<blank>,g6PJ
+Award,<blank>,h6BB
+Award,<blank>,j09F
+Award,<blank>,j256
+Award,<blank>,j262
+Award,<blank>,j322
+Award,<blank>,j64
+Award,<blank>,lkw peter
+Award,<blank>,lkwpeter
+Award,<blank>,setup
+Award,<blank>,t0ch20x
+Award,<blank>,t0ch88
+Award,<blank>,wodj
+Award,<blank>,zbaaaca
+Axis,<blank>,<blank>
 Axis Communications,root,pass
 Axis,root,pass
 Axway,setup,setup
 Aztech,admin,admin
 Aztech,isp,isp
 Aztech,root,admin
-BBR-4MG and,root,<N/A>
+BBR-4MG and,root,<blank>
 BEA,system,weblogic
 BECU,musi1921,Musii%1921
 BLACKBOX,Administrator,public
@@ -488,38 +488,38 @@ BMC Software,Best1_User,BackupU$r
 BMC,patrol,patrol
 BNI,USER,USER
 BT,admin,admin
-"Barco,Inc.",,clickshare
+"Barco,Inc.",<blank>,clickshare
 "Barco,Inc.",admin,admin
 Barracuda,admin,admin
 Barracuda,ssladmin,ssladmin
 Bausch Datacom,admin,epicrouter
-Bay Networks,,NetICs
-Bay Networks,<N/A>,NetICs
-Bay Networks,Manager,
-Bay Networks,User,
+Bay Networks,<blank>,NetICs
+Bay Networks,<blank>,NetICs
+Bay Networks,Manager,<blank>
+Bay Networks,User,<blank>
 Bay Networks,security,security
 Beetel,admin,admin
 Beetel,admin,password
-Belkin,,MiniAP
-Belkin,<N/A>,admin
-Belkin,admin,none
+Belkin,<blank>,MiniAP
+Belkin,<blank>,admin
+Belkin,admin,<blank>
 Benq,admin,admin
 Best Practical Solutions,root,password
 BestPractical,root,password
 Bewan,bewan,bewan
-Billion,,
+Billion,<blank>,<blank>
 Billion,admin,admin
-BinTec,<N/A>,snmp-Trap
+BinTec,<blank>,snmp-Trap
 BinTec,Admin,No
 BinTec,admin,bintec
 Bintec,admin,bintec
 Bintec,admin,funkwerk
-Biodata,,Babylon
+Biodata,<blank>,Babylon
 Biodata,config,biodata
-Biostar,,Biostar
-Biostar,,Q54arwms
-Biostar,<N/A>,Biostar
-Biostar,<N/A>,Q54arwms
+Biostar,<blank>,Biostar
+Biostar,<blank>,Q54arwms
+Biostar,<blank>,Biostar
+Biostar,<blank>,Q54arwms
 Biscom,admin,admin
 BizDesign,Admin,ImageFolio
 Black Widow Web Design Ltd,admin,nimda
@@ -528,20 +528,20 @@ Blitzz Technologies,admin,admin
 Blue Coat Systems,admin,articon
 Bluecoat,admin,admin
 Bomgar,admin,password
-Borland,,
+Borland,<blank>,<blank>
 Borland,politically,correct
 Bosch,live,live
 Bosch,service,service
 Bosch,user,user
-Breezecom,,
-Breezecom,,Helpdesk
-Breezecom,,Master
-Breezecom,,Super
-Breezecom,,laflaf
-Breezecom,<N/A>,Helpdesk
-Breezecom,<N/A>,Master
-Breezecom,<N/A>,Super
-Breezecom,<N/A>,laflaf
+Breezecom,<blank>,<blank>
+Breezecom,<blank>,Helpdesk
+Breezecom,<blank>,Master
+Breezecom,<blank>,Super
+Breezecom,<blank>,laflaf
+Breezecom,<blank>,Helpdesk
+Breezecom,<blank>,Master
+Breezecom,<blank>,Super
+Breezecom,<blank>,laflaf
 Broadlogic,admin,admin
 Broadlogic,installer,installer
 Broadlogic,webadmin,webadmin
@@ -552,41 +552,41 @@ Brocade,root,Serv4EMC
 Brocade,root,fibranne
 Brocade,root,fivranne
 Brocade,user,password
-Brother,,access
-Brother,<N/A>,access
-Brother Industries Ltd.,,00000000
-Brother Industries Ltd.,,12345678
+Brother,<blank>,access
+Brother,<blank>,access
+Brother Industries Ltd.,<blank>,00000000
+Brother Industries Ltd.,<blank>,12345678
 Brother Industries Ltd.,admin,access
 Brother,admin,access
 Buffalo Technology,admin,password
-Buffalo,root,
-Buffalo/MELCO,root,
+Buffalo,root,<blank>
+Buffalo/MELCO,root,<blank>
 Busybox,admin,admin
 CA Process Automation,pamadmin,pamadmin
-CGI World,,protection
+CGI World,<blank>,protection
 CNET,admin,1234
 CNet,Admin,admin
 COM3,admin,admin
-CTX International,,CTX_123
-CTX International,<N/A>,CTX_123
+CTX International,<blank>,CTX_123
+CTX International,<blank>,CTX_123
 Cable And Wireless,admin,1234
-Cabletron,,
-Cabletron,netman,
+Cabletron,<blank>,<blank>
+Cabletron,netman,<blank>
 Canon/Brother,7654321,7654321
-Canon,<N/A>,0
-Capricorn Infotech India,,1234567890
+Canon,<blank>,0
+Capricorn Infotech India,<blank>,1234567890
 CareStream Health,KeyOperator,DV5800
 CareStream Health,LocalService,DV5800
 Carsten Schmitz,admin,password
-Cayman,<N/A>,
+Cayman,<blank>,<blank>
 Cayman,admin,(serial number)
-Cayman,admin,
-Cayman,},
+Cayman,admin,<blank>
+Cayman,},<blank>
 Celerity,mediator,mediator
 Celerity,root,Mua'dib
 Cellit,cellit,cellit
 Ceragon Networks,root,tooridu
-Chase Research,,iolan
+Chase Research,<blank>,iolan
 Check Point,admin,admin
 Check Point,admin,adminadmin
 Checkpoint,admin,abc123
@@ -594,50 +594,50 @@ Checkpoint,admin,admin
 Chuming Chen,administrator,adminpass
 CipherTrust,admin,password
 Ciphertrust,admin,password
-Cisco,EAdmin,
-Cisco,UAMIS_,
-Cisco,UNITY_,
-Cisco,UOMNI_,
-Cisco,UVPIM_,
-Cisco,,
-Cisco,,Cisco
-Cisco,,Cisco router
-Cisco,,_Cisco
-Cisco,,c
-Cisco,,cc
-Cisco,,changeit
-Cisco,,cisco
-Cisco,,letmein
-Cisco,,public/private/secret
-Cisco,,riverhead
-Cisco,<N/A>,Cisco router
-Cisco,<N/A>,ILMI
-Cisco,<N/A>,c
-Cisco,<N/A>,cable-docsis
-Cisco,<N/A>,cc
-Cisco,<N/A>,cisco
+Cisco,EAdmin,<blank>
+Cisco,UAMIS_,<blank>
+Cisco,UNITY_,<blank>
+Cisco,UOMNI_,<blank>
+Cisco,UVPIM_,<blank>
+Cisco,<blank>,<blank>
+Cisco,<blank>,Cisco
+Cisco,<blank>,Cisco router
+Cisco,<blank>,_Cisco
+Cisco,<blank>,c
+Cisco,<blank>,cc
+Cisco,<blank>,changeit
+Cisco,<blank>,cisco
+Cisco,<blank>,letmein
+Cisco,<blank>,public/private/secret
+Cisco,<blank>,riverhead
+Cisco,<blank>,Cisco router
+Cisco,<blank>,ILMI
+Cisco,<blank>,c
+Cisco,<blank>,cable-docsis
+Cisco,<blank>,cc
+Cisco,<blank>,cisco
 Cisco,Administrator,admin
 Cisco,Administrator,changeme
 Cisco,CISCO15,otbu+1
 Cisco,Cisco,Cisco
-Cisco,ESubscriber,
+Cisco,ESubscriber,<blank>
 Cisco,End User,7936
-Cisco,admin,
+Cisco,admin,<blank>
 Cisco,admin,admin
 Cisco,admin,changeme
 Cisco,admin,cisco
 Cisco,admin,default
 Cisco,admin,diamond
 Cisco,admin,tsunami
-Cisco,bbsd-client,
+Cisco,bbsd-client,<blank>
 Cisco,bbsd-client,changeme2
 Cisco,bubba,(unknown)
-Cisco,cisco,
+Cisco,cisco,<blank>
 Cisco,cisco,cisco
 Cisco,cmaker,cmaker
-Cisco,enable,
+Cisco,enable,<blank>
 Cisco,enable,cisco
-Cisco,guest,
+Cisco,guest,<blank>
 Cisco,hsa,hsadb
 Cisco,hsa,hsadb
 Cisco,netrangr,attack
@@ -645,24 +645,24 @@ Cisco,pnadmin,pnadmin
 Cisco,praisenetwork,perfectpraise
 Cisco,private ReadWrite access,secret
 Cisco,public ReadOnly access,secret
-Cisco,ripeop,
+Cisco,ripeop,<blank>
 Cisco,root,attack
 Cisco,root,Cisco
 Cisco,root,attack
 Cisco,root,blender
 Cisco,root,password
 Cisco,root,secur4u
-Cisco,sa,
+Cisco,sa,<blank>
 Cisco,technician,2 + last 4 of Audio
 Cisco,uwmadmin,password
 Cisco,wlse,wlsedb
 Cisco,wlseuser,wlsepassword
 Cisco-Arrowpoint,admin,system
-Citel,,citel
+Citel,<blank>,citel
 Citel,citel,password
 "Citrix Systems,Inc.",nsroot,nsroot
 "Citrix Systems,Inc.",root,rootadmin
-Claris,,familymacintosh
+Claris,<blank>,familymacintosh
 ClearOne Communications,ClearOne,RAV
 ClearOne Communications,clearone,converge
 Cnet,Admin,epicrouter
@@ -670,17 +670,17 @@ Cnet,admin,password
 Cobalt,admin,admin
 Colubris Networks,admin,admin
 Colubris,admin,admin
-Comcast Home Networking,comcast,
+Comcast Home Networking,comcast,<blank>
 Comcast SMC,cusadmin,highspeed
 Comcast SMC,cusadmin,CantTouchThis
 Comersus,admin,dmr99
 "Comodo Group,Inc",mydlp,mydlp
-Compaq,,
-Compaq,,Compaq
-Compaq,<N/A>,Compaq
+Compaq,<blank>,<blank>
+Compaq,<blank>,Compaq
+Compaq,<blank>,Compaq
 Compaq,PFCUser,240653C9467E45
 Compaq,administrator,administrator
-Compaq,anonymous,
+Compaq,anonymous,<blank>
 Compaq,operator,operator
 Compaq,root,manager
 Compaq,root,rootme
@@ -688,72 +688,72 @@ Compaq,user,public
 Compaq,user,user
 Compualynx,administrator,asecret
 Comtrend,admin,1234
-Comtrend,admin,
+Comtrend,admin,<blank>
 Comtrend,admin,admin
 Conceptronic,admin,1234
 Conceptronic,admin,password
 Conceptronic,anonymous,password
-Concord,,last
-Concord,<N/A>,last
-Conexant,<N/A>,admin
-Conexant,<N/A>,epicrouter
+Concord,<blank>,last
+Concord,<blank>,last
+Conexant,<blank>,admin
+Conexant,<blank>,epicrouter
 Conexant,Administrator,admin
 Conexant,admin,amigosw1
 Conexant,admin,conexant
 Conexant,admin,epicrouter
 Conexant,admin,password
 Conitec,Adam,29111991
-Control4,,ducati900ss
+Control4,<blank>,ducati900ss
 Control4,root,t0talc0ntr0l4!
 Corecess,Administrator,admin
-Corecess,admin,
+Corecess,admin,<blank>
 Corecess,corecess,corecess
 CoronaMatrix,admin,admin
 Covertix,Admin,Admin
-Creative,<N/A>,
-Crossbeam,,x40rocks
-Crystalview,,Crystal
-CyberMax,,Congress
-CyberMax,<N/A>,Congress
+Creative,<blank>,<blank>
+Crossbeam,<blank>,x40rocks
+Crystalview,<blank>,Crystal
+CyberMax,<blank>,Congress
+CyberMax,<blank>,Congress
 Cyberguard,cgadmin,cgadmin
-Cyclades,root,
+Cyclades,root,<blank>
 Cyclades,root,tslinux
 Cyclades,super,surt
-D-Link,,admin
-D-Link,,private
-D-Link,,public
-D-Link,<N/A>,admin
-D-Link,Admin,
+D-Link,<blank>,admin
+D-Link,<blank>,private
+D-Link,<blank>,public
+D-Link,<blank>,admin
+D-Link,Admin,<blank>
 D-Link,Alphanetworks,wrgg15_di524
 D-Link,D-Link,D-Link
-D-Link,admin,
+D-Link,admin,<blank>
 D-Link,admin,admin
 D-Link,admin,gvt12345
-D-Link,admin,none
+D-Link,admin,<blank>
 D-Link,admin,password
 D-Link,admin,public
 D-Link,admin,year2000
 D-Link,dont need one,admin
-D-Link,none,none
-D-Link,none,private
+D-Link,<blank>,<blank>
+D-Link,<blank>,private
 D-Link,root,admin
-D-Link,user,
-D-Link,user,none
-D9287ar,Clarissa,
+D-Link,user,<blank>
+D-Link,user,<blank>
+D9287ar,Clarissa,<blank>
 DIGICOM,root,admin
 DVB,dvstation,dvst10n
 DVB,root,pixmet2003
-Daewoo,,Daewuu
-Daewoo,<N/A>,Daewuu
+Daewoo,<blank>,Daewuu
+Daewoo,<blank>,Daewuu
 Dallas Semiconductors,root,tini
-Dassault Systemes,Test Everything,
+Dassault Systemes,Test Everything,<blank>
 Data General,op,op
 Data General,op,operator
 Data General,operator,operator
-DataWizard Technologies Inc.,anonymous,
+DataWizard Technologies Inc.,anonymous,<blank>
 DataWizard Technologies Inc.,test,test
-Datacom,,letmein
-Datacom,<N/A>,letmein
+Datacom,<blank>,letmein
+Datacom,<blank>,letmein
 Datacom,sysadm,sysadm
 Datawizard.net,anonymous,any
 Datawizard.net,anonymous,any@
@@ -761,18 +761,18 @@ Davolink,user,user
 Davox,admin,admin
 Davox,davox,davox
 Davox,root,davox
-Davox,sa,
-Daytek,,Daytec
-Daytek,<N/A>,Daytec
-Debian,,tatercounter2000
+Davox,sa,<blank>
+Daytek,<blank>,Daytec
+Daytek,<blank>,Daytec
+Debian,<blank>,tatercounter2000
 Deerfield,MDaemon,MServer
-Dell,,Dell
-Dell,,Fireport
-Dell,,nz0u4bbe
-Dell,<N/A>,1RRWTTOOI
-Dell,<N/A>,Dell
-Dell,<N/A>,admin
-Dell,Admin,
+Dell,<blank>,Dell
+Dell,<blank>,Fireport
+Dell,<blank>,nz0u4bbe
+Dell,<blank>,1RRWTTOOI
+Dell,<blank>,Dell
+Dell,<blank>,admin
+Dell,Admin,<blank>
 Dell,Administrator,storageserver
 Dell,VNC,winterm
 Dell,admin,admin
@@ -781,21 +781,21 @@ Dell,rapport,r@p8p0r+
 Dell,root,calvin
 Dell,root,wyse
 Demarc,admin,my_DEMARC
-Deutsche Telekom,,0
-Deutsche Telekom,admin,
-Develcon,,BRIDGE
-Develcon,,password
-Develcon,<N/A>,BRIDGE
-Develcon,<N/A>,password
-Dictaphone,NETOP,
+Deutsche Telekom,<blank>,0
+Deutsche Telekom,admin,<blank>
+Develcon,<blank>,BRIDGE
+Develcon,<blank>,password
+Develcon,<blank>,BRIDGE
+Develcon,<blank>,password
+Dictaphone,NETOP,<blank>
 Dictaphone,NETWORK,NETWORK
 Dictaphone,PBX,PBX
 Digicom,admin,michelangelo
 Digicom,user,password
-Digicorp,,BRIDGE
-Digicorp,,password
-Digicorp,<N/A>,BRIDGE
-Digicorp,<N/A>,password
+Digicorp,<blank>,BRIDGE
+Digicorp,<blank>,password
+Digicorp,<blank>,BRIDGE
+Digicorp,<blank>,password
 Digicraft Software,Yak,asd123
 Digital Equipment,1,manager
 Digital Equipment,1,operator
@@ -808,15 +808,15 @@ Digital Equipment,2,syslib
 Digital Equipment,30,games
 Digital Equipment,5,games
 Digital Equipment,7,maintain
-Digital Equipment,,1
-Digital Equipment,,ACCESS
-Digital Equipment,,SYSTEM
-Digital Equipment,,access
-Digital Equipment,,komprie
-Digital Equipment,,system
-Digital Equipment,<N/A>,ACCESS
-Digital Equipment,<N/A>,SYSTEM
-Digital Equipment,<N/A>,komprie
+Digital Equipment,<blank>,1
+Digital Equipment,<blank>,ACCESS
+Digital Equipment,<blank>,SYSTEM
+Digital Equipment,<blank>,access
+Digital Equipment,<blank>,komprie
+Digital Equipment,<blank>,system
+Digital Equipment,<blank>,ACCESS
+Digital Equipment,<blank>,SYSTEM
+Digital Equipment,<blank>,komprie
 Digital Equipment,ALLIN1,ALLIN1
 Digital Equipment,ALLIN1MAIL,ALLIN1MAIL
 Digital Equipment,ALLINONE,ALLINONE
@@ -884,33 +884,33 @@ Digital Equipment,demo,demo
 Digital Equipment,manager,manager
 Digital Equipment,software,software
 "Digium,Inc.",admin,password
-Divar,admin,
-Divar,viewer,
-Dlink,admin,
+Divar,admin,<blank>
+Divar,viewer,<blank>
+Dlink,admin,<blank>
 Dlink,admin,admin
 Dlink,admin,public
 DotNetNuke Corporation,admin,dnnadmin
 DotNetNuke Corporation,host,dnnhost
-Draytek Corp,admin,
+Draytek Corp,admin,<blank>
 Draytek,Draytek,1234
-Draytek,admin,
+Draytek,admin,<blank>
 Draytek,admin,admin
 Draytek,draytek,1234
 DuPont,root,par0t
-Ducati Motor Holding,,Last 4 digits of VIN
+Ducati Motor Holding,<blank>,Last 4 digits of VIN
 Dynalink,admin,admin
 Dynalink,admin,private
 Dynalink,userNotUsed,userNotU
-Dynix Library Systems,LIBRARY,
-Dynix Library Systems,SETUP,
-Dynix Library Systems,circ,
+Dynix Library Systems,LIBRARY,<blank>
+Dynix Library Systems,SETUP,<blank>
+Dynix Library Systems,circ,<blank>
 E-Con,admin,epicrouter
-E-Tech,,admin
+E-Tech,<blank>,admin
 E-Tech,admin,epicrouter
 E-Tech,admin,password
-E-Tech,none,admin
+E-Tech,<blank>,admin
 EMC,MCUser,MCUser1
-EMC,admin,
+EMC,admin,<blank>
 EMC,admin,changeme
 EMC,backuponly,backuponly1
 EMC,backuprestore,backuprestore1
@@ -926,18 +926,18 @@ Eaton,admin,admin
 Echelon Corporation,ilon,ilon
 Edimax,admin,123
 Edimax,admin,1234
-Edimax,admin,
+Edimax,admin,<blank>
 Edimax,admin,epicrouter
 Edimax,admin,password
 Edimax,admin,su@psir
 Edimax,edimax,software01
 Edimax,guest,1234
-Edimax,guest,
-Efficient,,
-Efficient,,admin
-Efficient,<N/A>,admin
-Efficient Networks,,hs7mwxkk
-Efficient Networks,<N/A>,4getme2
+Edimax,guest,<blank>
+Efficient,<blank>,<blank>
+Efficient,<blank>,admin
+Efficient,<blank>,admin
+Efficient Networks,<blank>,hs7mwxkk
+Efficient Networks,<blank>,4getme2
 Efficient Networks,login,admin
 Efficient,login,admin
 Efficient,login,password
@@ -946,25 +946,25 @@ Efficinet Networks,login,admin
 "Ektron,Inc.",builtin,builtin
 "Ektron,Inc.",sa,Ektron
 Elron,(hostname/ipaddress),sysadmin
-Elsa,,
-Elsa,,cisco
-Elsa,<N/A>,
-Elsa,<N/A>,cisco
+Elsa,<blank>,<blank>
+Elsa,<blank>,cisco
+Elsa,<blank>,<blank>
+Elsa,<blank>,cisco
 Emerson,Admin,Emerson1
 Eminent,admin,admin
 EnGenius,admin,admin
 Enhydra,admin,enhydra
-Enox,,xo11nE
-Enox,<N/A>,xo11nE
-Enterasys,,netadmin
-Enterasys,admin,
+Enox,<blank>,xo11nE
+Enox,<blank>,xo11nE
+Enterasys,<blank>,netadmin
+Enterasys,admin,<blank>
 Enterasys,admin,netadmin
 Enterasys,tiger,tiger123
 Entrust,admin,admin
 Entrust,websecadm,changeme
-Epox,,central
-Epox,<N/A>,central
-Ericsson ACC,public,
+Epox,<blank>,central
+Epox,<blank>,central
+Ericsson ACC,public,<blank>
 Ericsson,MD110,help
 Ericsson,admin,default
 Ericsson,expert,expert
@@ -978,49 +978,49 @@ Exacq Technologies,user,user5710
 Exinda Networks,admin,exinda
 Extended Systems,admin,admin
 Extended Systems,admin,extendnet
-Extreme Networks,admin,
+Extreme Networks,admin,<blank>
 F5,admin,admin
 F5,root,default
-F5,support,
-F5-Networks,<N/A>,
-Fastream Technologies,root,
+F5,support,<blank>
+F5-Networks,<blank>,<blank>
+Fastream Technologies,root,<blank>
 Fastwire,fastwire,fw
 FatWire,firstsite,firstsite
 FatWire,fwadmin,xceladmin
 Firebird Project,SYSDBA,masterkey
 Firebird,SYSDBA,masterkey
-Flowpoint,,
-Flowpoint,,password
-Flowpoint,<N/A>,
-Flowpoint,<N/A>,password
+Flowpoint,<blank>,<blank>
+Flowpoint,<blank>,password
+Flowpoint,<blank>,<blank>
+Flowpoint,<blank>,password
 Flowpoint,admin,admin
-Fortigate,admin,
-Fortinet,,bcpb(serial number of the firewall)
-Fortinet,admin,
+Fortigate,admin,<blank>
+Fortinet,<blank>,bcpb(serial number of the firewall)
+Fortinet,admin,<blank>
 Fortinet,maintainer,admin
 Fortinet,maintainer,bcpb[SERIAL NO.]
 Fortinet,maintainer,pbcpbn(add-serial-number)
-Foscam,admin,
-Foundry Networks,,
+Foscam,admin,<blank>
+Foundry Networks,<blank>,<blank>
 Foundry Networks,admin,admin
-Freetech,,Posterie
-Freetech,<N/A>,Posterie
+Freetech,<blank>,Posterie
+Freetech,<blank>,Posterie
 FrontRange Solutions,master,access
-Fujitsu Siemens,,connect
+Fujitsu Siemens,<blank>,connect
 Fujitsu Siemens,manage,!manage
 Funk Software,admin,radius
 "GE Security,Inc.",install,install
 GE,museadmin,Muse!Admin
 GVC,Administrator,admin
 Galacticomm,Sysop,Sysop
-Gandalf,,console
-Gandalf,,gandalf
-Gandalf,,system
-Gandalf,,xmux
+Gandalf,<blank>,console
+Gandalf,<blank>,gandalf
+Gandalf,<blank>,system
+Gandalf,<blank>,xmux
 Gateway,admin,admin
 Geeklog,username,password
 General Instruments,test,test
-Gericom,Administrator,
+Gericom,Administrator,<blank>
 Gigabyte,admin,admin
 Globespan Virata,DSL,DSL
 GlobespanVirata,root,root
@@ -1028,7 +1028,7 @@ Google,admin,urchin
 Gossamer Threads Inc.,admin,admin
 Gossamer Threads Inc.,author,author
 Gossamer Threads Inc.,guest,guest
-GrandStream,,admin
+GrandStream,<blank>,admin
 GrandStream,Administrator,admin
 GrandStream,End User,123 (or blank)
 "Grandstream Networks,Inc",End User,123
@@ -1036,32 +1036,32 @@ GrandStream,End User,123 (or blank)
 Grandstream,admin,1234
 Greatspeed,admin,broadband
 "Groupee,Inc.",Admin5,4tugboat
-GuardOne,,guardone
+GuardOne,<blank>,guardone
 GuardOne,n.a,guardone
 Guru,admin,admin
 H2O Project,admin,admin
-HP,<N/A>,
-HP,<N/A>,AUTORAID
+HP,<blank>,<blank>
+HP,<blank>,AUTORAID
 HP,Administrator,admin
 HP,Factory,56789
 HP,admin,!admin
-HP,admin,
+HP,admin,<blank>
 HP,admin,admin
 HP,admin,isee
 HP,root,password
 Hayes,system,isp
 Hemoco Software,lansweeperuser,mysecretpassword0*
 Hewlett Packard,admin,admin
-Hewlett-Packard,,
-Hewlett-Packard,,hewlpack
-Hewlett-Packard,<N/A>,hewlpack
-Hewlett-Packard,ADVMAIL,
+Hewlett-Packard,<blank>,<blank>
+Hewlett-Packard,<blank>,hewlpack
+Hewlett-Packard,<blank>,hewlpack
+Hewlett-Packard,ADVMAIL,<blank>
 Hewlett-Packard,ADVMAIL,HP
 Hewlett-Packard,ADVMAIL,HPOFFICE DATA
 Hewlett-Packard,Admin,Admin
 Hewlett-Packard,Administrator,The last eight digits of the serial number
-Hewlett-Packard,Anonymous,
-Hewlett-Packard,FIELD,
+Hewlett-Packard,Anonymous,<blank>
+Hewlett-Packard,FIELD,<blank>
 Hewlett-Packard,FIELD,HPONLY
 Hewlett-Packard,FIELD,HPP187 SYS
 Hewlett-Packard,FIELD,HPWORD PUB
@@ -1129,142 +1129,142 @@ Honeynet Project,roo,honey
 Honeynet Project,root,honey
 Honeywell,LocalComServer,LCS pwd 03
 Honeywell,TPSLocalServer,TLS pwd 03
-Horizon DataSys,,foolproof
+Horizon DataSys,<blank>,foolproof
 Hosting Controller,AdvWebadmin,advcomm500349
-Huawei,TMAR#HWMT8007079,
-Huawei Technologies Co,TMAR#HWMT8007079,
+Huawei,TMAR#HWMT8007079,<blank>
+Huawei Technologies Co,TMAR#HWMT8007079,<blank>
 Huawei Technologies Co,admin,admin
 Huawei,admin,admin
 "Hyperic,Inc.",hqadmin,hqadmin
-IBM,$ALOC$,
+IBM,$ALOC$,<blank>
 IBM,$SRV,$SRV
 IBM,11111111,11111111
 IBM,22222222,22222222
-IBM,,IBM
-IBM,,MBIU0
-IBM,,ascend
-IBM,,sertafu
-IBM,<N/A>,
-IBM,<N/A>,IBM
-IBM,<N/A>,MBIU0
-IBM,<N/A>,R1QTPS
-IBM,<N/A>,admin
-IBM,<N/A>,ascend
-IBM,<N/A>,sertafu
-IBM,ADMIN,
-IBM,AP2SVP,
-IBM,APL2PP,
-IBM,AUTOLOG1,
+IBM,<blank>,IBM
+IBM,<blank>,MBIU0
+IBM,<blank>,ascend
+IBM,<blank>,sertafu
+IBM,<blank>,<blank>
+IBM,<blank>,IBM
+IBM,<blank>,MBIU0
+IBM,<blank>,R1QTPS
+IBM,<blank>,admin
+IBM,<blank>,ascend
+IBM,<blank>,sertafu
+IBM,ADMIN,<blank>
+IBM,AP2SVP,<blank>
+IBM,APL2PP,<blank>
+IBM,AUTOLOG1,<blank>
 IBM,Administrator,admin
-IBM,BATCH,
-IBM,BATCH1,
-IBM,BATCH2,
-IBM,CCC,
+IBM,BATCH,<blank>
+IBM,BATCH1,<blank>
+IBM,BATCH2,<blank>
+IBM,CCC,<blank>
 IBM,CICSUSER,CISSUS
-IBM,CMSBATCH,
+IBM,CMSBATCH,<blank>
 IBM,CMSBATCH,CMSBATCH
-IBM,CMSUSER,
-IBM,CPNUC,
-IBM,CPRM,
-IBM,CSPUSER,
-IBM,CVIEW,
-IBM,DATAMOVE,
+IBM,CMSUSER,<blank>
+IBM,CPNUC,<blank>
+IBM,CPRM,<blank>
+IBM,CSPUSER,<blank>
+IBM,CVIEW,<blank>
+IBM,DATAMOVE,<blank>
 IBM,DBDCCICS,DBDCCIC
-IBM,DEMO1,
-IBM,DEMO2,
-IBM,DEMO3,
-IBM,DEMO4,
-IBM,DIRECT,
-IBM,DIRMAINT,
-IBM,DISKCNT,
-IBM,EREP,
-IBM,ESSEX,
+IBM,DEMO1,<blank>
+IBM,DEMO2,<blank>
+IBM,DEMO3,<blank>
+IBM,DEMO4,<blank>
+IBM,DIRECT,<blank>
+IBM,DIRMAINT,<blank>
+IBM,DISKCNT,<blank>
+IBM,EREP,<blank>
+IBM,ESSEX,<blank>
 IBM,FORSE,FORSE
-IBM,FSFADMIN,
-IBM,FSFTASK1,
-IBM,FSFTASK2,
-IBM,GCS,
+IBM,FSFADMIN,<blank>
+IBM,FSFTASK1,<blank>
+IBM,FSFTASK2,<blank>
+IBM,GCS,<blank>
 IBM,IBMUSER,SYS1
-IBM,IDMS,
-IBM,IDMSSE,
-IBM,IIPS,
-IBM,IPC,
-IBM,IPFSERV,
-IBM,ISPVM,
-IBM,IVPM1,
-IBM,IVPM2,
-IBM,MAINT,
+IBM,IDMS,<blank>
+IBM,IDMSSE,<blank>
+IBM,IIPS,<blank>
+IBM,IPC,<blank>
+IBM,IPFSERV,<blank>
+IBM,ISPVM,<blank>
+IBM,IVPM1,<blank>
+IBM,IVPM2,<blank>
+IBM,MAINT,<blank>
 IBM,MAINT,MAINT
-IBM,MOESERV,
-IBM,NEVIEW,
-IBM,OLTSEP,
-IBM,OP1,
+IBM,MOESERV,<blank>
+IBM,NEVIEW,<blank>
+IBM,OLTSEP,<blank>
+IBM,OP1,<blank>
 IBM,OPER,OPER
 IBM,OPERATIONS,OPERATIONS
-IBM,OPERATNS,
+IBM,OPERATNS,<blank>
 IBM,OPERATNS,OPERATNS
-IBM,OPERATOR,
+IBM,OPERATOR,<blank>
 IBM,Operator,Operator
-IBM,PDMREMI,
-IBM,PENG,
+IBM,PDMREMI,<blank>
+IBM,PENG,<blank>
 IBM,POST,BASE
-IBM,PROCAL,
-IBM,PRODBM,
+IBM,PROCAL,<blank>
+IBM,PRODBM,<blank>
 IBM,PRODCICS,PRODCICS
 IBM,PROG,PROG
-IBM,PROMAIL,
-IBM,PSFMAINT,
-IBM,PVM,
+IBM,PROMAIL,<blank>
+IBM,PSFMAINT,<blank>
+IBM,PVM,<blank>
 IBM,QSRV,11111111
 IBM,QSRV,22222222
 IBM,QSRV,QSRV
-IBM,RDM470,
-IBM,ROUTER,
-IBM,RSCS,
-IBM,RSCSV2,
-IBM,SAVSYS,
-IBM,SFCMI,
-IBM,SFCNTRL,
-IBM,SMART,
-IBM,SQLDBA,
-IBM,SQLUSER,
+IBM,RDM470,<blank>
+IBM,ROUTER,<blank>
+IBM,RSCS,<blank>
+IBM,RSCSV2,<blank>
+IBM,SAVSYS,<blank>
+IBM,SFCMI,<blank>
+IBM,SFCNTRL,<blank>
+IBM,SMART,<blank>
+IBM,SQLDBA,<blank>
+IBM,SQLUSER,<blank>
 IBM,SYSA,SYSA
-IBM,SYSADMIN,
-IBM,SYSCKP,
-IBM,SYSDUMP1,
-IBM,SYSERR,
-IBM,SYSWRM,
-IBM,TDISK,
-IBM,TEMP,
-IBM,TSAFVM,
+IBM,SYSADMIN,<blank>
+IBM,SYSCKP,<blank>
+IBM,SYSDUMP1,<blank>
+IBM,SYSERR,<blank>
+IBM,SYSWRM,<blank>
+IBM,TDISK,<blank>
+IBM,TEMP,<blank>
+IBM,TSAFVM,<blank>
 IBM,USERID,PASSW0RD
 IBM,USERID,PASSWORD
-IBM,VASTEST,
+IBM,VASTEST,<blank>
 IBM,VCSRV,VCSRV
-IBM,VM3812,
-IBM,VMARCH,
-IBM,VMASMON,
-IBM,VMASSYS,
-IBM,VMBACKUP,
-IBM,VMBSYSAD,
-IBM,VMMAP,
-IBM,VMTAPE,
-IBM,VMTLIBR,
-IBM,VMUTIL,
-IBM,VSEIPO,
-IBM,VSEMAINT,
-IBM,VSEMAN,
-IBM,VTAM,
+IBM,VM3812,<blank>
+IBM,VMARCH,<blank>
+IBM,VMASMON,<blank>
+IBM,VMASSYS,<blank>
+IBM,VMBACKUP,<blank>
+IBM,VMBSYSAD,<blank>
+IBM,VMMAP,<blank>
+IBM,VMTAPE,<blank>
+IBM,VMTLIBR,<blank>
+IBM,VMUTIL,<blank>
+IBM,VSEIPO,<blank>
+IBM,VSEMAINT,<blank>
+IBM,VSEMAN,<blank>
+IBM,VTAM,<blank>
 IBM,VTAM,VTAM
-IBM,VTAMUSER,
-IBM,admin,
+IBM,VTAMUSER,<blank>
+IBM,admin,<blank>
 IBM,admin,admin
 IBM,admin,password
 IBM,admin,secure
 IBM,db2fenc1,db2fenc1
 IBM,db2inst1,db2inst1
 IBM,fg_sysadmin,password
-IBM,guest,
+IBM,guest,<blank>
 IBM,guest,guest
 IBM,hscroot,abc123
 IBM,ibm,2222
@@ -1281,7 +1281,7 @@ IBM,qsvr,ibmcel
 IBM,qsvr,qsvr
 IBM,qsysopr,qsysopr
 IBM,quser,quser
-IBM,root,
+IBM,root,<blank>
 IBM,root,passw0rd
 IBM,secofr,secofr
 IBM,sedacm,secacm
@@ -1294,9 +1294,9 @@ IBM,webadmin,webibm
 IBM,wpsadmin,wpsadmin
 INOVA,iclock,timely
 IQinVision,root,system
-IRC,,FOOBAR
+IRC,<blank>,FOOBAR
 Inedo,Admin,Admin
-Infoblox,admin,
+Infoblox,admin,<blank>
 Informix,informix,informix
 Infosmart,admin,0
 Infrant,admin,infrant1
@@ -1310,18 +1310,18 @@ Integral,Administrator,letmein
 Integrated Networks,Administrator,1234
 Integrated Networks,Administrator,12345678
 Integrated Networks,Administrator,19750407
-Intel,,Intel
-Intel,,isolation
-Intel,,shiva
-Intel,Guest,
+Intel,<blank>,Intel
+Intel,<blank>,isolation
+Intel,<blank>,shiva
+Intel,Guest,<blank>
 Intel,NICONEX,NICONEX
 Intel,intel,intel
-Intel,root,
+Intel,root,<blank>
 Intel,setup,setup
 Intel/Shiva,admin,hello
 IntelliTouch,administrator,1234
 Interbase,SYSDBA,masterkey
-Intermec,,intermec
+Intermec,<blank>,intermec
 Intermec,intermec,intermec
 Internet Archive,admin,letmein
 Intershop,operator,$chwarzepumpe
@@ -1331,17 +1331,17 @@ Inventel Wanadoo,Admin,Admin
 Inventel,admin,admin
 Ipswitch,XXSESS_MGRYY,X#1833
 Ipswitch,admin,admin
-Ipswitch,guest,
+Ipswitch,guest,<blank>
 IronPort,admin,ironport
 Irongate,admin,NetSurvibox
-Iwill,,iwill
-Iwill,<N/A>,iwill
+Iwill,<blank>,iwill
+Iwill,<blank>,iwill
 JAHT,admin,epicrouter
 JAMF Software,jamfsoftware,jamfsw03
 JD Edwards,JDE,JDE
 JDE,PRODDTA,PRODDTA
-JDS Microprocessing,hydrasna,
-JDS,hydrasna,
+JDS Microprocessing,hydrasna,<blank>
+JDS,hydrasna,<blank>
 Janitza,Homepage Password,0th
 Janitza,admin,Janitza
 Janitza,guest,Janitza
@@ -1351,15 +1351,15 @@ Jaspersoft Corporation,jasperadmin,jasperadmin
 Jaspersoft Corporation,joeuser,joeuser
 Jaspersoft Corporation,superuser,superuser
 Jean-Philippe Lang,admin,admin
-Jeebles Technology,,admin
-JetWay,,spooml
-JetWay,<N/A>,spooml
-Jetform,Jetform,
+Jeebles Technology,<blank>,admin
+JetWay,<blank>,spooml
+JetWay,<blank>,spooml
+Jetform,Jetform,<blank>
 Johnson Controls,johnson,control
-Joss Technology,,57gbzb
-Joss Technology,,technolgi
-Joss Technology,<N/A>,57gbzb
-Joss Technology,<N/A>,technolgi
+Joss Technology,<blank>,57gbzb
+Joss Technology,<blank>,technolgi
+Joss Technology,<blank>,57gbzb
+Joss Technology,<blank>,technolgi
 Juniper,admin,abc123
 Juniper,admin,netscreen
 Juniper,admin,peribit
@@ -1373,9 +1373,9 @@ KASDA,admin,adslroot
 KTI,admin,123
 KTI,admin,123456
 KTI,superuser,123456
-Kalatel,<N/A>,3477
-Kalatel,<N/A>,8111
-Kentico Software,administrator,
+Kalatel,<blank>,3477
+Kalatel,<blank>,8111
+Kentico Software,administrator,<blank>
 Kethinov,root,password
 Keyscan,keyscan,KEYSCAN
 Kodak,PACSLinkIP,NetServer
@@ -1384,81 +1384,81 @@ Kodak,RNIServiceManager,NetServer
 Kodak,SA,PASSWORD
 Kodak,Service,Service
 Kodi,kodi,kodi
-Konica Minolta,,0000
-Konica Minolta,,1234
-Konica Minolta,,
-Konica Minolta,,MagiMFP
-Konica Minolta,,sysAdmin
-Konica Minolta,<N/A>,0
-Konica Minolta,<N/A>,sysadm
+Konica Minolta,<blank>,0000
+Konica Minolta,<blank>,1234
+Konica Minolta,<blank>,<blank>
+Konica Minolta,<blank>,MagiMFP
+Konica Minolta,<blank>,sysAdmin
+Konica Minolta,<blank>,0
+Konica Minolta,<blank>,sysadm
 Konica Minolta,admin,administrator
 Kronos,SuperUser,kronites
 Kyocera,2800,2800
-Kyocera,,admin00
-Kyocera,<N/A>,PASSWORD
-Kyocera,<N/A>,admin00
-Kyocera,admin,
+Kyocera,<blank>,admin00
+Kyocera,<blank>,PASSWORD
+Kyocera,<blank>,admin00
+Kyocera,admin,<blank>
 Kyocera,admin,admin
 Kyocera,root,root
-LANCOM,<N/A>,
+LANCOM,<blank>,<blank>
 LANSA,WEBADM,password
 LANSA,admin,admin
 LANSA,dev,dev
 LAXO,admin,admin
-LG,,jannie
+LG,<blank>,jannie
 LG,admin,epicrouter
 LG,vikram,singh
 LGIC,LR-ISDN,LR-ISDN
 LaCie,admin,admin
-Lanier,,sysadm
-Lanier,admin,
-Lanier,supervisor,
-Lantronics,,access
-Lantronics,,system
-Lantronix,,access
-Lantronix,<N/A>,
-Lantronix,<N/A>,access
-Lantronix,<N/A>,admin
-Lantronix,<N/A>,lantronix
-Lantronix,<N/A>,system
+Lanier,<blank>,sysadm
+Lanier,admin,<blank>
+Lanier,supervisor,<blank>
+Lantronics,<blank>,access
+Lantronics,<blank>,system
+Lantronix,<blank>,access
+Lantronix,<blank>,<blank>
+Lantronix,<blank>,access
+Lantronix,<blank>,admin
+Lantronix,<blank>,lantronix
+Lantronix,<blank>,system
 Lantronix,login,access
 Lantronix,sysadmin,PASS
-Leading Edge,,MASTER
-Leading Edge,<N/A>,MASTER
+Leading Edge,<blank>,MASTER
+Leading Edge,<blank>,MASTER
 Lenel,admin,admin
 Level1,admin,admin
 Leviton,admin,leviton
 Liebert,Liebert,Liebert
 Lindsay Electronics,ADMINISTRATOR,SENTINEL
 Lindsay Electronics,SENTINEL,SENTINEL
-Linksys,,admin
-Linksys,,epicrouter
-Linksys,<N/A>,
-Linksys,<N/A>,admin
+Linksys,<blank>,admin
+Linksys,<blank>,epicrouter
+Linksys,<blank>,<blank>
+Linksys,<blank>,admin
 Linksys,Administrator,admin
-Linksys,admin,
+Linksys,admin,<blank>
 Linksys,admin,admin
 Linksys,comcast,1234
 Linksys,root,orion99
 Linksys,user,tivonpw
-Linux,gonzo,
+Linux,gonzo,<blank>
 Linux,root,uClinux
-Linux,satan,
-Linux,snake,
+Linux,satan,<blank>
+Linux,snake,<blank>
 "Liquidware Labs,Inc.",ssadmin,sspassword
-Livingston,!root,
-Livingstone,root,
+Livingston,!root,<blank>
+Livingstone,root,<blank>
 Lockdown,setup,changeme!
 LogiLink,admin,1234
-Logitech,,0
+Logitech,<blank>,0
 Loglogic,root,logapp
 Loglogic,toor,logapp
 Longshine,admin,0
 Lucent,(any 3 characters),cascade
 Lucent,(any 3 chars),cascade
-Lucent,<N/A>,admin
-Lucent,<N/A>,cascade
-Lucent,Administrator,
+Lucent,<blank>,admin
+Lucent,<blank>,cascade
+Lucent,Administrator,<blank>
 Lucent,LUCENT01,UI-PSWD-01
 Lucent,LUCENT02,UI-PSWD-02
 Lucent,admin,AitbISP4eCiG
@@ -1494,34 +1494,34 @@ Lucent,sysadm,sysadmpw
 Lucent,sysadm,syspw
 Lucent,tech,field
 Luxon Communications,administrator,19750407
-M Technology,,mMmM
-M Technology,<N/A>,mMmM
+M Technology,<blank>,mMmM
+M Technology,<blank>,mMmM
 MERCURY,Administrator,admin
 MP3Mystic,admin,mp3mystic
 MRV,admin,admin
 MTNL,admin,admin
-MachSpeed,,sp99dd
-MachSpeed,<N/A>,sp99dd
-Macromedia,<N/A>,admin
+MachSpeed,<blank>,sp99dd
+MachSpeed,<blank>,sp99dd
+Macromedia,<blank>,admin
 Macsense,admin,admin
 Magento,admin,123123
-Magic-Pro,,prost
-Magic-Pro,<N/A>,prost
+Magic-Pro,<blank>,prost
+Magic-Pro,<blank>,prost
 Main Street Softworks,MCVEADMIN,password
 Mambo,admin,admin
 ManageEngine,admin,admin
 Mandarin Library Automation,admin,boca raton
 Mantis,administrator,root
-Marconi,ami,
+Marconi,ami,<blank>
 McAfee,admin,admin123
 McAfee,scmadmin,scmchangeme
 McAfee,webshield,webshieldchangeme
 McData,Administrator,password
 McData,McdataSE,redips
 Mediatrix,admin,1234
-Mediatrix,administrator,
-Megastar,,star
-Megastar,<N/A>,star
+Mediatrix,administrator,<blank>
+Megastar,<blank>,star
+Megastar,<blank>,star
 Memotec,memotec,supervisor
 Mentec,MICRO,RSX
 Mercury Interactive,admin,admin
@@ -1530,41 +1530,41 @@ Michiel,admin,phplist
 Microcom,admin,epicrouter
 Microcom,admin,superuser
 Microcom,user,password
-Micron,,sldkj754
-Micron,,xyzall
-Micron,<N/A>,sldkj754
-Micron,<N/A>,xyzall
+Micron,<blank>,sldkj754
+Micron,<blank>,xyzall
+Micron,<blank>,sldkj754
+Micron,<blank>,xyzall
 Micronet,admin,admin
 Micronet,admin,epicrouter
-Micronet,mac,
+Micronet,mac,<blank>
 Micronet,root,default
-Micronics,,dn_04rjc
-Micronics,<N/A>,dn_04rjc
+Micronics,<blank>,dn_04rjc
+Micronics,<blank>,dn_04rjc
 Microplex,root,root
-Microsoft,,
-Microsoft,,admin
-Microsoft,,sa
-Microsoft,Administrator,
+Microsoft,<blank>,<blank>
+Microsoft,<blank>,admin
+Microsoft,<blank>,sa
+Microsoft,Administrator,<blank>
 Microsoft,Administrator,Administrator
-Microsoft,Guest,
+Microsoft,Guest,<blank>
 Microsoft,Guest,Guest
 Microsoft,IS_$hostname,IS_$hostname
 Microsoft,LDAP_Anonymous,LdapPassword_1
-Microsoft,LessonUser1,
-Microsoft,LessonUser2,
+Microsoft,LessonUser1,<blank>
+Microsoft,LessonUser2,<blank>
 Microsoft,MSHOME,MSHOME
 Microsoft,User,User
-Microsoft,sa,
+Microsoft,sa,<blank>
 Mike Peters,bsxuser,bsxpass
-MikroTik,admin,
-Mikrotik,admin,
+MikroTik,admin,<blank>
+Mikrotik,admin,<blank>
 Milan,root,root
-Minolta PagrPro,<N/A>,sysadm
-Minolta QMS,admin,
-Minolta QMS,operator,
-Mintel,,SYSTEM
-Mintel,<N/A>,SYSTEM
-Mitel,<N/A>,
+Minolta PagrPro,<blank>,sysadm
+Minolta QMS,admin,<blank>
+Minolta QMS,operator,<blank>
+Mintel,<blank>,SYSTEM
+Mintel,<blank>,SYSTEM
+Mitel,<blank>,<blank>
 Mitel Networks,1nstaller,5X2000
 Mitel Networks,installer,sx2000
 Mitel Networks,maint1,sx2000
@@ -1577,34 +1577,34 @@ Mitel,system,password
 Mobotix,admin,meinsm
 Mole,admin,admin
 Motive,admin,isee
-Motorola,,0000
+Motorola,<blank>,0000
 Motorola,admin,motorola
 Motorola,admin,password
 Motorola,cablecom,router
 Motorola,service,smile
-Motorola,setup,
+Motorola,setup,<blank>
 Motorola,technician,yZgO8Bvj
-Mutare,,admin
+Mutare,<blank>,admin
 Muze,admin,muze
 MySQL,admin@example.com,admin
-MySQL,root,
+MySQL,root,<blank>
 MySQL,superdba,admin
 MyioSoft,demo,demo
 NAI,GlobalAdmin,GlobalAdmin
 NAI,admin,admin123
 NCR,ncrm,ncrm
-NEC,<N/A>,
+NEC,<blank>,<blank>
 NEC,admin,password
 NGSEcure,admin,admin
-NGSec,admin,
+NGSec,admin,<blank>
 NGSec,admin,asd
 NICE Systems Ltd.,Administrator,nicecti
 NICE Systems Ltd.,Nice-admin,nicecti
-NOMADIX,admin,
-NRG or RICOH,,password
+NOMADIX,admin,<blank>
+NRG or RICOH,<blank>,password
 NSI,root,nsi
 Nanoteq,admin,NetSeq
-NeXT,me,
+NeXT,me,<blank>
 NeXT,root,NeXT
 NeXT,signa,signa
 NetApp,admin,NetCache
@@ -1612,21 +1612,21 @@ NetApp,admin,admin123
 NetBotz,netbotz,netbotz
 NetGenesis,naadmin,naadmin
 Netasq,admin,admin
-Netcomm,,admin
+Netcomm,<blank>,admin
 Netcomm,admin,password
 Netcomm,user,password
 Netcordia,admin,admin
-Netgear,,1234
-Netgear,,admin
-Netgear,,private
-Netgear,,zebra
-Netgear,<N/A>,
-Netgear,<N/A>,admin
-Netgear,<N/A>,password
+Netgear,<blank>,1234
+Netgear,<blank>,admin
+Netgear,<blank>,private
+Netgear,<blank>,zebra
+Netgear,<blank>,<blank>
+Netgear,<blank>,admin
+Netgear,<blank>,password
 Netgear,Admin,password
 Netgear,Gearguy,Geardog
 Netgear,admin,1234
-Netgear,admin,
+Netgear,admin,<blank>
 Netgear,admin,admin
 Netgear,admin,draadloos
 Netgear,admin,infrant1
@@ -1637,36 +1637,36 @@ Netgear,comcast,1234
 Netgear,cusadmin,highspeed
 Netgear,super,5777364
 Netgear,superman,21241036
-Netopia,,
-Netopia,<N/A>,
-Netopia,admin,
+Netopia,<blank>,<blank>
+Netopia,<blank>,<blank>
+Netopia,admin,<blank>
 Netopia,admin,noway
 Netopia,factory,(see note)
 Netopia,netopia,netopia
 Netport,setup,setup
 Netscape,admin,admin
-Netscreen,<N/A>,
-Netscreen,Administrator,
-Netscreen,admin,
+Netscreen,<blank>,<blank>
+Netscreen,Administrator,<blank>
+Netscreen,admin,<blank>
 Netscreen,admin,netscreen
 Netscreen,netscreen,netscreen
-Netscreen,operator,
+Netscreen,operator,<blank>
 Netstar,admin,password
 Network Appliance,admin,NetCache
 Network Associates,e250,e250changeme
 Network Associates,e500,e500changeme
-Network Everywhere,,admin
-NetworkICE,iceman,
+Network Everywhere,<blank>,admin
+NetworkICE,iceman,<blank>
 NevisIDM,bootstrap,generated
 NewMedia-NET GmbH,root,admin
 Nexsan,ADMIN,PASSWORD
 Niksun,vcr,NetVCR
-Nimble,,xdfk9874t3
-Nimble,<N/A>,xdfk9874t3
-Nokia,,9999
-Nokia,,Telecom
-Nokia,,nokai
-Nokia,,nokia
+Nimble,<blank>,xdfk9874t3
+Nimble,<blank>,xdfk9874t3
+Nokia,<blank>,9999
+Nokia,<blank>,Telecom
+Nokia,<blank>,nokai
+Nokia,<blank>,nokia
 Nokia,Security Code,12345
 Nokia,Telecom,Telecom
 Nokia,client,client
@@ -1679,20 +1679,20 @@ Nokia,telecom,telecom
 Norstar,**23646,23646
 Norstar,**266344,266344
 Nortel,266344,266344
-Nortel,,0
-Nortel,,
-Nortel,,l1
-Nortel,,l2
-Nortel,,ro
-Nortel,,rw
-Nortel,,rwa
-Nortel,,secure
-Nortel,<N/A>,266344
-Nortel,<N/A>,
-Nortel,<N/A>,secure
-Nortel,Manager,
+Nortel,<blank>,0
+Nortel,<blank>,<blank>
+Nortel,<blank>,l1
+Nortel,<blank>,l2
+Nortel,<blank>,ro
+Nortel,<blank>,rw
+Nortel,<blank>,rwa
+Nortel,<blank>,secure
+Nortel,<blank>,266344
+Nortel,<blank>,<blank>
+Nortel,<blank>,secure
+Nortel,Manager,<blank>
 Nortel,admin,000000
-Nortel,admin,
+Nortel,admin,<blank>
 Nortel,admin,admin
 Nortel,admin,admin000
 Nortel,admin,root
@@ -1727,78 +1727,78 @@ Nortel,sysadmin,nortel
 Nortel,system,adminpwd
 Nortel,tasman,tasmannet
 Nortel,trmcnfg,trmcnfg
-Nortel,user,
+Nortel,user,<blank>
 Nortel,user,user
 Nortel,user,user0000
-Novell,,cr0wmt 911
-Novell,,root
-Novell,,san fran 8
-Novell,ADMIN,
+Novell,<blank>,cr0wmt 911
+Novell,<blank>,root
+Novell,<blank>,san fran 8
+Novell,ADMIN,<blank>
 Novell,ADMIN,ADMIN
 Novell,ADMIN,admin
-Novell,ARCHIVIST,
+Novell,ARCHIVIST,<blank>
 Novell,ARCHIVIST,ARCHIVIST
-Novell,BACKUP,
+Novell,BACKUP,<blank>
 Novell,BACKUP,BACKUP
-Novell,CHEY_ARCHSVR,
+Novell,CHEY_ARCHSVR,<blank>
 Novell,CHEY_ARCHSVR,CHEY_ARCHSVR
-Novell,FAX,
+Novell,FAX,<blank>
 Novell,FAX,FAX
-Novell,FAXUSER,
+Novell,FAXUSER,<blank>
 Novell,FAXUSER,FAXUSER
-Novell,FAXWORKS,
+Novell,FAXWORKS,<blank>
 Novell,FAXWORKS,FAXWORKS
-Novell,GATEWAY,
+Novell,GATEWAY,<blank>
 Novell,GATEWAY,GATEWAY
-Novell,GUEST,
+Novell,GUEST,<blank>
 Novell,GUEST,GUEST
 Novell,GUEST,GUESTGUE
 Novell,GUEST,GUESTGUEST
 Novell,GUEST,TSEUG
-Novell,HPLASER,
+Novell,HPLASER,<blank>
 Novell,HPLASER,HPLASER
-Novell,LASER,
+Novell,LASER,<blank>
 Novell,LASER,LASER
-Novell,LASERWRITER,
+Novell,LASERWRITER,<blank>
 Novell,LASERWRITER,LASERWRITER
-Novell,MAIL,
+Novell,MAIL,<blank>
 Novell,MAIL,MAIL
-Novell,POST,
+Novell,POST,<blank>
 Novell,POST,POST
-Novell,PRINT,
+Novell,PRINT,<blank>
 Novell,PRINT,PRINT
-Novell,PRINTER,
+Novell,PRINTER,<blank>
 Novell,PRINTER,PRINTER
-Novell,ROOT,
+Novell,ROOT,<blank>
 Novell,ROOT,ROOT
-Novell,ROUTER,
-Novell,SABRE,
-Novell,SUPERVISOR,
+Novell,ROUTER,<blank>
+Novell,SABRE,<blank>
+Novell,SUPERVISOR,<blank>
 Novell,SUPERVISOR,HARRIS
 Novell,SUPERVISOR,NETFRAME
 Novell,SUPERVISOR,NF
 Novell,SUPERVISOR,NFI
 Novell,SUPERVISOR,SUPERVISOR
 Novell,SUPERVISOR,SYSTEM
-Novell,TEST,
+Novell,TEST,<blank>
 Novell,TEST,TEST
-Novell,USER_TEMPLATE,
+Novell,USER_TEMPLATE,<blank>
 Novell,USER_TEMPLATE,USER_TEMPLATE
-Novell,WANGTEK,
+Novell,WANGTEK,<blank>
 Novell,WANGTEK,WANGTEK
-Novell,WINDOWS_PASSTHRU,
+Novell,WINDOWS_PASSTHRU,<blank>
 Novell,WINDOWS_PASSTHRU,WINDOWS_PASSTHRU
 Novell,WINSABRE,SABRE
 Novell,WINSABRE,WINSABRE
 Novell,admin,admin
 Novell,admin,novell
-Novell,sadmin,
+Novell,sadmin,<blank>
 Novell,servlet,manager
 Nullsoft,admin,changeme
-Nurit,$system,
-OCE,<N/A>,0 and the number of OCE printer
+Nurit,$system,<blank>
+OCE,<blank>,0 and the number of OCE printer
 ODS,ods,ods
-OMRON,<N/A>,
+OMRON,<blank>,<blank>
 OPEN Networks,root,0P3N
 OSMC,osmc,osmc
 OTRS Inc.,root@localhost,root
@@ -1806,9 +1806,9 @@ Oki,admin,<SEE COMMENT>
 Oki,admin,OkiLAN
 Oki,root,<SEE COMMENT>
 Oleg Khabarov,username,password
-Olicom,<N/A>,AaBbCcDd
-Omnitronix,,SMDR
-Omnitronix,,SUPER
+Olicom,<blank>,AaBbCcDd
+Omnitronix,<blank>,SMDR
+Omnitronix,<blank>,SUPER
 Open-Xchange Inc.,mailadmin,secret
 OpenConnect,admin,OCS
 OpenConnect,adminstat,OCS
@@ -1835,7 +1835,7 @@ Openlink,admin,admin
 Openwave,cac_admin,cacadmin
 Openwave,sys,uplink
 Optivision,root,mpegvideo
-Oracle,<N/A>,
+Oracle,<blank>,<blank>
 Oracle,ADAMS,WOOD
 Oracle,ADLDEMO,ADLDEMO
 Oracle,ADMIN,JETSPEED
@@ -1854,7 +1854,7 @@ Oracle,AQDEMO,AQDEMO
 Oracle,AQJAVA,AQJAVA
 Oracle,AQUSER,AQUSER
 Oracle,AUDIOUSER,AUDIOUSER
-Oracle,AURORA$JIS$UTILITY$,
+Oracle,AURORA$JIS$UTILITY$,<blank>
 Oracle,AURORA$ORB$UNAUTHENTICATED,INVALID
 Oracle,AURORA@ORB@UNAUTHENTICATED,INVALID
 Oracle,BC4J,BC4J
@@ -1875,7 +1875,7 @@ Oracle,COMPIERE,COMPIERE
 Oracle,CQSCHEMAUSER,PASSWORD
 Oracle,CSMIG,CSMIG
 Oracle,CTXDEMO,CTXDEMO
-Oracle,CTXSYS,
+Oracle,CTXSYS,<blank>
 Oracle,CTXSYS,CTXSYS
 Oracle,DBI,MUMBLEFRATZ
 Oracle,DBSNMP,DBSNMP
@@ -2093,22 +2093,22 @@ PLANET Technology Corp.,admin,ISPMODE
 PLANET Technology Corp.,admin,[^_^]
 POWERLOGIC,Administrator,Gateway
 PRTG,prtgadmin,prtgadmin
-Pacific Micro Data,pmd,
-Packard Bell,,bell9
-Packard Bell,<N/A>,bell9
-Packeteer,,touchpwd=
-Panasonic,,1234
-Panasonic,<N/A>,
+Pacific Micro Data,pmd,<blank>
+Packard Bell,<blank>,bell9
+Packard Bell,<blank>,bell9
+Packeteer,<blank>,touchpwd=
+Panasonic,<blank>,1234
+Panasonic,<blank>,<blank>
 Panasonic,admin,1234
 Panasonic,admin,12345
 Pandatel,admin,admin
 Parallels,admin,setup
-Parrot,,0000
+Parrot,<blank>,0000
 Patton,monitor,monitor
 Patton,superuser,superuser
 PentaSafe,PSEAdmin,$secure$
 Pentagram,admin,password
-Pentaoffice,,pento
+Pentaoffice,<blank>,pento
 Perle,admin,superuser
 Philips,admin,admin
 Phoenix v1.14,Administrator,admin
@@ -2119,25 +2119,25 @@ Pirelli,admin,mu
 Pirelli,admin,smallbusiness
 Pirelli,user,password
 "Pivotal Software,Inc. ",guest,guest
-PlainTree,,default.password
-Planet,,default
+PlainTree,<blank>,default.password
+Planet,<blank>,default
 Planet,admin,1234
 Planet,admin,epicrouter
 Planex,admin,0
 PokerTracker Software,postgres,dbpass
 PokerTracker Software,postgres,svcPASS83
 Pollsafe,SMDR,SECONDARY
-Polycom,,
-Polycom,,ACCORD
-Polycom,,admin
-Polycom,,x6zynd56
+Polycom,<blank>,<blank>
+Polycom,<blank>,ACCORD
+Polycom,<blank>,admin
+Polycom,<blank>,x6zynd56
 Polycom,Polycom,456
 Polycom,Polycom,SpIp
 Polycom,administrator,* * #
-PostgreSQL,postgres,
+PostgreSQL,postgres,<blank>
 Powerchute,pwrchute,pwrchute
 Prestige,admin,1234
-Prestigio,<N/A>,
+Prestigio,<blank>,<blank>
 Prime,dos,dos
 Prime,fam,fam
 Prime,guest,guest
@@ -2159,41 +2159,41 @@ Prime,system,prime
 Prime,system,system
 Prime,tele,tele
 Prime,test,test
-PrimeBase,Administrator,
+PrimeBase,Administrator,<blank>
 Prolink,admin,password
 "Promise Technology,Inc.",administrator,password
 Promise,admin,admin
 Promise,engmode,hawk201
-Prostar,none,4321
+Prostar,<blank>,4321
 Protocraft,musi1921,Musi%1921
-Proxicast,,1234
-Proxim,,
-Proxim,,public
+Proxicast,<blank>,1234
+Proxim,<blank>,<blank>
+Proxim,<blank>,public
 Psionteklogix,admin,admin
 Psionteklogix,support,h179350
 Pyramid Computer,admin,admin
 Pyramid Computer,admin,gnumpf
-Q-Tec,Admin,
-QDI,,QDI
-QDI,,lesarotl
-QDI,,password
-QDI,<N/A>,QDI
-QDI,<N/A>,lesarotl
+Q-Tec,Admin,<blank>
+QDI,<blank>,QDI
+QDI,<blank>,lesarotl
+QDI,<blank>,password
+QDI,<blank>,QDI
+QDI,<blank>,lesarotl
 QLogic,admin,password
 QLogic,images,images
 QualiTeam,master,master
-Quantex,,teX1
-Quantex,,xljlbj
-Quantex,<N/A>,teX1
-Quantex,<N/A>,xljlbj
-Quantum,,
+Quantex,<blank>,teX1
+Quantex,<blank>,xljlbj
+Quantex,<blank>,teX1
+Quantex,<blank>,xljlbj
+Quantum,<blank>,<blank>
 Quest Software,TOAD,TOAD
 Questra Corporation,guest,guest
 Questra Corporation,questra,questra
 Quintum Technologies Inc.,admin,admin
-RCA,,admin
-RM,,RM
-RM,<N/A>,RM
+RCA,<blank>,admin
+RM,<blank>,RM
+RM,<blank>,RM
 RM,RMUser1,password
 RM,admin,rmnetlm
 RM,admin2,changeme
@@ -2202,7 +2202,7 @@ RM,deskalt,password
 RM,deskman,changeme
 RM,desknorm,password
 RM,deskres,password
-RM,guest,
+RM,guest,<blank>
 RM,replicator,replicator
 RM,setup,changeme
 RM,teacher,password
@@ -2215,43 +2215,43 @@ RObiGVqUbQt,wVQxyQec,eomjbOBLLwbZeiKV
 RSA,admin,admin1234
 RSA,administrator,RSAAppliance
 RSA,master,themaster01
-Radio Shack,,744
+Radio Shack,<blank>,744
 Radio Shack,[MULTIPLE],744
-Radvision,,MCUrv
-Radvision,admin,
+Radvision,<blank>,MCUrv
+Radvision,admin,<blank>
 Radware,lp,lp
 Radware,radware,radware
-Raidzone,,raidzone
-Raidzone,<N/A>,raidzone
-Rainbow,,PASSWORD
-Rainbow,,rainbow
+Raidzone,<blank>,raidzone
+Raidzone,<blank>,raidzone
+Rainbow,<blank>,PASSWORD
+Rainbow,<blank>,rainbow
 Ramp Networks,wradmin,trancell
-RapidStream,rsadmin,
+RapidStream,rsadmin,<blank>
 Raritan Inc.,admin,raritan
 Raritan Inc.,epiq_api,raritan
 Raritan Inc.,web_api,sl33p30F00dumass!
 Raritan,admin,raritan
 RayTalk,root,root
-"Red Hat,Inc",,AMIAMI
-"Red Hat,Inc",,AMIDECOD
+"Red Hat,Inc",<blank>,AMIAMI
+"Red Hat,Inc",<blank>,AMIDECOD
 "Red Hat,Inc",admin,admin
 "Red Hat,Inc",piranha,piranha
 "Red Hat,Inc",piranha,q
 RedHat,piranha,piranha
 RedHat,piranha,q
-Redcreek Communications,,1234
-Redcreek Communications,,private
+Redcreek Communications,<blank>,1234
+Redcreek Communications,<blank>,private
 Remedy,ARAdmin,AR#Admin#
-Remedy,Demo,
-Research,,Col2ogro2
-Research,<N/A>,Col2ogro2
+Remedy,Demo,<blank>
+Research,<blank>,Col2ogro2
+Research,<blank>,Col2ogro2
 Research Machines,manager,changeme
 Resumix,root,resumix
-Ricoh,,password
-Ricoh,,sysadm
-Ricoh,<N/A>,password
-Ricoh,<N/A>,sysadm
-Ricoh,admin,
+Ricoh,<blank>,password
+Ricoh,<blank>,sysadm
+Ricoh,<blank>,password
+Ricoh,<blank>,sysadm
+Ricoh,admin,<blank>
 Ricoh,admin,no password
 Ricoh,admin,password
 Ricoh,sysadm,sysadm
@@ -2277,27 +2277,27 @@ SAP,SAP*,PASS
 SAP,SAPCPIC,ADMIN
 SAP,SAPCPIC,admin
 SAP,SAPR3,SAP
-SAP,TMSADM,
+SAP,TMSADM,<blank>
 SAP,admin,axis2
 SAP client EARLYWATCH,admin,Support
 SAP,ctb_admin,sap123
 SAP,itsadmin,init
 SAP,xmi_demo,sap123
-SMA America,,sma
-SMC,,0000
-SMC,,
-SMC,,smcadmin
-SMC,<N/A>,smcadmin
+SMA America,<blank>,sma
+SMC,<blank>,0000
+SMC,<blank>,<blank>
+SMC,<blank>,smcadmin
+SMC,<blank>,smcadmin
 SMC,Admin,Barricade
 SMC,Administrator,smcadmin
-SMC,admin,
+SMC,admin,<blank>
 SMC,admin,admin
 SMC,admin,barricade
 SMC,admin,smcadmin
 SMC,cusadmin,highspeed
 SMC,default,WLAN_AP
 SMC,mso,w0rkplac3rul3s
-SMC,none,none
+SMC,<blank>,<blank>
 SMC,smc,smcadmin
 SOPHIA (Schweiz),admin,Protector
 SOPHIA (Schweiz),root,root
@@ -2310,17 +2310,17 @@ Sagem,Menara,Menara
 Sagem,admin,admin
 Sagem,root,1234
 Samba,Any,Any
-Sambar Technologies,admin,
-Sambar Technologies,anonymous,
-Sambar Technologies,billy-bob,
-Sambar Technologies,ftp,
+Sambar Technologies,admin,<blank>
+Sambar Technologies,anonymous,<blank>
+Sambar Technologies,billy-bob,<blank>
+Sambar Technologies,ftp,<blank>
 Sambar Technologies,guest,guest
-Samsung,,s!a@m#n$p%c
-Samsung,<N/A>,
+Samsung,<blank>,s!a@m#n$p%c
+Samsung,<blank>,<blank>
 Samsung,admin,password
 Samsung,public,public
 Samuel Abels,user,password
-Schneider Electric,,admin
+Schneider Electric,<blank>,admin
 Schneider Electric,USER,USER
 Schneider Electric,ntpupdate,ntpupdate
 Scientific Atlanta,admin,w2402
@@ -2329,48 +2329,48 @@ Seagull Scientific,ADMIN,admin
 Seagull Scientific,USER,USER
 Seclore,root,changeonfirstlogin
 Seclore,sa,changeonfirstlogin
-Secure Computing,admin,
+Secure Computing,admin,<blank>
 Securicor3NET,manager,friend
-Semaphore,DESQUETOP,
-Semaphore,DS,
-Semaphore,DSA,
-Semaphore,PHANTOM,
+Semaphore,DESQUETOP,<blank>
+Semaphore,DS,<blank>
+Semaphore,DSA,<blank>
+Semaphore,PHANTOM,<blank>
 Sempre,admin,admin
-Senao,admin,
+Senao,admin,<blank>
 Sercom,admin,admin
 Server Technology,ADMN,admn
 Server Technology,GEN1,gen1
 Server Technology,GEN2,gen2
 "Seyeon Technology Co.,Ltd",root,root
-Sharp,<N/A>,sysadm
+Sharp,<blank>,sysadm
 Sharp,Administrator,admin
 Sharp,admin,Sharp
 Sharp,admin,admin
-Sharp,none,sysadm
+Sharp,<blank>,sysadm
 Shiva,admin,hello
-Shiva,guest,
+Shiva,guest,<blank>
 Shiva,hello,hello
-Shiva,root,
+Shiva,root,<blank>
 ShoreTel,Admin,admin1
 Shoretel,admin,changeme
-Shuttle,,Spacve
-Shuttle,<N/A>,Spacve
+Shuttle,<blank>,Spacve
+Shuttle,<blank>,Spacve
 Siemens,31994,31994
-Siemens,,0
-Siemens,,123456
-Siemens,,admin
-Siemens,<N/A>,123456
-Siemens,<N/A>,
-Siemens,<N/A>,SKY_FOX
-Siemens,<N/A>,admin
-Siemens,<N/A>,gubed
+Siemens,<blank>,0
+Siemens,<blank>,123456
+Siemens,<blank>,admin
+Siemens,<blank>,123456
+Siemens,<blank>,<blank>
+Siemens,<blank>,SKY_FOX
+Siemens,<blank>,admin
+Siemens,<blank>,gubed
 Siemens Corp,18140815,18140815
 Siemens Corp,31994,31994
-Siemens Corp,,SKY_FOX
-Siemens Corp,,uboot
+Siemens Corp,<blank>,SKY_FOX
+Siemens Corp,<blank>,uboot
 Siemens Corp,WinCCAdmin,2WSXcde
 Siemens Corp,WinCCConnect,2WSXcder
-Siemens Corp,admin,
+Siemens Corp,admin,<blank>
 Siemens Corp,admin,pwp
 Siemens Corp,eng,engineer
 Siemens Corp,op,op
@@ -2382,8 +2382,8 @@ Siemens Corp,sysadmin,sysadmin
 Siemens Corp,system,field
 Siemens Corp,system,system
 Siemens Corp,tech,tech
-Siemens,admin,
-Siemens,admin,<N/A>
+Siemens,admin,<blank>
+Siemens,admin,<blank>
 Siemens,admin,admin
 Siemens,admin,hagpolm1
 Siemens,admin,pwp
@@ -2401,23 +2401,23 @@ Sierra Wireless,user,12345
 Sigma,admin,admin
 Signamax,admin,admin
 Siips,Administrator,ganteng
-Silex Technology,root,
+Silex Technology,root,<blank>
 Silicon Graphics,4Dgifts,4Dgifts
-Silicon Graphics,4Dgifts,
-Silicon Graphics,6.x,
-Silicon Graphics,Ezsetup,
-Silicon Graphics,OutOfBox,
-Silicon Graphics,demos,
+Silicon Graphics,4Dgifts,<blank>
+Silicon Graphics,6.x,<blank>
+Silicon Graphics,Ezsetup,<blank>
+Silicon Graphics,OutOfBox,<blank>
+Silicon Graphics,demos,<blank>
 Silicon Graphics,field,field
-Silicon Graphics,guest,
-Silicon Graphics,lp,
+Silicon Graphics,guest,<blank>
+Silicon Graphics,lp,<blank>
 Silicon Graphics,tour,tour
-Silicon Graphics,tutor,
+Silicon Graphics,tutor,<blank>
 Silicon Graphics,tutor,tutor
 Silvercrest,admin,admin
 Site Interactive,admin,pass
-Sitecom,,damin
-Sitecom,,sitecom
+Sitecom,<blank>,damin
+Sitecom,<blank>,sitecom
 Sitecom,admin,admin
 Sitecom,admin,password
 Sitecore Corporation,Audrey,a
@@ -2426,7 +2426,7 @@ Sitecore Corporation,Denny,d
 Sitecore Corporation,Lonnie,l
 Sitecore Corporation,Minnie,m
 Sitecore Corporation,admin,b
-SmartSwitch,admin,
+SmartSwitch,admin,<blank>
 Snap Appliance,admin,admin
 SnapGear,root,default
 Snapgear,root,admin
@@ -2440,26 +2440,26 @@ Solwise,root,same as webui pwd
 Sonic-X,root,admin
 SonicWALL,admin,password
 Sonicwall,admin,password
-Sony Ericsson,,0000
+Sony Ericsson,<blank>,0000
 Sony,admin,admin
-Sorenson,,admin
+Sorenson,<blank>,admin
 Sourcefire,admin,password
 Sourcefire,root,password
 Sovereign Hill,Admin,shs
 Sparklan,admin,admin
-Spectra Logic,administrator,
-Spectra Logic,operator,
-SpeedStream,,admin
-SpeedStream,<N/A>,adminttd
+Spectra Logic,administrator,<blank>
+Spectra Logic,operator,<blank>
+SpeedStream,<blank>,admin
+SpeedStream,<blank>,adminttd
 SpeedStream,Administrator,admin
 SpeedStream,admin,admin
-SpeedXess,,speedxess
+SpeedXess,<blank>,speedxess
 Sphairon,admin,passwort
-Spider Systems,,hello
-Spike,enable,
+Spider Systems,<blank>,hello
+Spike,enable,<blank>
 Splunk,admin,changeme
-Ssangyoung,,2501
-Stan Ozier,admin,
+Ssangyoung,<blank>,2501
+Stan Ozier,admin,<blank>
 Stratitec,root,ahetzip8
 SuSE GmbH,root,root
 Sun Microsystems,root,changeme
@@ -2468,74 +2468,74 @@ Sun,root,changeme
 Sun,root,t00lk1t
 Sun,ssp,ssp
 "Super Micro Computer,Inc.",ADMIN,ADMIN
-SuperMicro,,ksdjfg934t
-SuperMicro,<N/A>,ksdjfg934t
+SuperMicro,<blank>,ksdjfg934t
+SuperMicro,<blank>,ksdjfg934t
 Supercook,admin,AlpheusDigital1010
 Supercook,super,super
 Supermicro,ADMIN,admin
 Surecom,admin,admin
 Surecom,admin,surecom
-Sweex,,
-Sweex,,admin
-Sweex,,mysweex
+Sweex,<blank>,<blank>
+Sweex,<blank>,admin
+Sweex,<blank>,mysweex
 Sweex,admin,1234
 Sweex,admin,epicrouter
-Sweex,none,blank
+Sweex,<blank>,blank
 Sweex,rdc123,rdc123
 Sweex,sweex,mysweex
 Swissvoice,target,password
 Syabas Technology,ftpuser,1234
 Syabas Technology,nmt,1234
-Sybase,12.x,
+Sybase,12.x,<blank>
 Sybase,DBA,SQL
-Sybase,jagadmin,
-Sybase,sa,
+Sybase,jagadmin,<blank>
+Sybase,sa,<blank>
 Sybase,sa,sasasa
-Symantec,,symantec
-Symantec,<N/A>,symantec
-Symantec,admin,
+Symantec,<blank>,symantec
+Symantec,<blank>,symantec
+Symantec,admin,<blank>
 Symantec,admin,symantec
 Symantec,root,brightmail
-Symbol,<N/A>,Symbol
+Symbol,<blank>,Symbol
 Symbol,Symbol,Symbol
 "Symbol Technologies,Inc",admin,superuser
 Symbol,admin,symbol
 Symmetricom,guest,truetime
 Symmetricom,operator,mercury
-Synology Inc,admin,
-SysKonnect,default.password,
+Synology Inc,admin,<blank>
+SysKonnect,default.password,<blank>
 SysMaster,admin,12345
 System/32,install,secret
-T-Com,,0
-T-Com,,123456
-T-Com,<N/A>,0
-T-Comfort,Administrator,
+T-Com,<blank>,0
+T-Com,<blank>,123456
+T-Com,<blank>,0
+T-Comfort,Administrator,<blank>
 T-com,veda,12871
 TELTRONIC S.A.U.,admin,tetra
 TIBCO,admin,admin
 TIBCO,admin,changeit
-TMC,,BIGO
-TMC,<N/A>,BIGO
+TMC,<blank>,BIGO
+TMC,<blank>,BIGO
 TOTOLINK,onlime_r,12345
 TOTOLINK,root,12345
 TP Link,admin,admin
-TVT System,,enter
-TVT System,craft,
-TYPO3,,joh316
+TVT System,<blank>,enter
+TVT System,craft,<blank>
+TYPO3,<blank>,joh316
 TYPO3,admin,password
-Tandberg,,GWrv
-Tandberg,,TANDBERG
-Tandberg,<N/A>,10023
-Tandberg,Admin,
-Tandberg,admin,
+Tandberg,<blank>,GWrv
+Tandberg,<blank>,TANDBERG
+Tandberg,<blank>,10023
+Tandberg,Admin,<blank>
+Tandberg,admin,<blank>
 Tandberg,admin,TANDBERG
 Tandberg,root,TANDBERG
-Tandem,super.super,
+Tandem,super.super,<blank>
 Tandem,super.super,master
 Tasman,Tasman,Tasmannet
 Team Xodus,xbox,xbox
 Tegile,admin,tegile
-Teklogix,Administrator,
+Teklogix,Administrator,<blank>
 Telappliant,admin,1234
 Telco Systems,telco,telco
 Telebit,setup,setup
@@ -2545,38 +2545,38 @@ Telelec,eagle,eagle
 Teletronics,admin,1234
 Telewell,admin,admin
 Telewell,admin,password
-Telindus,<N/A>,
+Telindus,<blank>,<blank>
 Telindus,admin,admin
 Tellabs,root,admin_1
 Tellabs,tellabs,tellabs#1
 Telus,(created),telus00
 Telus,(created),telus99
-Terayon,,
+Terayon,<blank>,<blank>
 Terayon,admin,password
-TexBox,,123
+TexBox,<blank>,123
 TextPortal,god1,12345
 TextPortal,god2,12345
 Thecus Tech,admin,admin
-Thomson,,admin
-Thomson,<N/A>,admin
+Thomson,<blank>,admin
+Thomson,<blank>,admin
 Thomson,admin,admin
 Thomson,admin,password
-Tiara Networks,<N/A>,tiara
+Tiara Networks,<blank>,tiara
 Tiara,tiara,tiaranet
 Tim Schaab,theman,changeit
 TimeTools,admin,admin
-Tiny,,Tiny
-Tinys,,tiny
-Tinys,<N/A>,Tiny
+Tiny,<blank>,Tiny
+Tinys,<blank>,tiny
+Tinys,<blank>,Tiny
 TopLayer,siteadmin,toplayer
 Topcom,admin,admin
-Toshiba,,24Banc81
-Toshiba,,Toshiba
-Toshiba,,toshy99
-Toshiba,<N/A>,24Banc81
-Toshiba,<N/A>,
-Toshiba,<N/A>,Toshiba
-Toshiba,<N/A>,toshy99
+Toshiba,<blank>,24Banc81
+Toshiba,<blank>,Toshiba
+Toshiba,<blank>,toshy99
+Toshiba,<blank>,24Banc81
+Toshiba,<blank>,<blank>
+Toshiba,<blank>,Toshiba
+Toshiba,<blank>,toshy99
 Toshiba,Admin,123456
 Toshiba,admin,123456
 Toshiba,super,superpass
@@ -2592,91 +2592,91 @@ Troy,admin,extendnet
 Tsunami,managers,managers
 Tumbleweed,Admin,SECRET123
 Typo3 Association,admin,password
-U.S. Robotics,,12345
-U.S. Robotics,<N/A>,admin
+U.S. Robotics,<blank>,12345
+U.S. Robotics,<blank>,admin
 U.S. Robotics,Any,12345
-U.S. Robotics,admin,
+U.S. Robotics,admin,<blank>
 U.S. Robotics,admin,admin
-U.S. Robotics,none,amber
+U.S. Robotics,<blank>,amber
 U.S. Robotics,root,12345
 U.S. Robotics,root,admin
 U.S. Robotics,support,support
-UNEX,<N/A>,password
-UNIX,adm,
+UNEX,<blank>,password
+UNIX,adm,<blank>
 UNIX,adm,adm
 UNIX,admin,admin
-UNIX,administrator,
+UNIX,administrator,<blank>
 UNIX,administrator,administrator
 UNIX,anon,anon
-UNIX,bbs,
+UNIX,bbs,<blank>
 UNIX,bbs,bbs
 UNIX,bin,sys
 UNIX,checkfs,checkfs
 UNIX,checkfsys,checkfsys
 UNIX,checksys,checksys
-UNIX,daemon,
+UNIX,daemon,<blank>
 UNIX,daemon,daemon
-UNIX,demo,
+UNIX,demo,<blank>
 UNIX,demo,demo
-UNIX,demos,
+UNIX,demos,<blank>
 UNIX,demos,demos
-UNIX,dni,
+UNIX,dni,<blank>
 UNIX,dni,dni
-UNIX,fal,
+UNIX,fal,<blank>
 UNIX,fal,fal
-UNIX,fax,
+UNIX,fax,<blank>
 UNIX,fax,fax
-UNIX,ftp,
+UNIX,ftp,<blank>
 UNIX,ftp,ftp
-UNIX,games,
+UNIX,games,<blank>
 UNIX,games,games
 UNIX,gopher,gopher
-UNIX,gropher,
-UNIX,guest,
+UNIX,gropher,<blank>
+UNIX,guest,<blank>
 UNIX,guest,guest
 UNIX,guest,guestgue
-UNIX,halt,
+UNIX,halt,<blank>
 UNIX,halt,halt
 UNIX,informix,informix
 UNIX,install,install
-UNIX,lp,
+UNIX,lp,<blank>
 UNIX,lp,bin
 UNIX,lp,lineprin
 UNIX,lp,lp
 UNIX,lpadm,lpadm
 UNIX,lpadmin,lpadmin
-UNIX,lynx,
+UNIX,lynx,<blank>
 UNIX,lynx,lynx
-UNIX,mail,
+UNIX,mail,<blank>
 UNIX,mail,mail
-UNIX,man,
+UNIX,man,<blank>
 UNIX,man,man
-UNIX,me,
+UNIX,me,<blank>
 UNIX,me,me
 UNIX,mountfs,mountfs
 UNIX,mountfsys,mountfsys
 UNIX,mountsys,mountsys
-UNIX,news,
+UNIX,news,<blank>
 UNIX,news,news
-UNIX,nobody,
+UNIX,nobody,<blank>
 UNIX,nobody,nobody
-UNIX,nuucp,
-UNIX,operator,
+UNIX,nuucp,<blank>
+UNIX,operator,<blank>
 UNIX,operator,operator
-UNIX,oracle,
-UNIX,postmaster,
+UNIX,oracle,<blank>
+UNIX,postmaster,<blank>
 UNIX,postmaster,postmast
 UNIX,powerdown,powerdown
 UNIX,rje,rje
-UNIX,root,
+UNIX,root,<blank>
 UNIX,root,hp
 UNIX,root,root
 UNIX,service,smile
-UNIX,setup,
+UNIX,setup,<blank>
 UNIX,setup,setup
-UNIX,shutdown,
+UNIX,shutdown,<blank>
 UNIX,shutdown,shutdown
-UNIX,sync,
+UNIX,sync,<blank>
 UNIX,sync,sync
 UNIX,sys,bin
 UNIX,sys,sys
@@ -2685,7 +2685,7 @@ UNIX,sysadm,admin
 UNIX,sysadm,sysadm
 UNIX,sysadmin,sysadmin
 UNIX,sysbin,sysbin
-UNIX,system_admin,
+UNIX,system_admin,<blank>
 UNIX,system_admin,system_admin
 UNIX,trouble,trouble
 UNIX,umountfs,umountfs
@@ -2695,53 +2695,53 @@ UNIX,unix,unix
 UNIX,user,user
 UNIX,uucp,uucp
 UNIX,uucpadm,uucpadm
-UNIX,web,
+UNIX,web,<blank>
 UNIX,web,web
-UNIX,webmaster,
+UNIX,webmaster,<blank>
 UNIX,webmaster,webmaster
-UNIX,www,
+UNIX,www,<blank>
 UNIX,www,www
 USRobotics,admin,admin
-UT Lexar,lexar,
+UT Lexar,lexar,<blank>
 UTStarcom,dbase,dbase
 UTStarcom,field,field
 UTStarcom,guru,*3noguru
 UTStarcom,snmp,snmp
-Unex,,password
+Unex,<blank>,password
 Unidesk,Administrator,Unidesk1
-Unify,,123456
+Unify,<blank>,123456
 Union,root,root
 Unisys,ADMINISTRATOR,ADMINISTRATOR
 Unisys,HTTP,HTTP
 Unisys,NAU,NAU
 United Technologies Corporation,admin,1234
-Unknown,,password
+Unknown,<blank>,password
 Unknown,operator,operator
 Unknown,overseer,overseer
 Unknown,test,test
 UsRobotics,Any,12345
 Utstar,admin,utstar
-VASCO,admin,
+VASCO,admin,<blank>
 VBrick Systems,admin,admin
 VPASP,admin,admin
 VPASP,vpasp,vpasp
 Various,root,admin
 Veramark,admin,password
-Verifone,,166816
-Verilink,,
+Verifone,<blank>,166816
+Verilink,<blank>,<blank>
 Veritas,admin,password
 Verity,admin,admin
 Verizon,admin,password
-Vextrec Technology,,Vextrex
-Vextrec Technology,<N/A>,Vextrex
+Vextrec Technology,<blank>,Vextrex
+Vextrec Technology,<blank>,Vextrex
 VieNuke,admin,admin
-Vina Technologies,,
+Vina Technologies,<blank>,<blank>
 Virtual Programming,admin,admin
 Virtual Programming,vpasp,vpasp
 Visa VAP,root,QNX
 Visual Networks,admin,visual
-Vobis,,merlin
-Vobis,<N/A>,merlin
+Vobis,<blank>,merlin
+Vobis,<blank>,merlin
 VoiceGenie Technologies,pw,pw
 VoiceObjects Germany,voadmin,manager
 Vonage,user,user
@@ -2751,120 +2751,120 @@ WAAV,admin,waav
 WLAN_3D,Administrator,admin
 WWWBoard,WebAdmin,WebBoard
 Wanadoo,admin,admin
-"Wanco,Inc.",,ABCD
-"Wanco,Inc.",,Guest
-"Wanco,Inc.",,NTCIP
-"Wanco,Inc.",,Public
+"Wanco,Inc.",<blank>,ABCD
+"Wanco,Inc.",<blank>,Guest
+"Wanco,Inc.",<blank>,NTCIP
+"Wanco,Inc.",<blank>,Public
 Wang,CSG,SESAME
-WatchGuard,,wg
+WatchGuard,<blank>,wg
 WatchGuard,admin,admin
 WatchGuard,admin,readwrite
 WatchGuard,status,readonly
-Watchguard,,wg
-Watchguard,admin,
+Watchguard,<blank>,wg
+Watchguard,admin,<blank>
 Watchguard,user,pass
 Web Wiz,Administrator,letmein
 Webmin,admin,hp.com
 Webramp,wradmin,trancell
 Weidmüller,admin,detmond
 Westell,CSG,SESAME
-Westell,admin,
+Westell,admin,<blank>
 Westell,admin,password
 Westell,admin,password1
 Westell,admin,sysAdmin
-Wim Bervoets,,Compleri
-Wim Bervoets,<N/A>,Compleri
+Wim Bervoets,<blank>,Compleri
+Wim Bervoets,<blank>,Compleri
 "Wireless,Inc.",root,rootpass
 WorldClient,WebAdmin,Admin
-Wyse,,Fireport
-Wyse,<N/A>,password
+Wyse,<blank>,Fireport
+Wyse,<blank>,password
 Wyse,VNC,winterm
 Wyse,rapport,r@p8p0r+
-Wyse,root,
+Wyse,root,<blank>
 Wyse,root,wyse
 X-Micro,1502,1502
 X-Micro,super,super
 XAMPP,newuser,wampp
-Xavi,<N/A>,
+Xavi,<blank>,<blank>
 Xavi,admin,admin
 Xerox,11111,x-admin
-Xerox,,11111
-Xerox,<N/A>,0
+Xerox,<blank>,11111
+Xerox,<blank>,0
 Xerox,Administrator,Fiery.1
 Xerox,NSA,nsa
 Xerox,admin,1111
 Xerox,admin,2222
 Xerox,admin,22222
-Xerox,admin,
+Xerox,admin,<blank>
 Xerox,admin,admin
 Xerox,admin,x-admin
 Xerox,savelogs,crash
 Xinit Systems Ltd.,openfiler,password
 Xylan,admin,switch
 Xylan,diag,switch
-Xyplex,,access
-Xyplex,,system
-Xyplex,<N/A>,
-Xyplex,<N/A>,access
-Xyplex,<N/A>,system
+Xyplex,<blank>,access
+Xyplex,<blank>,system
+Xyplex,<blank>,<blank>
+Xyplex,<blank>,access
+Xyplex,<blank>,system
 Xyplex,setpriv,system
 Yakumo,admin,admin
-Yokogawa,<N/A>,727
+Yokogawa,<blank>,727
 Yokogawa,admin,!admin
 Yuxin,User,1234
 Yuxin,User,19750407
-ZEOS,,zeosx
-ZEOS,<N/A>,zeosx
+ZEOS,<blank>,zeosx
+ZEOS,<blank>,zeosx
 ZTE,ADSL,expert03
 Zcom,root,admin
 Zcomax,admin,password
 Zebra Technologies,admin,1234
 Zebra,admin,1234
-Zenith,,3098z
-Zenith,,Zenith
-Zenith,<N/A>,3098z
-Zenith,<N/A>,Zenith
-Zeus,admin,
+Zenith,<blank>,3098z
+Zenith,<blank>,Zenith
+Zenith,<blank>,3098z
+Zenith,<blank>,Zenith
+Zeus,admin,<blank>
 Zoom,admin,zoomadsl
-ZyWALL Series,<N/A>,admin
+ZyWALL Series,<blank>,admin
 Zyxel,1234,1234
 Zyxel,192.168.1.1 60020,@dsl_xilno
-Zyxel,,1234
-Zyxel,<N/A>,1234
-Zyxel,<N/A>,
-Zyxel,<N/A>,admin
+Zyxel,<blank>,1234
+Zyxel,<blank>,1234
+Zyxel,<blank>,<blank>
+Zyxel,<blank>,admin
 Zyxel,Admin,atc456
 Zyxel,admin,0000
 Zyxel,admin,1234
-Zyxel,admin,
+Zyxel,admin,<blank>
 Zyxel,admin,admin
 Zyxel,root,1234
 Zyxel,webadmin,1234
-accton t-online,,0
+accton t-online,<blank>,0
 acer,acer,acer
 actiontec,admin,admin
-adtran,<N/A>,
-adtran,<N/A>,Password
-adtran,<N/A>,adtran
-allied,,
-ast,<N/A>,
+adtran,<blank>,<blank>
+adtran,<blank>,Password
+adtran,<blank>,adtran
+allied,<blank>,<blank>
+ast,<blank>,<blank>
 backtrack,root,toor
-boson,<N/A>,
+boson,<blank>,<blank>
 canyon,Administrator,admin
 crt,egcr,ergc
-cuproplus,<N/A>,
+cuproplus,<blank>,<blank>
 cyberguard,cgadmin,cgadmin
 darkman,ioFTPD,ioFTPD
 decnet,operator,admin
-digicom,Admin,
+digicom,Admin,<blank>
 drupal.org,admin,admin
 eMachines,emaq,4133
 eQ-3,root,MuZhlo9n%8!G
 eSeSIX Computer GmbH,root,jstwo
 eZ Systems,admin,publish
-enCAD,<N/A>,
-ericsson,,help
-ericsson,<N/A>,
+enCAD,<blank>,<blank>
+ericsson,<blank>,help
+ericsson,<blank>,<blank>
 fon,admin,admin
 giga,Administrator,admin
 glFtpD,glftpd,glftpd
@@ -2877,36 +2877,36 @@ iNTERFACEWARE Inc.,admn,password
 iPSTAR,admin,operator
 iblitzz,admin,admin
 inchon,admin,admin
-infacta,Administrator,
-intel,,
-intel,admin,
+infacta,Administrator,<blank>
+intel,<blank>,<blank>
+intel,admin,<blank>
 intel,khan,kahn
 intel,root,admin
-intex,<N/A>,
-ion,<N/A>,admin
+intex,<blank>,<blank>
+ion,<blank>,admin
 ion,Administrator,admin
-iso sistemi,<N/A>,
-kaptest,admin,
-latis network,<N/A>,
+iso sistemi,<blank>,<blank>
+kaptest,admin,<blank>
+latis network,<blank>,<blank>
 longshine,admin,0
 m0n0wall,admin,mono
-maxdata,<N/A>,
-medion,<N/A>,medion
+maxdata,<blank>,<blank>
+medion,<blank>,medion
 metro,client,client
-microRouter,<N/A>,letmein
+microRouter,<blank>,letmein
 mklencke,root,blablabla
-motorola,<N/A>,
+motorola,<blank>,<blank>
 mro software,SYSADM,sysadm
 nCircle,root,ciwuxe
 olitec (Trendchip),admin,admin
 olitec,admin,adslolitec
 oodie.com,admin,admin
-ovislink,root,
-penril datability,<N/A>,system
+ovislink,root,<blank>
+penril datability,<blank>,system
 pfSense,admin,pfsense
-phoenix,<N/A>,admin
-phpLiteAdmin,,admin
-phpMyAdmin,root,
+phoenix,<blank>,admin
+phpLiteAdmin,<blank>,admin
+phpMyAdmin,root,<blank>
 phpTest,admin,1234
 phpTest,guest,guest
 planet,admin,admin
@@ -2919,29 +2919,29 @@ rm,administrator,password/changeme or secret
 schneider,USER,USER
 securstar,admin,rainbow
 seninleyimben,admin,admin
-sharp,<N/A>,
-sitara,root,
+sharp,<blank>,<blank>
+sitara,root,<blank>
 smartBridges,admin,public
 sprint,self,system
 stratacom,stratacom,stratauser
 stuccoboy,stuccoboy,100198
-technology,root,
-telecom,operator,
+technology,root,<blank>
+telecom,operator,<blank>
 tert,james,james
 topsec,superman,talent
 vertex,root,vertex25
 warraCorp,pepino,pepino
 weblogic,system,weblogic
-winwork,operator,
+winwork,operator,<blank>
 wline,admin,1234
 xavi,admin,admin
 xd,xd,xd
-xerox,<N/A>,admin
+xerox,<blank>,admin
 xerox,admin,1111
 zenitel,admin,alphaadmin
 zenitel,ADMIN,alphacom
-zenitel,,1851
-zenitel,,1234
+zenitel,<blank>,1851
+zenitel,<blank>,1234
 zoom,admin,zoomadsl
 thomson (ssh),admin,admin
 thomson (ssh),admin,password
@@ -2958,13 +2958,13 @@ windows (RDP),wasadmin,wasadmin
 windows (RDP),maxadmin,maxadmin
 windows (RDP),mxintadm,mxintadm
 windows (RDP),maxreg,maxreg
-windows (RDP),root,
+windows (RDP),root,<blank>
 windows (RDP),admin,admin
 windows (RDP),admin,12345
 windows (RDP),admin,1234
 windows (RDP),admin,123456
 windows (RDP),instrument,instrument
-windows (RDP),admin,
+windows (RDP),admin,<blank>
 windows (RDP),nmt,1234
 windows (RDP),admin,password
 windows (RDP),IEUser,Passw0rd!
@@ -2974,7 +2974,7 @@ windows (RDP),Administrator,vagrant
 windows (RDP),john,Password123!
 3com (ssh),admin,admin
 topnet (web),topadmin,topadmin
-orange livebox4  (web),admin,
+orange livebox4  (web),admin,<blank>
 orange livebox4  (web),admin,(blank)
 asus (ssh),admin,admin
 asus (ssh),admin,password
@@ -2982,7 +2982,7 @@ asus (ssh),root,root
 asus (ssh),Admin,Admin
 billion (ssh),admin,admin
 huawei (ssh),admin,admin
-huawei (ssh),admin,
+huawei (ssh),admin,<blank>
 huawei (ssh),Admin,admin
 huawei (ssh),user,user
 huawei (ssh),vodafone,vodafone
@@ -2998,19 +2998,19 @@ Juniper (ssh),admin,peribit
 Juniper (ssh),netscreen,netscreen
 Juniper (ssh),redline,redline
 Juniper (ssh),serial#,serial#
-Konica Minolta (web),,0000
-Konica Minolta (web),,1234
-Konica Minolta (web),,
-Konica Minolta (web),,MagiMFP
-Konica Minolta (web),,sysAdmin
-Konica Minolta (web),<N/A>,0
-Konica Minolta (web),<N/A>,sysadm
+Konica Minolta (web),<blank>,0000
+Konica Minolta (web),<blank>,1234
+Konica Minolta (web),<blank>,<blank>
+Konica Minolta (web),<blank>,MagiMFP
+Konica Minolta (web),<blank>,sysAdmin
+Konica Minolta (web),<blank>,0
+Konica Minolta (web),<blank>,sysadm
 Konica Minolta (web),admin,administrator
 Kronos,SuperUser,kronites
 McAfee,admin,admin123
 McAfee,scmadmin,scmchangeme
 McAfee,webshield,webshieldchangeme
-Mitel,<N/A>,
+Mitel,<blank>,<blank>
 Mitel Networks,1nstaller,5X2000
 Mitel Networks,installer,sx2000
 Mitel Networks,maint1,sx2000
@@ -3020,8 +3020,8 @@ Mitel Networks,system,sx2000
 Mitel,installer,1000
 Mitel,system,mnet
 Mitel,system,password
-RedHat (ssh),,AMIAMI
-RedHat (ssh),,AMIDECOD
+RedHat (ssh),<blank>,AMIAMI
+RedHat (ssh),<blank>,AMIDECOD
 RedHat (ssh),admin,admin
 RedHat (ssh),piranha,piranha
 RedHat (ssh),piranha,q
@@ -3036,15 +3036,15 @@ SAP (web),SAP*,PASS
 SAP (web),SAPCPIC,ADMIN
 SAP (web),SAPCPIC,admin
 SAP (web),SAPR3,SAP
-SAP (web),TMSADM,<BLANK>
+SAP (web),TMSADM,<blank>
 SAP (web),admin,axis2
 SAP (web) client EARLYWATCH,admin,Support
 SAP (web),ctb_admin,sap123
 SAP (web),itsadmin,init
 SAP (web),xmi_demo,sap123
-Symantec,,symantec
-Symantec,<N/A>,symantec
-Symantec,admin,
+Symantec,<blank>,symantec
+Symantec,<blank>,symantec
+Symantec,admin,<blank>
 Symantec,admin,symantec
 Symantec,root,brightmail
 Trend Micro,admin,admin
@@ -3066,7 +3066,7 @@ acti (web),admin,123456
 acti (web),Admin,12345
 acti (web),Admin,123456
 avigilon (web),admin,admin
-avigilon (web),Administrator,
+avigilon (web),Administrator,<blank>
 basler (web),admin,admin
 grandstream (web),admin,admin
 siemens (web),admin,admin
@@ -3082,8 +3082,8 @@ samsung (web),admin,4321
 samsung (web),root,admin
 speco (web),admin,1234
 videoiq (web),supervisor,supervisor
-arecont (web),admin,
-arecont (web),,
+arecont (web),admin,<blank>
+arecont (web),<blank>,<blank>
 canon (web),root,camera
 geovision (web),admin,admin
 honeywell (web),admin,1234
@@ -3108,132 +3108,132 @@ postgres (postgres),admin,password
 postgres (postgres),postgres,123
 DELL IDARC (web),root,calvin
 Zyxel NWA/NAP/WAC wireless access point series (ftp),devicehaecived,1234
-ftp (ftp),anonymous,None
+ftp (ftp),anonymous,<blank>
 ftp (ftp),ftp,ftp
 ftp (ftp),guest,guest
-SNMP (snmp),None,0
-SNMP (snmp),None,0392a0
-SNMP (snmp),None,1234
-SNMP (snmp),None,2read
-SNMP (snmp),None,4changes
-SNMP (snmp),None,access
-SNMP (snmp),None,adm
-SNMP (snmp),None,admin
-SNMP (snmp),None,Admin
-SNMP (snmp),None,agent
-SNMP (snmp),None,agent_steal
-SNMP (snmp),None,all
-SNMP (snmp),None,all
-SNMP (snmp),None,private
-SNMP (snmp),None,all
-SNMP (snmp),None,ANYCOM
-SNMP (snmp),None,apc
-SNMP (snmp),None,bintec
-SNMP (snmp),None,blue
-SNMP (snmp),None,c
-SNMP (snmp),None,C0de
-SNMP (snmp),None,cable
-SNMP (snmp),None,canon_admin
-SNMP (snmp),None,cc
-SNMP (snmp),None,cisco
-SNMP (snmp),None,CISCO
-SNMP (snmp),None,community
-SNMP (snmp),None,core
-SNMP (snmp),None,CR52401
-SNMP (snmp),None,debug
-SNMP (snmp),None,default
-SNMP (snmp),None,dilbert
-SNMP (snmp),None,enable
-SNMP (snmp),None,field
-SNMP (snmp),None,field
-SNMP (snmp),None,freekevin
-SNMP (snmp),None,fubar
-SNMP (snmp),None,guest
-SNMP (snmp),None,hello
-SNMP (snmp),None,hp_admin
-SNMP (snmp),None,ibm
-SNMP (snmp),None,IBM
-SNMP (snmp),None,ilmi
-SNMP (snmp),None,ILMI
-SNMP (snmp),None,intermec
-SNMP (snmp),None,Intermec
-SNMP (snmp),None,internal
-SNMP (snmp),None,l2
-SNMP (snmp),None,l3
-SNMP (snmp),None,manager
-SNMP (snmp),None,mngt
-SNMP (snmp),None,monitor
-SNMP (snmp),None,netman
-SNMP (snmp),None,network
-SNMP (snmp),None,NoGaH$@!
-SNMP (snmp),None,none
-SNMP (snmp),None,openview
-SNMP (snmp),None,OrigEquipMfr
-SNMP (snmp),None,pass
-SNMP (snmp),None,password
-SNMP (snmp),None,pr1v4t3
-SNMP (snmp),None,Private
-SNMP (snmp),None,PRIVATE
-SNMP (snmp),None,proxy
-SNMP (snmp),None,publ1c
-SNMP (snmp),None,public
-SNMP (snmp),None,Public
-SNMP (snmp),None,PUBLIC
-SNMP (snmp),None,read
-SNMP (snmp),None,read
-SNMP (snmp),None,readwrite
-SNMP (snmp),None,read
-SNMP (snmp),None,red
-SNMP (snmp),None,regional
-SNMP (snmp),None,rmon
-SNMP (snmp),None,rmon_admin
-SNMP (snmp),None,ro
-SNMP (snmp),None,root
-SNMP (snmp),None,router
-SNMP (snmp),None,rw
-SNMP (snmp),None,rwa
-SNMP (snmp),None,s!a@m#n$p%c
-SNMP (snmp),None,sanfran
-SNMP (snmp),None,san
-SNMP (snmp),None,scotty
-SNMP (snmp),None,secret
-SNMP (snmp),None,Secret
-SNMP (snmp),None,SECRET
-SNMP (snmp),None,security
-SNMP (snmp),None,Security
-SNMP (snmp),None,SECURITY
-SNMP (snmp),None,seri
-SNMP (snmp),None,snmp
-SNMP (snmp),None,SNMP
-SNMP (snmp),None,snmpd
-SNMP (snmp),None,snmptrap
-SNMP (snmp),None,SNMP_trap
-SNMP (snmp),None,solaris
-SNMP (snmp),None,sun
-SNMP (snmp),None,SUN
-SNMP (snmp),None,superuser
-SNMP (snmp),None,switch
-SNMP (snmp),None,Switch
-SNMP (snmp),None,SWITCH
-SNMP (snmp),None,system
-SNMP (snmp),None,System
-SNMP (snmp),None,SYSTEM
-SNMP (snmp),None,tech
-SNMP (snmp),None,test
-SNMP (snmp),None,TEST
-SNMP (snmp),None,test2
-SNMP (snmp),None,tiv0li
-SNMP (snmp),None,tivoli
-SNMP (snmp),None,trap
-SNMP (snmp),None,world
-SNMP (snmp),None,write
-SNMP (snmp),None,xyzzy
-SNMP (snmp),None,yellow
-Cisco Guard (snmp),None,riverhead
-EyesOfNetwork (snmp),None,EyesOfNetwork
-publicprivate (snmp),None,public
-publicprivate (snmp),None,private
-APC SmartSlot (snmp),None,TENmanUFactOryPOWER
+SNMP (snmp),<blank>,0
+SNMP (snmp),<blank>,0392a0
+SNMP (snmp),<blank>,1234
+SNMP (snmp),<blank>,2read
+SNMP (snmp),<blank>,4changes
+SNMP (snmp),<blank>,access
+SNMP (snmp),<blank>,adm
+SNMP (snmp),<blank>,admin
+SNMP (snmp),<blank>,Admin
+SNMP (snmp),<blank>,agent
+SNMP (snmp),<blank>,agent_steal
+SNMP (snmp),<blank>,all
+SNMP (snmp),<blank>,all
+SNMP (snmp),<blank>,private
+SNMP (snmp),<blank>,all
+SNMP (snmp),<blank>,ANYCOM
+SNMP (snmp),<blank>,apc
+SNMP (snmp),<blank>,bintec
+SNMP (snmp),<blank>,blue
+SNMP (snmp),<blank>,c
+SNMP (snmp),<blank>,C0de
+SNMP (snmp),<blank>,cable
+SNMP (snmp),<blank>,canon_admin
+SNMP (snmp),<blank>,cc
+SNMP (snmp),<blank>,cisco
+SNMP (snmp),<blank>,CISCO
+SNMP (snmp),<blank>,community
+SNMP (snmp),<blank>,core
+SNMP (snmp),<blank>,CR52401
+SNMP (snmp),<blank>,debug
+SNMP (snmp),<blank>,default
+SNMP (snmp),<blank>,dilbert
+SNMP (snmp),<blank>,enable
+SNMP (snmp),<blank>,field
+SNMP (snmp),<blank>,field
+SNMP (snmp),<blank>,freekevin
+SNMP (snmp),<blank>,fubar
+SNMP (snmp),<blank>,guest
+SNMP (snmp),<blank>,hello
+SNMP (snmp),<blank>,hp_admin
+SNMP (snmp),<blank>,ibm
+SNMP (snmp),<blank>,IBM
+SNMP (snmp),<blank>,ilmi
+SNMP (snmp),<blank>,ILMI
+SNMP (snmp),<blank>,intermec
+SNMP (snmp),<blank>,Intermec
+SNMP (snmp),<blank>,internal
+SNMP (snmp),<blank>,l2
+SNMP (snmp),<blank>,l3
+SNMP (snmp),<blank>,manager
+SNMP (snmp),<blank>,mngt
+SNMP (snmp),<blank>,monitor
+SNMP (snmp),<blank>,netman
+SNMP (snmp),<blank>,network
+SNMP (snmp),<blank>,NoGaH$@!
+SNMP (snmp),<blank>,<blank>
+SNMP (snmp),<blank>,openview
+SNMP (snmp),<blank>,OrigEquipMfr
+SNMP (snmp),<blank>,pass
+SNMP (snmp),<blank>,password
+SNMP (snmp),<blank>,pr1v4t3
+SNMP (snmp),<blank>,Private
+SNMP (snmp),<blank>,PRIVATE
+SNMP (snmp),<blank>,proxy
+SNMP (snmp),<blank>,publ1c
+SNMP (snmp),<blank>,public
+SNMP (snmp),<blank>,Public
+SNMP (snmp),<blank>,PUBLIC
+SNMP (snmp),<blank>,read
+SNMP (snmp),<blank>,read
+SNMP (snmp),<blank>,readwrite
+SNMP (snmp),<blank>,read
+SNMP (snmp),<blank>,red
+SNMP (snmp),<blank>,regional
+SNMP (snmp),<blank>,rmon
+SNMP (snmp),<blank>,rmon_admin
+SNMP (snmp),<blank>,ro
+SNMP (snmp),<blank>,root
+SNMP (snmp),<blank>,router
+SNMP (snmp),<blank>,rw
+SNMP (snmp),<blank>,rwa
+SNMP (snmp),<blank>,s!a@m#n$p%c
+SNMP (snmp),<blank>,sanfran
+SNMP (snmp),<blank>,san
+SNMP (snmp),<blank>,scotty
+SNMP (snmp),<blank>,secret
+SNMP (snmp),<blank>,Secret
+SNMP (snmp),<blank>,SECRET
+SNMP (snmp),<blank>,security
+SNMP (snmp),<blank>,Security
+SNMP (snmp),<blank>,SECURITY
+SNMP (snmp),<blank>,seri
+SNMP (snmp),<blank>,snmp
+SNMP (snmp),<blank>,SNMP
+SNMP (snmp),<blank>,snmpd
+SNMP (snmp),<blank>,snmptrap
+SNMP (snmp),<blank>,SNMP_trap
+SNMP (snmp),<blank>,solaris
+SNMP (snmp),<blank>,sun
+SNMP (snmp),<blank>,SUN
+SNMP (snmp),<blank>,superuser
+SNMP (snmp),<blank>,switch
+SNMP (snmp),<blank>,Switch
+SNMP (snmp),<blank>,SWITCH
+SNMP (snmp),<blank>,system
+SNMP (snmp),<blank>,System
+SNMP (snmp),<blank>,SYSTEM
+SNMP (snmp),<blank>,tech
+SNMP (snmp),<blank>,test
+SNMP (snmp),<blank>,TEST
+SNMP (snmp),<blank>,test2
+SNMP (snmp),<blank>,tiv0li
+SNMP (snmp),<blank>,tivoli
+SNMP (snmp),<blank>,trap
+SNMP (snmp),<blank>,world
+SNMP (snmp),<blank>,write
+SNMP (snmp),<blank>,xyzzy
+SNMP (snmp),<blank>,yellow
+Cisco Guard (snmp),<blank>,riverhead
+EyesOfNetwork (snmp),<blank>,EyesOfNetwork
+publicprivate (snmp),<blank>,public
+publicprivate (snmp),<blank>,private
+APC SmartSlot (snmp),<blank>,TENmanUFactOryPOWER
 telnet (telnet),root,password
 telnet (telnet),root,root
 telnet (telnet),root,xc3511
@@ -3247,11 +3247,11 @@ telnet (telnet),root,juantech
 telnet (telnet),root,123456
 telnet (telnet),root,54321
 telnet (telnet),support,support
-telnet (telnet),root,None
+telnet (telnet),root,<blank>
 telnet (telnet),admin,password
 telnet (telnet),root,12345
 telnet (telnet),user,user
-telnet (telnet),admin,None
+telnet (telnet),admin,<blank>
 telnet (telnet),root,pass
 telnet (telnet),admin,admin1234
 telnet (telnet),root,1111
@@ -3304,13 +3304,13 @@ American Dynamics EDVR (telnet),admin,9999
 ClearPass (general),admin,eTIPS123
 Grafana (general),admin,admin
 Ubiquiti EdgeOS (web),ubnt,ubnt
-CA APM Team Center (web),Admin,
+CA APM Team Center (web),Admin,<blank>
 CA APM Team Center (web),Guest,Guest
 CA NetQoS (web),nqadmin,nq
 CA NetQoS (web),nquser,nq
 AudioCodes Mediant 1000 (web),Admin,Admin
 ActiveMQ (general),admin,admin
-ActiveMQ (general),,
+ActiveMQ (general),<blank>,<blank>
 Kanboard (web),admin,admin
 IBM UrbanCode Deploy (web),admin,admin
 IBM UrbanCode Deploy (web),ucdpadmin,ucdpadmin
@@ -3321,7 +3321,7 @@ Teleopti WFM (web),admin@company.com,admin
 Endpoint Protector (general),root,epp2011
 NetBackup OpsCenter Analytics (web),admin,password
 Dynatrace (web),admin,admin
-Jenkins (web),,
+Jenkins (web),<blank>,<blank>
 Zabbix (web),Admin,zabbix
 DataStax OpsCenter 6.0.x (web),admin,admin
 JBoss AS 6 (web),admin,admin
@@ -3340,7 +3340,7 @@ Apache Tomcat Host Manager (web),ADMIN,ADMIN
 Apache Tomcat Host Manager (web),xampp,xampp
 Apache Tomcat Host Manager (web),tomcat,s3cret
 Apache Tomcat Host Manager (web),QCC,QLogic66
-Apache Tomcat Host Manager (web),admin,None
+Apache Tomcat Host Manager (web),admin,<blank>
 Apache Tomcat Host Manager (web),admin,tomcat
 Apache Tomcat Host Manager (web),root,root
 Apache Tomcat Host Manager (web),role1,role1
@@ -3350,7 +3350,7 @@ Apache Tomcat Host Manager (web),admin,j5Brn9
 Apache Tomcat Host Manager (web),role1,tomcat
 Nuxeo Server (general),Administrator,Administrator
 Oracle Glassfish (web),admin,admin
-Oracle Glassfish (web),admin,
+Oracle Glassfish (web),admin,<blank>
 Cisco Systems (general),cisco,cisco
 IBM IMM (web),USERID,PASSW0RD
 Avaya Contact Center (web),webadmin,webadmin
@@ -3359,68 +3359,68 @@ SonarQube (web),admin,admin
 Supermicro (web),ADMIN,ADMIN
 Nexus Repository Manager (web),admin,admin123
 Cisco Collaboration Endpoint (general),cisco,admin
-TeamCity 9 Guest (web),,
+TeamCity 9 Guest (web),<blank>,<blank>
 Haivision Makito X Decoder (web),admin,manager
 HP Server Automation (web),Administrator,admin
 HP Server Automation (web),admin,opsware_admin
 JasperReports (web),jasperadmin,jasperadmin
 JasperReports (web),jasperadmin,bitnami
 Nortel Integrated Call Director (web),admin,admin
-Elasticsearch (web),,
+Elasticsearch (web),<blank>,<blank>
 elasticsearch (web),elastic,changeme
-vnc (vnc),,123456
-vnc (vnc),,FELDTECH_VNC
-vnc (vnc),,vnc_pcc
-vnc (vnc),,elux
-vnc (vnc),,Passwort
-vnc (vnc),,visam
-vnc (vnc),,password
-vnc (vnc),,Amx1234!
-vnc (vnc),,1988
-vnc (vnc),,admin
-vnc (vnc),,Vision2
-vnc (vnc),,ADMIN
-vnc (vnc),,TOUCHLON
-vnc (vnc),,EltakoFVS
-vnc (vnc),,Wyse#123
-vnc (vnc),,muster
-vnc (vnc),,passwd11
-vnc (vnc),,qwasyx21
-vnc (vnc),,Administrator
-vnc (vnc),,ripnas
-vnc (vnc),,eyevis
-vnc (vnc),,fidel123
-vnc (vnc),,Admin#1
-vnc (vnc),,default
-vnc (vnc),,sigmatek
-vnc (vnc),,hapero
-vnc (vnc),,1234
-vnc (vnc),,pass
-vnc (vnc),,raspberry
-vnc (vnc),,user
-vnc (vnc),,solarfocus
-vnc (vnc),,AVStumpfl
-vnc (vnc),,m9ff.QW
-vnc (vnc),,maryland-dstar
-vnc (vnc),,pass1
-vnc (vnc),,pass2
-vnc (vnc),,instrument
-vnc (vnc),,beijer
-vnc (vnc),,vnc
-vnc (vnc),,yesco
-vnc (vnc),,protech
-vnc (vnc),,Wyse
+vnc (vnc),<blank>,123456
+vnc (vnc),<blank>,FELDTECH_VNC
+vnc (vnc),<blank>,vnc_pcc
+vnc (vnc),<blank>,elux
+vnc (vnc),<blank>,Passwort
+vnc (vnc),<blank>,visam
+vnc (vnc),<blank>,password
+vnc (vnc),<blank>,Amx1234!
+vnc (vnc),<blank>,1988
+vnc (vnc),<blank>,admin
+vnc (vnc),<blank>,Vision2
+vnc (vnc),<blank>,ADMIN
+vnc (vnc),<blank>,TOUCHLON
+vnc (vnc),<blank>,EltakoFVS
+vnc (vnc),<blank>,Wyse#123
+vnc (vnc),<blank>,muster
+vnc (vnc),<blank>,passwd11
+vnc (vnc),<blank>,qwasyx21
+vnc (vnc),<blank>,Administrator
+vnc (vnc),<blank>,ripnas
+vnc (vnc),<blank>,eyevis
+vnc (vnc),<blank>,fidel123
+vnc (vnc),<blank>,Admin#1
+vnc (vnc),<blank>,default
+vnc (vnc),<blank>,sigmatek
+vnc (vnc),<blank>,hapero
+vnc (vnc),<blank>,1234
+vnc (vnc),<blank>,pass
+vnc (vnc),<blank>,raspberry
+vnc (vnc),<blank>,user
+vnc (vnc),<blank>,solarfocus
+vnc (vnc),<blank>,AVStumpfl
+vnc (vnc),<blank>,m9ff.QW
+vnc (vnc),<blank>,maryland-dstar
+vnc (vnc),<blank>,pass1
+vnc (vnc),<blank>,pass2
+vnc (vnc),<blank>,instrument
+vnc (vnc),<blank>,beijer
+vnc (vnc),<blank>,vnc
+vnc (vnc),<blank>,yesco
+vnc (vnc),<blank>,protech
+vnc (vnc),<blank>,Wyse
 Aruba (web),admin,admin
-Avaya,<BLANK>,Craftr4
-Avaya,<N/A>,<BLANK>
-Avaya,<N/A>,admin
+Avaya,<blank>,Craftr4
+Avaya,<blank>,<blank>
+Avaya,<blank>,admin
 Avaya,Administrator,ggdaseuaimhrke
 Avaya,Craft,crftpw
 Avaya,admin,admin
 Avaya,admin,admin123
 Avaya,admin,barney
 Avaya,admin,password
-Avaya,craft,<BLANK>
+Avaya,craft,<blank>
 Avaya,craft,crftpw
 Avaya,dadmin,dadmin
 Avaya,dadmin,dadmin01
@@ -3439,17 +3439,17 @@ Adobe,anonymous,anonymous
 Adobe,aparker@geometrixx.info,aparker
 Adobe,author,author
 Adobe,jdoe@geometrixx.info,jdoe
-Adobe,replication-receiver,
+Adobe,replication-receiver,<blank>
 Adobe,vgnadmin,vgnadmin
 Makito Decoder (web),admin,%89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
 Heatmiser Wifi Thermostat (iot),admin,admin
 Proliphix Thermostat (iot),admin,admin
 XEROX Phaser 6700 (printer),admin,1111
-HP LaserJet 600 (printer),,
-Xerox WorkCentre 5020/DN (printer),11111,
-HP LaserJet No Password Legacy (printer),,
-Ricoh MP (printer),supervisor,
-HP LaserJet No Password (printer),,
+HP LaserJet 600 (printer),<blank>,<blank>
+Xerox WorkCentre 5020/DN (printer),11111,<blank>
+HP LaserJet No Password Legacy (printer),<blank>,<blank>
+Ricoh MP (printer),supervisor,<blank>
+HP LaserJet No Password (printer),<blank>,<blank>
 Brother HL Series (printer),admin,access
 TRENDnet Internet Camera (webcam),admin,admin
 MayGion Camera (webcam),admin,admin
@@ -3485,7 +3485,7 @@ UTC FCWnx (mssql),sa,SecurityMaster08
 Telestream Vantage (mssql),sa,vantage12!
 Video Insight (mssql),sa,V4in$ight
 Micro Focus Silk Central (mssql),sa,SilkCentral12!34
-MSSQL (mssql),sa,
+MSSQL (mssql),sa,<blank>
 MSSQL (mssql),sa,sa
 MSSQL (mssql),sa,Password123
 MSSQL (mssql),sa,password
@@ -3535,5 +3535,5 @@ IBM Maximo (mssql),maxadmin,maxadmin
 IBM Maximo (mssql),mxintadm,mxintadm
 IBM Maximo (mssql),maxreg,maxreg
 SKF @ptitude Analyst (mssql),sa,skf_admin1
-Redis (redis),None,None
-Mongodb noauth (mongodb),None,None
+Redis (redis),<blank>,<blank>
+Mongodb noauth (mongodb),<blank>,<blank>
