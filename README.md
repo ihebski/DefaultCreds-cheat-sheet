@@ -17,6 +17,7 @@ One place for all the default credentials to assist the pentesters during an eng
 
 
 #### Short stats of the dataset
+
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
 | **count**	| 3343	| 3343	| 3343 |
@@ -25,14 +26,18 @@ One place for all the default credentials to assist the pentesters during an eng
 | **freq** |	235 |	703 |	455 |
 
 #### Sources
+
 - [Changeme](https://github.com/ztgrace/changeme "Changeme project")
 - [Routersploit]( https://github.com/threat9/routersploit "Routersploit project")
 - [betterdefaultpasslist]( https://github.com/govolution/betterdefaultpasslist "betterdefaultpasslist")
 - [Seclists]( https://github.com/danielmiessler/SecLists/tree/master/Passwords/Default-Credentials "Seclist project")
 - [ics-default-passwords](https://github.com/arnaudsoullie/ics-default-passwords) (thanks to @noraj)
 - Vendors documentations/blogs
+
 #### Creds script
+
 You can turn the cheat sheet into a cli command and perform search queries for a specific product.
+
 ```bash
 # Usage
 ➤ python3 creds search tomcat                                                                                                      
@@ -44,6 +49,17 @@ You can turn the cheat sheet into a cli command and perform search queries for a
 ...
 +----------------------------------+------------+------------+
 ```
+
+#### Pass Station
+
+[noraj][noraj] created CLI & library to search for default credentials among this database using `DefaultCreds-Cheat-Sheet.csv`.
+The tool is named [Pass Station][pass-station] ([Doc][ps-doc]) and has some powerful search feature (fields, switches, regexp, highlight) and output (simple table, pretty table, JSON, YAML, CSV).
+
+[![asciicast](https://asciinema.org/a/397713.svg)](https://asciinema.org/a/397713)
+
+[noraj]:https://pwn.by/noraj/
+[pass-station]:https://github.com/sec-it/pass-station
+[ps-doc]:https://sec-it.github.io/pass-station/
 
 #### Contribute
 If you cannot find the password for a specific product, please submit a pull request to update the dataset.<br>
