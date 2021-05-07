@@ -1958,6 +1958,7 @@ OpenMarket,user_expert,demo
 OpenMarket,user_marketer,demo
 OpenMarket,user_pricer,demo
 OpenMarket,user_publisher,demo
+OpenNetAdmin,admin,admin
 OPEN Networks,root,0P3N
 Openwave,cac_admin,cacadmin
 Openwave,sys,uplink
