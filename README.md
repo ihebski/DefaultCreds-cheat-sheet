@@ -86,6 +86,8 @@ If you cannot find the password for a specific product, please submit a pull req
 | Weblogic (web) |  system | Passw0rd |
 | Weblogic (web) |  monitor | password |
 | Kanboard (web) |  admin | admin |
+| Vectr (web) |  admin | 11_ThisIsTheFirstPassword_11 |
+| Caldera (web) |  admin | admin |
 | Dlink (web) | admin | admin | 
 | Dlink (web) | 1234 | 1234 | 
 | Dlink (web) | root | 12345 | 

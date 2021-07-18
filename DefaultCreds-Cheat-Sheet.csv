@@ -2,6 +2,8 @@ Product/Vendor,Username,Password
 "2Wire,Inc.",http,<blank>
 2wire (ssh),admin,admin
 360 Systems,factory,factory
+vectr,admin,11_ThisIsTheFirstPassword_11
+caldera,admin,admin
 3COM,3comcso,RIP000
 3COM,adm,<blank>
 3COM,admin,1234admin
