@@ -91,7 +91,9 @@ If you cannot find the password for a specific product, please submit a pull req
 | Dlink (web) | admin | admin | 
 | Dlink (web) | 1234 | 1234 | 
 | Dlink (web) | root | 12345 | 
-| Dlink (web) | root | root | 
+| Dlink (web) | root | root |
+| JioFiber | admin | jiocentrum |
+| GigaFiber | admin | jiocentrum|
 | Kali linux (OS) | kali | kali | 
 | F5 | admin | admin | 
 | F5 | root | default | 

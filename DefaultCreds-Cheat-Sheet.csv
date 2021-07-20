@@ -53,6 +53,8 @@ ACCTON,__super,(caclulated)
 accton t-online,<blank>,0
 Aceex,admin,<blank>
 acer,acer,acer
+JioFiber,admin,jiocentrum
+GigaFiber,admin,jiocentrum
 Acer,<blank>,<blank>
 actiontec,admin,admin
 Actiontec,admin,password
