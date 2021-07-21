@@ -2,8 +2,6 @@ Product/Vendor,Username,Password
 "2Wire,Inc.",http,<blank>
 2wire (ssh),admin,admin
 360 Systems,factory,factory
-vectr,admin,11_ThisIsTheFirstPassword_11
-caldera,admin,admin
 3COM,3comcso,RIP000
 3COM,adm,<blank>
 3COM,admin,1234admin
@@ -53,8 +51,6 @@ ACCTON,__super,(caclulated)
 accton t-online,<blank>,0
 Aceex,admin,<blank>
 acer,acer,acer
-JioFiber,admin,jiocentrum
-GigaFiber,admin,jiocentrum
 Acer,<blank>,<blank>
 actiontec,admin,admin
 Actiontec,admin,password
@@ -72,6 +68,9 @@ Addon,admin,admin
 AddPac Technology,root,router
 ADIC,admin,password
 ADIC,admin,secure
+ADIP,adip,admin
+ADIP,adip,consul
+ADIP,adip,insta
 Adobe,admin,admin
 Adobe,anonymous,anonymous
 Adobe,aparker@geometrixx.info,aparker
@@ -537,6 +536,7 @@ CA APM Team Center (web),Guest,Guest
 Cable And Wireless,admin,1234
 Cabletron,<blank>,<blank>
 Cabletron,netman,<blank>
+caldera,admin,admin
 CA NetQoS (web),nqadmin,nq
 CA NetQoS (web),nquser,nq
 Canon,<blank>,0
@@ -556,6 +556,7 @@ CCH (mssql),sa,PracticeUser1
 Celerity,mediator,mediator
 Celerity,root,Mua'dib
 Cellit,cellit,cellit
+Centreon WebUI,admin,centreon
 Ceragon Networks,root,tooridu
 CGI World,<blank>,protection
 Chase Research,<blank>,iolan
@@ -698,6 +699,8 @@ cuproplus,<blank>,<blank>
 cyberguard,cgadmin,cgadmin
 Cyberguard,cgadmin,cgadmin
 CyberMax,<blank>,Congress
+CyberPower,cyber,cyber
+CyberPower,device,cyber
 Cyclades,root,<blank>
 Cyclades,root,tslinux
 Cyclades,super,surt
@@ -1026,6 +1029,7 @@ Gericom,Administrator,<blank>
 "GE Security,Inc.",install,install
 giga,Administrator,admin
 Gigabyte,admin,admin
+GigaFiber,admin,jiocentrum
 glftpd,glftpd,glftpd
 glFtpD,glftpd,glftpd
 Globespan Virata,DSL,DSL
@@ -1425,6 +1429,7 @@ Jenkins (web),<blank>,<blank>
 Jetform,Jetform,<blank>
 JetWay,<blank>,spooml
 JioFi,administrator,administrator
+JioFiber,admin,jiocentrum
 Johnson Controls,johnson,control
 Joss Technology,<blank>,57gbzb
 Joss Technology,<blank>,technolgi
@@ -1753,6 +1758,7 @@ Netgear,Gearguy,Geardog
 Netgear,super,5777364
 Netgear,superman,21241036
 NetGenesis,naadmin,naadmin
+NETIO 4All PowerPDU,admin,admin
 Netopia,admin,<blank>
 Netopia,admin,noway
 Netopia,<blank>,<blank>
@@ -3119,6 +3125,7 @@ vacron (web),admin,admin
 Various,root,admin
 VASCO,admin,<blank>
 VBrick Systems,admin,admin
+vectr,admin,11_ThisIsTheFirstPassword_11
 Veramark,admin,password
 Verifone,<blank>,166816
 Verilink,<blank>,<blank>
