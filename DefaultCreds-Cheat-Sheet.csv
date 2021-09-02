@@ -1495,6 +1495,7 @@ Kyocera,admin,<blank>
 Kyocera,<blank>,admin00
 Kyocera,<blank>,PASSWORD
 Kyocera,root,root
+ldap account manager ,lam,lam
 LaCie,admin,admin
 LANCOM,<blank>,<blank>
 Lanier,admin,<blank>
