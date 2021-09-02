@@ -1467,6 +1467,7 @@ If you cannot find the password for a specific product, please submit a pull req
 |LANSA|admin|admin | 
 |LANSA|dev|dev | 
 |LAXO|admin|admin | 
+|Ldap account manager(lam)|lam|lam|
 |LG||jannie | 
 |LG|admin|epicrouter | 
 |LG|vikram|singh | 
