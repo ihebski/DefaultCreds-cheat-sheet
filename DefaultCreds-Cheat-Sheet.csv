@@ -1495,7 +1495,6 @@ Kyocera,admin,<blank>
 Kyocera,<blank>,admin00
 Kyocera,<blank>,PASSWORD
 Kyocera,root,root
-ldap account manager(lam),lam,lam
 LaCie,admin,admin
 LANCOM,<blank>,<blank>
 Lanier,admin,<blank>
@@ -1517,6 +1516,7 @@ Lasa AIMS (mssql),ADMIN,AIMS
 Lasa AIMS (mssql),FB,AIMS
 latis network,<blank>,<blank>
 LAXO,admin,admin
+ldap account manager(lam),lam,lam
 Leading Edge,<blank>,MASTER
 Lenel,admin,admin
 Lenel OnGuard (mssql),LENEL,MULTIMEDIA
@@ -2750,7 +2750,6 @@ SolarWinds,whd,whd
 Solution 6,aaa,often blank
 Solwise,root,same as webui pwd
 SonarQube (web),admin,admin
-Sonicwall,admin,password
 SonicWALL,admin,password
 Sonic-X,root,admin
 Sonus,admin,Sonus12345
