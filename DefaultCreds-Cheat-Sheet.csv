@@ -1504,8 +1504,6 @@ Lanier,supervisor,<blank>
 LANSA,admin,admin
 LANSA,dev,dev
 LANSA,WEBADM,password
-Lantronics,<blank>,access
-Lantronics,<blank>,system
 Lantronix,<blank>,access
 Lantronix,<blank>,admin
 Lantronix,<blank>,<blank>
@@ -1735,9 +1733,6 @@ Netcomm,user,password
 Netcordia,admin,admin
 netcore (ssh),admin,admin
 netcore (ssh),guest,guest
-netgar (ssh),admin,1234
-netgar (ssh),admin,admin
-netgar (ssh),admin,<blank>
 Netgear,admin,1234
 Netgear,admin,admin
 Netgear,admin,<blank>
@@ -2213,7 +2208,6 @@ Oracle,WWWUSER,WWWUSER
 Oracle,WWW,WWW
 Oracle,XPRT,XPRT
 Orange,admin,admin
-orange livebox4  (web),admin,(blank)
 orange livebox4  (web),admin,<blank>
 Orange,root,1234
 Osicom,debug,d.e.b.u.g
@@ -2398,7 +2392,6 @@ Research,<blank>,Col2ogro2
 Research Machines,manager,changeme
 Resumix,root,resumix
 Ricoh,admin,<blank>
-Ricoh,admin,no password
 Ricoh,admin,password
 Ricoh,<blank>,password
 Ricoh,<blank>,sysadm
