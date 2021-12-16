@@ -1032,6 +1032,9 @@ Gigabyte,admin,admin
 GigaFiber,admin,jiocentrum
 glftpd,glftpd,glftpd
 glFtpD,glftpd,glftpd
+Gitlab,admin,5iveL!fe
+Gitlab,admin@local.host,5iveL!fe
+Gitlab,root,5iveL!fe
 Globespan Virata,DSL,DSL
 GlobespanVirata,root,root
 Google,admin,urchin
