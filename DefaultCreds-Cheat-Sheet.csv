@@ -1,5 +1,3 @@
-"2Wire,Inc.",http,<blank>
-2wire (ssh),admin,admin
 360 Systems,factory,factory
 3COM,3comcso,RIP000
 3COM,adm,<blank>
@@ -2430,6 +2428,7 @@ RNN,admin,demo
 RoamAbout,admin,password
 RObiGVqUbQt,wVQxyQec,eomjbOBLLwbZeiKV
 Rodopi,Rodopi,Rodopi
+Roxy-wi,admin,admin
 rPath,admin,password
 RSA,admin,admin1234
 RSA,administrator,RSAAppliance
