@@ -6,7 +6,7 @@ Search for a default credentials using the DefaultCreds-cheat-sheet dataset.
 inspired by @ncrocfer whatportis project.
 '''
 __author__ = "ihebski"
-__version__ = "0.1"
+__version__ = "0.2"
 __status__ = "Development"
 __codename__ = 'creds'
 __source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
@@ -54,13 +54,15 @@ def print_table(product):
     :param list of searched products
     https://pypi.org/project/prettytable/
     """
-    table = PrettyTable(["Product", "username", "password"])
-    table.align["Product"] = "l"
-    table.padding_width = 1
-
-    for row in product:
-        table.add_row([row.get("product"),row.get("username"),row.get("password")])
-    print(table)
+    if len(product) == 0:
+        print("[-] Product not found in database.")
+    else:
+        table = PrettyTable(["Product", "username", "password"])
+        table.align["Product"] = "l"
+        table.padding_width = 1
+        for row in product:
+            table.add_row([row.get("product"),row.get("username"),row.get("password")])
+        print(table)
 
 
 def search(keyword):
