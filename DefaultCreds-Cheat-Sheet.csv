@@ -303,6 +303,7 @@ Atlassian,crowd-openid-server,password
 Atlassian,Crowd,password
 Atlassian,Demo,password
 Atlassian,Username,password
+Atlassian Confluence,disabledsystemuser,disabled1system1user6708
 ATL,operator,1234
 ATL,Service,5678
 Attachmate,<blank>,PASSWORD
