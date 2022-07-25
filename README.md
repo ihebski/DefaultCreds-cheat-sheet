@@ -48,6 +48,12 @@ You can turn the cheat sheet into a cli command and perform search queries for a
 | apache tomcat (web)              |   admin    |   admin    |
 ...
 +----------------------------------+------------+------------+
+
+# Update records
+➤ python3 creds update
+Check for new updates...🔍
+New updates are available 🚧
+[+] Download database...
 ```
 
 #### Pass Station
