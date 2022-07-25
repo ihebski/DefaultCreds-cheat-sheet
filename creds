@@ -6,7 +6,7 @@ Search for a default credentials using the DefaultCreds-cheat-sheet dataset.
 inspired by @ncrocfer whatportis project.
 '''
 __author__ = "ihebski"
-__version__ = "0.2"
+__version__ = "0.3"
 __status__ = "Development"
 __codename__ = 'creds'
 __source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
@@ -19,6 +19,7 @@ from prettytable import PrettyTable
 import requests
 import fire
 import pathlib
+import hashlib
 
 
 path = pathlib.Path(__file__).parent
@@ -26,14 +27,15 @@ db = TinyDB(f"{path}/DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage
 DefaultCreds_CSV_FILE = "https://raw.githubusercontent.com/ihebski/DefaultCreds-cheat-sheet/main/DefaultCreds-Cheat-Sheet.csv"
 
 
-def get_db():
+def get_db(path=path,msg="[+] Download database..."):
     """
     This function downloads the DefaultCreds-Cheat-Sheet.csv file and converted into a json database.
     https://tinydb.readthedocs.io/en/latest/usage.html
     """
+    db = TinyDB(f"{path}/DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage))
     vendor = []
     r = requests.get(DefaultCreds_CSV_FILE).content.decode("utf-8")
-    print("[+] Download database...")
+    print(msg)
     data = csv.reader(r.splitlines())
     for row in data:
         vendor.append(
@@ -55,7 +57,7 @@ def print_table(product):
     https://pypi.org/project/prettytable/
     """
     if len(product) == 0:
-        print("[-] Product not found in database.")
+        print("[-] Product not found in database 🦕")
     else:
         table = PrettyTable(["Product", "username", "password"])
         table.align["Product"] = "l"
@@ -76,6 +78,32 @@ def search(keyword):
         print_table(db.search(where("product").search(keyword.lower())))
     else:
         print_table(db.search(where("product").search(keyword.lower())))
+
+def sha256sum(filename):
+    """
+    This function is used to compare two file hashes
+    :param filename path
+    :return sha256sum hash
+    """
+    h  = hashlib.sha256()
+    b  = bytearray(128*1024)
+    mv = memoryview(b)
+    with open(filename, 'rb', buffering=0) as f:
+        while n := f.readinto(mv):
+            h.update(mv[:n])
+    return h.hexdigest()
+
+def update():
+    """
+    Update database records
+    """
+    get_db('/tmp',"Check for new updates...🔍")
+    if sha256sum('/tmp/DefaultCreds_db.json') != sha256sum(f"{path}/DefaultCreds_db.json"):
+        print("New updates are available 🚧")
+        get_db()
+    else:
+        print('[+] No action needed, We are fine 🤘')
+
 
 if __name__ == "__main__":
     fire.Fire()
