@@ -1,4 +1,3 @@
-3COM,admin,1234admin
 3COM,admin,admin
 3COM,Admin,Admin
 3COM,admin,<blank>
@@ -666,6 +665,7 @@ Corecess,admin,<blank>
 Corecess,Administrator,admin
 Corecess,corecess,corecess
 CoronaMatrix,admin,admin
+Couchdb,admin,password
 Covertix,Admin,Admin
 Creative,<blank>,<blank>
 Crossbeam,<blank>,x40rocks
