@@ -91,6 +91,11 @@ AirLink Plus,<blank>,admin
 Aironet,<blank>,<blank>
 AirTies RT-210,admin,admin
 Airway,<blank>,0000
+Akkadian Console Server,admin,admin
+Akkadian Contact Manager,gdadmin,admin
+Akkadian Provisioning Manager,PMEAdmin,PMEAdmin
+Akkadian Provisioning Manager,akkadianuser,akkadianpassword
+Akkadian Site Builder,SBAdmin,SBAdmin123
 Aladdin,root,kn1TG7psLu
 Alcatel,adfexc,adfexc
 Alcatel,admin,switch
