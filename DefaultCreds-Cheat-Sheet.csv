@@ -922,6 +922,8 @@ elasticsearch (web),elastic,changeme
 Elron,(hostname/ipaddress),sysadmin
 Elsa,<blank>,<blank>
 Elsa,<blank>,cisco
+Eltek,admin,admin
+Eltek,user,user
 eMachines,emaq,4133
 EMC,admin,<blank>
 EMC,admin,changeme
