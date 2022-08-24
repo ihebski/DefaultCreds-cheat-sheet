@@ -2325,6 +2325,8 @@ Prime,system,system
 Prime,tele,tele
 Prime,test,test
 Prolink,admin,password
+Prolynx (Outdoor Station),admin,admin
+Prolynx (Indoor Monitor),<blank>,002236
 Proliphix Thermostat (iot),admin,admin
 Promise,admin,admin
 Promise,engmode,hawk201
