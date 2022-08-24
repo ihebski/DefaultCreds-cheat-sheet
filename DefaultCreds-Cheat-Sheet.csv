@@ -184,6 +184,8 @@ AMX,guest,guest
 AMX,NetLinx,password
 AMX,root,mozart
 Andover Controls,acc,acc
+Anevia,monitor,anevia
+Anevia,admin,paris
 antsle (ssh),root,antsle
 AOC,<blank>,admin
 Apache,admin,admin
