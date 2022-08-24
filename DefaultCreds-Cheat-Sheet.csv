@@ -97,6 +97,7 @@ Akkadian Provisioning Manager,PMEAdmin,PMEAdmin
 Akkadian Provisioning Manager,akkadianuser,akkadianpassword
 Akkadian Site Builder,SBAdmin,SBAdmin123
 Aladdin,root,kn1TG7psLu
+Alcatel,<blank>,151515
 Alcatel,adfexc,adfexc
 Alcatel,admin,switch
 Alcatel,at4400,at4400
@@ -183,6 +184,8 @@ AMX,guest,guest
 AMX,NetLinx,password
 AMX,root,mozart
 Andover Controls,acc,acc
+Anevia,monitor,anevia
+Anevia,admin,paris
 antsle (ssh),root,antsle
 AOC,<blank>,admin
 Apache,admin,admin
@@ -275,6 +278,7 @@ Aspect,DTA,TJM
 ast,<blank>,<blank>
 AST,<blank>,SnuFG5
 Asterisk,Admin,admin
+Aastra,admin,33aastra
 Asus,admin,admin
 Asus,adsl,adsl1234
 Asus,<blank>,admin
@@ -282,6 +286,9 @@ asus (ssh),admin,admin
 asus (ssh),Admin,Admin
 asus (ssh),admin,password
 asus (ssh),root,root
+ATCOM,admin,admin
+ATCOM,user,<blank>
+ATCOM,admin,<blank>
 Atlantis,admin,atlantis
 Atlassian Confluence,disabledsystemuser,disabled1system1user6708
 Atlassian,crowd-openid-server,password
@@ -684,6 +691,7 @@ Cyberguard,cgadmin,cgadmin
 CyberMax,<blank>,Congress
 CyberPower,cyber,cyber
 CyberPower,device,cyber
+CyberSentry,Administrator,ChangeMe1#
 Cyclades,root,<blank>
 Cyclades,root,tslinux
 Cyclades,super,surt
@@ -719,6 +727,7 @@ db2 (db2),db2inst1,db2pw
 Debian,<blank>,tatercounter2000
 decnet,operator,admin
 Deerfield,MDaemon,MServer
+DEFENDER®,admin,123456
 Dell,admin,admin
 Dell,Admin,<blank>
 Dell,Administrator,storageserver
@@ -832,6 +841,7 @@ Digital Equipment,USERP,USERP
 Digital Equipment,USER,USER
 Digital Equipment,VAX,VAX
 Digital Equipment,VMS,VMS
+Digitus,admin,1234
 "Digium,Inc.",admin,password
 Divar,admin,<blank>
 Divar,viewer,<blank>
@@ -888,6 +898,7 @@ Dynix Library Systems,circ,<blank>
 Dynix Library Systems,LIBRARY,<blank>
 Dynix Library Systems,SETUP,<blank>
 easyWinArt (mssql),sa,$easyWinArt4
+Easyone Connect,admin,8005
 Eaton,admin,admin
 Echelon Corporation,ilon,ilon
 E-Con,admin,epicrouter
@@ -916,6 +927,8 @@ elasticsearch (web),elastic,changeme
 Elron,(hostname/ipaddress),sysadmin
 Elsa,<blank>,<blank>
 Elsa,<blank>,cisco
+Eltek,admin,admin
+Eltek,user,user
 eMachines,emaq,4133
 EMC,admin,<blank>
 EMC,admin,changeme
@@ -1150,6 +1163,8 @@ HP LaserJet No Password (printer),<blank>,<blank>
 HP,root,password
 HP Server Automation (web),Administrator,admin
 HP Server Automation (web),admin,opsware_admin
+HP StoreAll (GUI),ibrix,ibrix
+HP StoreAll (Root),root,hpinvent
 Huawei,admin,admin
 huawei (ssh),admin,admin
 huawei (ssh),Admin,admin
@@ -1427,6 +1442,7 @@ JioFiber,admin,jiocentrum
 Johnson Controls,johnson,control
 Joss Technology,<blank>,57gbzb
 Joss Technology,<blank>,technolgi
+Jovision,admin,<blank>
 Juniper,admin,abc123
 Juniper,admin,netscreen
 Juniper,admin,peribit
@@ -1479,6 +1495,7 @@ Konica Minolta (web),<blank>,<blank>
 Konica Minolta (web),<blank>,MagiMFP
 Konica Minolta (web),<blank>,sysadm
 Konica Minolta (web),<blank>,sysAdmin
+Kramer,Admin,adminpw
 Kronos,SuperUser,kronites
 KTI,admin,123
 KTI,admin,123456
@@ -2221,6 +2238,8 @@ OSMC,osmc,osmc
 OTRS Inc.,root@localhost,root
 Overland,Factory,56789
 Overland Storage,root,Password
+Overland Tandberg,Admin,adm001
+Overland Tandberg,Guest,std001
 OvisLink Canada Inc.,root,root
 OvisLink Canada Inc.,user,user
 ovislink,root,<blank>
@@ -2317,12 +2336,16 @@ Prime,system,system
 Prime,tele,tele
 Prime,test,test
 Prolink,admin,password
+Prolynx (Outdoor Station),admin,admin
+Prolynx (Indoor Monitor),<blank>,002236
 Proliphix Thermostat (iot),admin,admin
 Promise,admin,admin
 Promise,engmode,hawk201
 "Promise Technology,Inc.",administrator,password
 Prostar,<blank>,4321
+ProSoft Technology,<blank>,password
 Protocraft,musi1921,Musi%1921
+Provision ISR,admin,123456
 Proxicast,<blank>,1234
 Proxim,<blank>,<blank>
 Proxim,<blank>,public
@@ -2579,6 +2602,7 @@ siemens (web),admin,admin
 Sierra Wireless,user,12345
 Sigma,admin,admin
 Signamax,admin,admin
+Siqura,Admin,1234
 Siips,Administrator,ganteng
 Silex Technology,access,<blank>
 Silex Technology,root,<blank>
@@ -2955,6 +2979,8 @@ Tiny,<blank>,Tiny
 Tinys,<blank>,tiny
 Tinys,<blank>,Tiny
 TMC,<blank>,BIGO
+Tiptel (IP Phones),admin,admin
+Tiptel (IP Phones),user,user
 Topcom,admin,admin
 TopLayer,siteadmin,toplayer
 topnet (web),topadmin,topadmin
@@ -2999,6 +3025,7 @@ Unisys,ADMINISTRATOR,ADMINISTRATOR
 Unisys,HTTP,HTTP
 Unisys,NAU,NAU
 United Technologies Corporation,admin,1234
+UNIVIEW,admin,123456
 UNIX,adm,adm
 UNIX,adm,<blank>
 UNIX,admin,admin
@@ -3226,6 +3253,7 @@ Webramp,wradmin,trancell
 WebSphere (web),system,manager
 Web Wiz,Administrator,letmein
 Weidmüller,admin,detmond
+Weidmüller,admin,Detmold
 WelchAllyn CardioPerfect (mssql),sa,Cardio.Perfect
 Westell,admin,<blank>
 Westell,admin,password
@@ -3312,6 +3340,7 @@ Xyplex,<blank>,system
 Xyplex,setpriv,system
 Yakumo,admin,admin
 Yealink,admin,admin
+YeaStar Technology,root,ys123456
 Yokogawa,admin,!admin
 Yokogawa,<blank>,727
 Yuxin,User,1234
