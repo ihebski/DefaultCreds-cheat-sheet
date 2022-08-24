@@ -2222,6 +2222,8 @@ OSMC,osmc,osmc
 OTRS Inc.,root@localhost,root
 Overland,Factory,56789
 Overland Storage,root,Password
+Overland Tandberg,Admin,adm001
+Overland Tandberg,Guest,std001
 OvisLink Canada Inc.,root,root
 OvisLink Canada Inc.,user,user
 ovislink,root,<blank>
