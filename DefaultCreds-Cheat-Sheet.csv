@@ -1153,6 +1153,8 @@ HP LaserJet No Password (printer),<blank>,<blank>
 HP,root,password
 HP Server Automation (web),Administrator,admin
 HP Server Automation (web),admin,opsware_admin
+HP StoreAll (GUI),ibrix,ibrix
+HP StoreAll (Root),root,hpinvent
 Huawei,admin,admin
 huawei (ssh),admin,admin
 huawei (ssh),Admin,admin
