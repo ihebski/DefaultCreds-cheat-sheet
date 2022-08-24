@@ -283,6 +283,8 @@ asus (ssh),Admin,Admin
 asus (ssh),admin,password
 asus (ssh),root,root
 ATCOM,admin,admin
+ATCOM,user,<blank>
+ATCOM,admin,<blank>
 Atlantis,admin,atlantis
 Atlassian Confluence,disabledsystemuser,disabled1system1user6708
 Atlassian,crowd-openid-server,password
