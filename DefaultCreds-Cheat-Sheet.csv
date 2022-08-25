@@ -146,6 +146,7 @@ Alteon,admin,linga
 Ambit,root,<blank>
 Ambit,root,root
 Ambit,user,user
+Amcrest,admin,admin
 American Dynamics EDVR (telnet),admin,9999
 american_dynamics (web),admin,9999
 american_dynamics (web),admin,admin
@@ -297,7 +298,9 @@ Atlassian,Demo,password
 Atlassian,Username,password
 ATL,operator,1234
 ATL,Service,5678
+Atrie,admin,password
 Attachmate,<blank>,PASSWORD
+ATX,atx,atx
 AT&T Arris NVG589 & NVG599 (SharknAT&To) (ssh),remotessh,5SaP9I26
 AT&T,<blank>,mcp
 Audioactive,<blank>,telos
@@ -555,6 +558,7 @@ Check Point,admin,admin
 Check Point,admin,adminadmin
 Checkpoint (web),admin,abc123
 Checkpoint (web),admin,admin
+Christie,admin,admin
 Chuming Chen,administrator,adminpass
 Ciphertrust,admin,password
 CipherTrust,admin,password
@@ -564,6 +568,7 @@ Cisco,admin,changeme
 Cisco,admin,cisco
 Cisco,admin,default
 Cisco,admin,diamond
+Cisco,admin,localadmin
 Cisco,Administrator,admin
 Cisco,Administrator,changeme
 Cisco,admin,tsunami
@@ -965,6 +970,7 @@ ericsson,<blank>,help
 Ericsson,expert,expert
 Ericsson,MD110,help
 Ericsson,netman,netman
+ERNITEC,Admin,1234
 eSeSIX Computer GmbH,root,jstwo
 E-Tech,admin,epicrouter
 E-Tech,admin,password
@@ -990,6 +996,7 @@ Fastream Technologies,root,<blank>
 Fastwire,fastwire,fw
 FatWire,firstsite,firstsite
 FatWire,fwadmin,xceladmin
+Fibaro,admin,admin
 Firebird Project,SYSDBA,masterkey
 Firebird,SYSDBA,masterkey
 Flowpoint,admin,admin
@@ -1033,6 +1040,7 @@ Gericom,Administrator,<blank>
 giga,Administrator,admin
 Gigabyte,admin,admin
 GigaFiber,admin,jiocentrum
+Gill Instruments,admin,password
 Gitlab,admin,5iveL!fe
 Gitlab,admin@local.host,5iveL!fe
 Gitlab,root,5iveL!fe
@@ -1354,6 +1362,7 @@ icatch (camera),root,icatch99
 iDirect,admin,P@55w0rd!
 iDirect,root,iDirect
 IHS Kingdom (mssql),sa,$ei$micMicro
+IMC Networks,admin,admin
 inchon,admin,admin
 Inedo,Admin,Admin
 infacta,Administrator,<blank>
@@ -1462,7 +1471,8 @@ juniper (ssh),super,juniper123
 Juniper,super,juniper123
 Justin Hagstrom,admin,admin
 Justin Hagstrom,test,test
-jvc (web),admin,jvc
+JVC (web),admin,jvc
+JVC,jvc,skaarhoj
 Kalatel,<blank>,3477
 Kalatel,<blank>,8111
 Kali linux (OS),kali,kali
@@ -1511,6 +1521,7 @@ LANCOM,<blank>,<blank>
 Lanier,admin,<blank>
 Lanier,<blank>,sysadm
 Lanier,supervisor,<blank>
+Lanner,admin,admin
 LANSA,admin,admin
 LANSA,dev,dev
 LANSA,WEBADM,password
@@ -1536,6 +1547,9 @@ LG,<blank>,jannie
 LGIC,LR-ISDN,LR-ISDN
 LG,vikram,singh
 Liebert,Liebert,Liebert
+LifeSize,admin,admin
+LifeSize,<blank>,1234
+LifeSize,support,support
 Lindsay Electronics,ADMINISTRATOR,SENTINEL
 Lindsay Electronics,SENTINEL,SENTINEL
 Linksys,admin,admin
@@ -2265,6 +2279,9 @@ PentaSafe,PSEAdmin,$secure$
 Perle,admin,superuser
 pfSense,admin,pfsense
 Pfsense (web),admin,pfsense
+PheeNet,root,default
+PheeNet,admin,admin
+PheeNet,operator,1234
 Philips,admin,admin
 phoenix,<blank>,admin
 Phoenix v1.14,Administrator,admin
@@ -2422,6 +2439,7 @@ Ricoh,<blank>,sysadm
 Ricoh MP (printer),supervisor,<blank>
 Ricoh,sysadmin,password
 Ricoh,sysadm,sysadm
+RidgeWave,admin,admin
 Riverbed,Admin,password
 Rizen,Admin,123qwe
 RM,admin2,changeme
@@ -2455,6 +2473,7 @@ RSA,admin,admin1234
 RSA,administrator,RSAAppliance
 RSA,master,themaster01
 RuggedCom,Admin,admin
+Ruijie,admin,admin
 Saba,admin,admin
 Safecom,admin,epicrouter
 SafeNet Sentinel EMS (mssql),sa,DBA!sa@EMSDB123
@@ -2551,6 +2570,7 @@ Sharp,Administrator,admin
 Sharp,admin,Sharp
 sharp,<blank>,<blank>
 Sharp,<blank>,sysadm
+SHIELDeye,admin,123456
 Shiva,admin,hello
 Shiva,guest,<blank>
 Shiva,hello,hello
@@ -2558,6 +2578,7 @@ Shiva,root,<blank>
 ShoreTel,Admin,admin1
 Shoretel,admin,changeme
 Shuttle,<blank>,Spacve
+Shuttle,admin,<blank>
 Siemens,31994,31994
 Siemens,admin,admin
 Siemens,admin,<blank>
@@ -3350,6 +3371,7 @@ Zcomax,admin,password
 Zcom,root,admin
 Zebra,admin,1234
 Zebra Technologies,admin,1234
+Zed-3,admin,0000
 zenitel,admin,alphaadmin
 zenitel,ADMIN,alphacom
 zenitel,<blank>,1234
