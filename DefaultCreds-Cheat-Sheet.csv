@@ -2276,6 +2276,9 @@ PentaSafe,PSEAdmin,$secure$
 Perle,admin,superuser
 pfSense,admin,pfsense
 Pfsense (web),admin,pfsense
+PheeNet,root,default
+PheeNet,admin,admin
+PheeNet,operator,1234
 Philips,admin,admin
 phoenix,<blank>,admin
 Phoenix v1.14,Administrator,admin
