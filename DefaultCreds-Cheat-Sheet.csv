@@ -1361,6 +1361,7 @@ icatch (camera),admin,123456
 icatch (camera),root,icatch99
 iDirect,admin,P@55w0rd!
 iDirect,root,iDirect
+iGuard,admin,123
 IHS Kingdom (mssql),sa,$ei$micMicro
 IMC Networks,admin,admin
 inchon,admin,admin
