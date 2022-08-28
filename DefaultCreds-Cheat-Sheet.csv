@@ -972,9 +972,11 @@ Ericsson,MD110,help
 Ericsson,netman,netman
 ERNITEC,Admin,1234
 eSeSIX Computer GmbH,root,jstwo
+EtroVISION,root,pass
 E-Tech,admin,epicrouter
 E-Tech,admin,password
 E-Tech,<blank>,admin
+EuroVideo,admin,00000000
 EverFocus,admin,admin
 EverFocus,operator,operator
 EverFocus,supervisor,supervisor
@@ -1361,6 +1363,7 @@ icatch (camera),admin,123456
 icatch (camera),root,icatch99
 iDirect,admin,P@55w0rd!
 iDirect,root,iDirect
+iGuard,admin,123
 IHS Kingdom (mssql),sa,$ei$micMicro
 IMC Networks,admin,admin
 inchon,admin,admin
@@ -1748,6 +1751,7 @@ nCircle,root,ciwuxe
 NCR,ncrm,ncrm
 NEC,admin,password
 NEC,<blank>,<blank>
+NEC,<blank>,iPbSmNt
 NetApp,admin,admin123
 NetApp,admin,NetCache
 Netasq,admin,admin
