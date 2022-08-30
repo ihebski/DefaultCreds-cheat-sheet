@@ -120,11 +120,7 @@ def update():
     Update database records
     """
     get_db('/tmp',"Check for new updates...🔍")
-    if sha256sum('/tmp/DefaultCreds_db.json') != sha256sum(f"{path}/DefaultCreds_db.json"):
-        print("New updates are available 🚧")
-        get_db()
-    else:
-        print('[+] No action needed, We are fine 🤘')
-
+    print('[+] No action needed, We are fine 🤘') if sha256sum('/tmp/DefaultCreds_db.json') == sha256sum(f"{path}/DefaultCreds_db.json") else get_db(path,"New updates are available 🚧\n[+] Download database...")
+        
 if __name__ == "__main__":
     fire.Fire()
