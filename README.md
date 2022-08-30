@@ -54,6 +54,18 @@ You can turn the cheat sheet into a cli command and perform search queries for a
 Check for new updates...🔍
 New updates are available 🚧
 [+] Download database...
+
+# Export Creds to files (could be used for brute force attacks)
+➤ python3 creds search tomcat export
++----------------------------------+------------+------------+
+| Product                          |  username  |  password  |
++----------------------------------+------------+------------+
+| apache tomcat (web)              |   tomcat   |   tomcat   |
+| apache tomcat (web)              |   admin    |   admin    |
+...
++----------------------------------+------------+------------+
+
+[+] Creds saved to /tmp/tomcat-usernames.txt , /tmp/tomcat-passwords.txt 📥
 ```
 
 #### Pass Station
