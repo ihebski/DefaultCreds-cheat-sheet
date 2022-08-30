@@ -6,7 +6,7 @@ Search for a default credentials using the DefaultCreds-cheat-sheet dataset.
 inspired by @ncrocfer whatportis project.
 '''
 __author__ = "ihebski"
-__version__ = "0.3"
+__version__ = "0.4"
 __status__ = "Development"
 __codename__ = 'creds'
 __source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
@@ -14,8 +14,9 @@ __source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
 from tinydb import TinyDB,Query,where
 from tinydb.storages import JSONStorage
 from tinydb.middlewares import CachingMiddleware
-import csv
 from prettytable import PrettyTable
+from pathlib import Path
+import csv
 import requests
 import fire
 import pathlib
@@ -25,7 +26,6 @@ import hashlib
 path = pathlib.Path(__file__).parent
 db = TinyDB(f"{path}/DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage))
 DefaultCreds_CSV_FILE = "https://raw.githubusercontent.com/ihebski/DefaultCreds-cheat-sheet/main/DefaultCreds-Cheat-Sheet.csv"
-
 
 def get_db(path=path,msg="[+] Download database..."):
     """
@@ -49,8 +49,30 @@ def get_db(path=path,msg="[+] Download database..."):
     db.insert_multiple(vendor)
     db.close()
 
+def export_creds(product,keyword):
+    """
+    Export usernames and passwords to separated files
+    :param list(dict(product))
+    :param keyword
+    :return 2 files
+    """
+    # username and passwords default files paths
+    username_path = f"/tmp/{keyword}-usernames.txt"
+    passwords_path = f"/tmp/{keyword}-passwords.txt"
 
-def print_table(product):
+    # Create lists for (usernames,passwords) and remove duplicates
+    username_list, password_list = set([row.get("username").replace('<blank>','') for row in product]), set([row.get("password").replace('<blank>','') for row in product])
+    
+    # Create files if not exist
+    if not all([Path(username_path).is_file(),Path(passwords_path).is_file()]):
+        with open(f'{username_path}', "w") as outfile_usernames, open(f'{passwords_path}', "w") as outfile_passwords:
+            outfile_usernames.write("\n".join(username_list))
+            outfile_passwords.write("\n".join(password_list))
+        print(f"\n[+] Creds saved to {username_path} , {passwords_path} 📥")
+    else:
+        print(f"\n[!] Creds already exists under {username_path} , {passwords_path} ⛔️")
+
+def print_table(product,keyword,export):
     """
     This function returns a pretty table used to display the results.
     :param list of searched products
@@ -65,9 +87,9 @@ def print_table(product):
         for row in product:
             table.add_row([row.get("product"),row.get("username"),row.get("password")])
         print(table)
+        if export: export_creds(product,keyword)
 
-
-def search(keyword):
+def search(keyword,export=False):
     """
     This function search for a product using like statement
     :param keyword
@@ -75,9 +97,9 @@ def search(keyword):
     """
     if len(db.all()) == 0:
         get_db()
-        print_table(db.search(where("product").search(keyword.lower())))
+        print_table(db.search(where("product").search(keyword.lower())),keyword,export)
     else:
-        print_table(db.search(where("product").search(keyword.lower())))
+        print_table(db.search(where("product").search(keyword.lower())),keyword,export)
 
 def sha256sum(filename):
     """
@@ -103,7 +125,6 @@ def update():
         get_db()
     else:
         print('[+] No action needed, We are fine 🤘')
-
 
 if __name__ == "__main__":
     fire.Fire()
