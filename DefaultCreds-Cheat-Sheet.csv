@@ -1151,6 +1151,8 @@ Hewlett-Packard,SPOOLMAN,HPOFFICE
 Hewlett-Packard,WP,HPOFFICE
 HighPOint,RAID,hpt
 hikvision (ssh),admin,12345
+Hitachi,<blank>,1900
+Hitachi,<blank>,0300
 HipChat Server (ssh),admin,hipchat
 Honeynet Project,roo,honey
 Honeynet Project,root,honey
