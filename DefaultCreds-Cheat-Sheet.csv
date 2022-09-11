@@ -1025,6 +1025,7 @@ ftp (ftp),anonymous,<blank>
 ftp (ftp),ftp,ftp
 ftp (ftp),guest,guest
 Fujitsu Siemens,<blank>,connect
+Fujitsu Siemens,<blank>,fi-scanner
 Fujitsu Siemens,manage,!manage
 Funk Software,admin,radius
 Galacticomm,Sysop,Sysop
