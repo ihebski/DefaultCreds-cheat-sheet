@@ -1,3 +1,4 @@
+productvendor,username,password
 3COM (ssh),admin,admin
 3COM,<blank>,<blank>
 3COM,<blank>,12345
@@ -2363,7 +2364,6 @@ Prime,system,system
 Prime,tele,tele
 Prime,test,test
 PrimeBase,Administrator,<blank>
-productvendor,username,password
 Prolink,admin,password
 Proliphix Thermostat (iot),admin,admin
 Prolynx (Indoor Monitor),<blank>,002236
