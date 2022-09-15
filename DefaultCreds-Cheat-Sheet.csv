@@ -2550,6 +2550,7 @@ SAP,xmi_demo,sap123
 Schlage SMS (mssql),sa,SECAdmin1
 Schlage SMS (mssql),SMSAdmin,SECAdmin1
 Schneider Electric,<blank>,admin
+Schneider Electric,Administrator,admin
 Schneider Electric,ntpupdate,ntpupdate
 Schneider Electric,USER,USER
 Schneider M340(FTP),sysdiag,factorycast@schneider
@@ -3388,6 +3389,7 @@ Zcomax,admin,password
 Zebra Technologies,admin,1234
 Zebra,admin,1234
 Zed-3,admin,0000
+Zen,admin,P@ssw0rd
 zenitel,<blank>,1234
 zenitel,<blank>,1851
 zenitel,admin,alphaadmin
