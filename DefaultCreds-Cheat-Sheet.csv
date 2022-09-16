@@ -145,6 +145,7 @@ Allot,root,bagabu
 Alteon,admin,<blank>
 Alteon,admin,admin
 Alteon,admin,linga
+Altova,root,root
 Ambit,root,<blank>
 Ambit,root,root
 Ambit,user,user
@@ -636,6 +637,7 @@ Claris,<blank>,familymacintosh
 ClearOne Communications,clearone,converge
 ClearOne Communications,ClearOne,RAV
 ClearPass (general),admin,eTIPS123
+CMSimple,<blank>,test
 CNET,admin,1234
 CNet,Admin,admin
 Cnet,Admin,epicrouter
@@ -863,6 +865,7 @@ Digital Equipment,VAX,VAX
 Digital Equipment,VMS,VMS
 Digitus,admin,1234
 "Digium,Inc.",admin,password
+Ditto Forensic FieldStation,ditto,ditto
 Divar,admin,<blank>
 Divar,viewer,<blank>
 DJI (OSMO),<blank>,12341234
@@ -985,6 +988,7 @@ EverFocus,supervisor,supervisor
 Exabyte,anonymous,Exabyte
 Exacq Technologies,admin,admin256
 Exacq Technologies,user,user5710
+ExaGrid,root,inflection
 Exinda Networks,admin,exinda
 Extended Systems,admin,admin
 Extended Systems,admin,extendnet
@@ -1019,6 +1023,7 @@ Fortinet,maintainer,pbcpbn(add-serial-number)
 Foscam,admin,<blank>
 Foundry Networks,<blank>,<blank>
 Foundry Networks,admin,admin
+FreeSWITCH,<blank>,ClueCon
 Freetech,<blank>,Posterie
 FrontRange Solutions,master,access
 ftp (ftp),anonymous,<blank>
@@ -1152,6 +1157,7 @@ Hewlett-Packard,WP,HPOFFICE
 HighPOint,RAID,hpt
 hikvision (ssh),admin,12345
 HipChat Server (ssh),admin,hipchat
+HiSilicon,admin,<blank>
 Hitachi,<blank>,0000
 Hitachi,<blank>,0300
 Hitachi,<blank>,1900
@@ -1365,6 +1371,7 @@ IBM,webadmin,webibm
 IBM,wpsadmin,wpsadmin
 icatch (camera),admin,123456
 icatch (camera),root,icatch99
+Ichano,<blank>,123
 iDirect,admin,P@55w0rd!
 iDirect,root,iDirect
 iGuard,admin,123
@@ -2008,6 +2015,7 @@ OpenMarket,user_publisher,demo
 OpenNetAdmin,admin,admin
 Openwave,cac_admin,cacadmin
 Openwave,sys,uplink
+OptiLink,e8c,e8c
 Optivision,root,mpegvideo
 Oracle Glassfish (web),admin,<blank>
 Oracle Glassfish (web),admin,admin
@@ -2447,6 +2455,8 @@ Ricoh,admin,password
 Ricoh,sysadm,sysadm
 Ricoh,sysadmin,password
 RidgeWave,admin,admin
+Rittal,cmc,cmc
+Rittal,admin,admin
 Riverbed,Admin,password
 Rizen,Admin,123qwe
 RM,<blank>,RM
@@ -2543,6 +2553,7 @@ SAP,xmi_demo,sap123
 Schlage SMS (mssql),sa,SECAdmin1
 Schlage SMS (mssql),SMSAdmin,SECAdmin1
 Schneider Electric,<blank>,admin
+Schneider Electric,Administrator,admin
 Schneider Electric,ntpupdate,ntpupdate
 Schneider Electric,USER,USER
 Schneider M340(FTP),sysdiag,factorycast@schneider
@@ -2551,6 +2562,7 @@ Schneider Premium(FTP),sysdiag,factorycast@schneider
 Schneider Premium(WEB),USER,USER
 schneider,USER,USER
 Scientific Atlanta,admin,w2402
+Scrutinizer (MySQL),scrutremote,admin
 Seagate,admin,admin
 Seagull Scientific,ADMIN,admin
 Seagull Scientific,USER,USER
@@ -2559,6 +2571,7 @@ Seclore,sa,changeonfirstlogin
 Secure Computing,admin,<blank>
 Securicor3NET,manager,friend
 securstar,admin,rainbow
+SedSystems,admin,admin
 Semaphore,DESQUETOP,<blank>
 Semaphore,DS,<blank>
 Semaphore,DSA,<blank>
@@ -3282,6 +3295,8 @@ weblogic,system,weblogic
 Webmin,admin,hp.com
 Webramp,wradmin,trancell
 WebSphere (web),system,manager
+Wedge Networks,support,ous35hi3
+Wedge Networks (SQL DB),root,wecandoit
 Weidmüller,admin,Detmold
 Weidmüller,admin,detmond
 WelchAllyn CardioPerfect (mssql),sa,Cardio.Perfect
@@ -3381,6 +3396,7 @@ Zcomax,admin,password
 Zebra Technologies,admin,1234
 Zebra,admin,1234
 Zed-3,admin,0000
+Zen,admin,P@ssw0rd
 zenitel,<blank>,1234
 zenitel,<blank>,1851
 zenitel,admin,alphaadmin
