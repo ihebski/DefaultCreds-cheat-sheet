@@ -1499,6 +1499,10 @@ KASDA,admin,adslroot
 Kentico Software,administrator,<blank>
 Kethinov,root,password
 Keyscan,keyscan,KEYSCAN
+Kloxo (DB),<blank>,21232f297a
+Kloxo (RoundCube),<blank>,pass
+Kloxo,admin,password
+Kloxo,root,password
 Kodak,PACSLinkIP,NetServer
 Kodak,PLMIMService,NetServer
 Kodak,RNIServiceManager,NetServer
