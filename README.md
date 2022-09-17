@@ -20,10 +20,10 @@ One place for all the default credentials to assist the pentesters during an eng
 
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 3430	| 3430	| 3430 |
-| **unique** |	1157	| 1077 |	1590 |
+| **count**	| 3445	| 3445	| 3445 |
+| **unique** |	1169	| 1081 |	1595 |
 | **top** |	Oracle| <blank> | <blank> |
-| **freq** |	235 |	716 |	460 |
+| **freq** |	235 |	718 |	461 |
 
 #### Sources
 
