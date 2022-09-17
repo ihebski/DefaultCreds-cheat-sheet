@@ -621,6 +621,7 @@ Cisco,root,Cisco
 Cisco,root,password
 Cisco,root,secur4u
 Cisco,sa,<blank>
+Cisco,scpuser,scpuser
 Cisco,technician,2 + last 4 of Audio
 Cisco,UAMIS_,<blank>
 Cisco,UNITY_,<blank>
