@@ -2400,6 +2400,7 @@ Psionteklogix,support,h179350
 ptcl,admin,admin
 publicprivate (snmp),<blank>,private
 publicprivate (snmp),<blank>,public
+Pulse Secure,admin,password
 Pyramid Computer,admin,admin
 Pyramid Computer,admin,gnumpf
 Q-Tec,Admin,<blank>
