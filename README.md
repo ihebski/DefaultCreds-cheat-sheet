@@ -1,18 +1,20 @@
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 # Default Credentials Cheat Sheet
 <p align="center">
   <img src="https://media.moddb.com/cache/images/games/1/65/64034/thumb_620x2000/Lockpicking.jpg"/>
 </p>
 
-One place for all the default credentials to assist the pentesters during an engagement, this document has a several products default credentials that are gathered from several sources.
+**One place for all the default credentials to assist pentesters during an engagement, this document has several products default login/password gathered from multiple sources.**
 
-> P.S : Most of the credentials are extracted from the changeme,routersploit and Seclists projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
+> P.S : Most of the credentials were extracted from changeme,routersploit and Seclists projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
 
 - [x] Project in progress
 
 ## Motivation
 - One document for the most known vendors default credentials
 - Assist pentesters during a pentest/red teaming engagement
-- **Helping the Red/Blue teamers to secure the company infrastructure by discovering this security flaw in order to mitigate it**. See 
+- **Helping the Blue teamers to secure the company infrastructure assets by discovering this security flaw in order to mitigate it**. See 
 [OWASP Guide [WSTG-ATHN-02] - Testing_for_Default_Credentials](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/04-Authentication_Testing/02-Testing_for_Default_Credentials "OWASP Guide")
 
 
