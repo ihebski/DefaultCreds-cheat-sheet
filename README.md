@@ -70,7 +70,9 @@ New updates are available 🚧
 
 [+] Creds saved to /tmp/tomcat-usernames.txt , /tmp/tomcat-passwords.txt 📥
 ```
-
+  
+[![asciicast](https://asciinema.org/a/526599.svg)](https://asciinema.org/a/526599)
+  
 #### Pass Station
 
 [noraj][noraj] created CLI & library to search for default credentials among this database using `DefaultCreds-Cheat-Sheet.csv`.
