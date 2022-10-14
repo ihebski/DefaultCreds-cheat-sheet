@@ -442,8 +442,8 @@ Aztech,admin,admin
 Aztech,isp,isp
 Aztech,root,admin
 backtrack,root,toor
-"Barco,Inc.",admin,admin
-"Barco,Inc.",<blank>,clickshare
+Barco,admin,admin
+Barco,<blank>,clickshare
 Barracuda,admin,admin
 Barracuda,ssladmin,ssladmin
 Barracuda (web),admin,admin
@@ -486,6 +486,8 @@ BLACKBOX,Administrator,public
 Black Widow Web Design Ltd,admin,nimda
 Blaeri,Blaeri,22332323
 Blitzz Technologies,admin,admin
+Bloodhound,neo4j,BloodHound
+Bloodhound,neo4j,neo4j
 Bluecoat,admin,admin
 Blue Coat Systems,admin,articon
 BMC,patrol,patrol
@@ -655,7 +657,7 @@ Comcast Home Networking,comcast,<blank>
 Comcast SMC,cusadmin,CantTouchThis
 Comcast SMC,cusadmin,highspeed
 Comersus,admin,dmr99
-"Comodo Group,Inc",mydlp,mydlp
+Comodo Group,mydlp,mydlp
 Compaq,administrator,administrator
 Compaq,anonymous,<blank>
 Compaq,<blank>,<blank>
@@ -853,7 +855,7 @@ Digital Equipment,USER,USER
 Digital Equipment,VAX,VAX
 Digital Equipment,VMS,VMS
 Digitus,admin,1234
-"Digium,Inc.",admin,password
+Digium Inc,admin,password
 Ditto Forensic FieldStation,ditto,ditto
 Divar,admin,<blank>
 Divar,viewer,<blank>
@@ -935,8 +937,8 @@ Efficient,superuser,admin
 Efficinet Networks,login,admin
 EFront Leanring,professor,professor
 EFront Learning,student,student
-"Ektron,Inc.",builtin,builtin
-"Ektron,Inc.",sa,Ektron
+Ektron,builtin,builtin
+Ektron,sa,Ektron
 Elasticsearch (web),<blank>,<blank>
 elasticsearch (web),elastic,changeme
 ElkarBackup,root,root
@@ -1054,7 +1056,7 @@ General Instruments,test,test
 GeoNetwork (mssql),admin,gnos
 geovision (web),admin,admin
 Gericom,Administrator,<blank>
-"GE Security,Inc.",install,install
+GE Security,install,install
 giga,Administrator,admin
 Gigabyte,admin,admin
 GigaFiber,admin,jiocentrum
@@ -1079,7 +1081,7 @@ GrandStream,End User,123 (or blank)
 grandstream (web),admin,admin
 Greatspeed,admin,broadband
 greatspeed,netadmin,nimdaten
-"Groupee,Inc.",Admin5,4tugboat
+Groupee,Admin5,4tugboat
 GuardOne,<blank>,guardone
 GuardOne,n.a,guardone
 Guru,admin,admin
@@ -1205,7 +1207,7 @@ huawei (ssh),vodafone,vodafone
 Huawei Technologies Co,admin,admin
 Huawei Technologies Co,TMAR#HWMT8007079,<blank>
 Huawei,TMAR#HWMT8007079,<blank>
-"Hyperic,Inc.",hqadmin,hqadmin
+Hyperic,hqadmin,hqadmin
 i2b2 Workbench (mssql),I2b2demodata2,i2b2demodata2
 i2b2 Workbench (mssql),I2b2demodata,i2b2demodata
 i2b2 Workbench (mssql),I2b2hive,i2b2hive
@@ -1597,7 +1599,7 @@ Linux,gonzo,<blank>
 Linux,root,uClinux
 Linux,satan,<blank>
 Linux,snake,<blank>
-"Liquidware Labs,Inc.",ssadmin,sspassword
+Liquidware Labs,ssadmin,sspassword
 Livingstone,root,<blank>
 Livingston,!root,<blank>
 Lockdown,setup,changeme!
@@ -1781,6 +1783,7 @@ NCR,ncrm,ncrm
 NEC,admin,password
 NEC,<blank>,<blank>
 NEC,<blank>,iPbSmNt
+Neo4j,neo4j,neo4j
 Nessus,admin,admin123
 NetApp,admin,admin123
 NetApp,admin,NetCache
@@ -2331,7 +2334,7 @@ Pirelli,admin,microbusiness
 Pirelli,admin,mu
 Pirelli,admin,smallbusiness
 Pirelli,user,password
-"Pivotal Software,Inc.",guest,guest
+Pivotal Software,guest,guest
 PlainTree,<blank>,default.password
 Planet,admin,1234
 planet,admin,admin
@@ -2387,13 +2390,14 @@ Prime,system,prime
 Prime,system,system
 Prime,tele,tele
 Prime,test,test
+productvendor,username,password
 Prolink,admin,password
 Proliphix Thermostat (iot),admin,admin
 Prolynx (Indoor Monitor),<blank>,002236
 Prolynx (Outdoor Station),admin,admin
 Promise,admin,admin
 Promise,engmode,hawk201
-"Promise Technology,Inc.",administrator,password
+Promise Technology,administrator,password
 ProSoft Technology,<blank>,password
 Prostar,<blank>,4321
 Protocraft,musi1921,Musi%1921
@@ -2601,7 +2605,7 @@ Sercom,admin,admin
 Server Technology,ADMN,admn
 Server Technology,GEN1,gen1
 Server Technology,GEN2,gen2
-"Seyeon Technology Co.,Ltd",root,root
+Seyeon Technology,root,root
 Sharp,admin,admin
 Sharp,Administrator,admin
 Sharp,admin,Sharp
@@ -2880,7 +2884,7 @@ Supercook,admin,AlpheusDigital1010
 Supercook,super,super
 Supermicro,ADMIN,admin
 SuperMicro,<blank>,ksdjfg934t
-"Super Micro Computer,Inc.",ADMIN,ADMIN
+Super Micro Computer,ADMIN,ADMIN
 Supermicro (web),ADMIN,ADMIN
 Surecom,admin,admin
 Surecom,admin,surecom
@@ -2910,7 +2914,7 @@ Symantec,root,brightmail
 Symbol,admin,symbol
 Symbol,<blank>,Symbol
 Symbol,Symbol,Symbol
-"Symbol Technologies,Inc",admin,superuser
+Symbol Technologies,admin,superuser
 Symmetricom,guest,truetime
 Symmetricom,operator,mercury
 Synology Inc,admin,<blank>
@@ -3283,10 +3287,10 @@ VxWorks,admin,admin
 VxWorks,guest,guest
 WAAV,admin,waav
 Wanadoo,admin,admin
-"Wanco,Inc.",<blank>,ABCD
-"Wanco,Inc.",<blank>,Guest
-"Wanco,Inc.",<blank>,NTCIP
-"Wanco,Inc.",<blank>,Public
+Wanco,<blank>,ABCD
+Wanco,<blank>,Guest
+Wanco,<blank>,NTCIP
+Wanco,<blank>,Public
 Wang,CSG,SESAME
 warraCorp,pepino,pepino
 WatchGuard,admin,admin
@@ -3352,7 +3356,7 @@ windows (RDP),user,Wyse#123
 windows (RDP),vagrant,vagrant
 windows (RDP),wasadmin,wasadmin
 winwork,operator,<blank>
-"Wireless,Inc.",root,rootpass
+Wireless,root,rootpass
 WLAN_3D,Administrator,admin
 wline,admin,1234
 Wonderware Historian (mssql),aaAdmin,pwAdmin
