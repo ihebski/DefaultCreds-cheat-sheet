@@ -23,8 +23,8 @@
 
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 3449	| 3449	| 3449 |
-| **unique** |	1173	| 1082 |	1596 |
+| **count**	| 3453	| 3453	| 3453 |
+| **unique** |	1176	| 1083 |	1598 |
 | **top** |	Oracle| <blank> | <blank> |
 | **freq** |	235 |	718 |	461 |
 
