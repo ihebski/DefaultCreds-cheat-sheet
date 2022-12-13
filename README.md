@@ -1,5 +1,4 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<a href="https://twitter.com/intent/tweet?text=DefaultCreds-cheat-sheet:%20One%20place%20for%20all%20the%20default%20credentials%20to%20assist%20the%20Blue/Red%20teamers%20activities%20on%20finding%20devices%20with%20default%20password%20%F0%9F%9B%A1%EF%B8%8F%20by%20@ih3bski%20https://github.com/ihebski/DefaultCreds-cheat-sheet"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a>
 
 # Default Credentials Cheat Sheet
 
