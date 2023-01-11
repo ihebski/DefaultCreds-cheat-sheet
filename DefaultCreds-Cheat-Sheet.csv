@@ -3028,6 +3028,8 @@ TexBox,<blank>,123
 TextPortal,god1,12345
 TextPortal,god2,12345
 Thecus Tech,admin,admin
+TheHive,admin@thehive.local,secret
+TheHive,thehive@thehive.local,thehive1234
 Thomson,admin,admin
 Thomson,admin,password
 Thomson,<blank>,admin
