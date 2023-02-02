@@ -1725,6 +1725,7 @@ Minolta PagrPro,<blank>,sysadm
 Minolta QMS,admin,<blank>
 Minolta QMS,operator,<blank>
 Mintel,<blank>,SYSTEM
+MISP,admin@admin.test,admin
 Mitel,<blank>,<blank>
 Mitel,installer,1000
 Mitel Networks,1nstaller,5X2000
