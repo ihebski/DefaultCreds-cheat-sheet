@@ -37,14 +37,33 @@
 - [ics-default-passwords](https://github.com/arnaudsoullie/ics-default-passwords) (thanks to @noraj)
 - Vendors documentations/blogs
 
-#### Creds script
+## Installtion
 
-You can turn the cheat sheet into a cli command and perform search queries for a specific product.
+The Default Credentials Cheat Sheet is available through [pypi](https://pypi.org/project/defaultcreds-cheat-sheet/)
+
+```bash
+$ pip3 install defaultcreds-cheat-sheet
+$ creds search tomcat
+```
+Tested on
+* Kali linux
+* Ubuntu
+
+##### Manual Installation
+
+```bash
+$ git clone https://github.com/ihebski/DefaultCreds-cheat-sheet
+$ pip3 install -r requirements.txt
+$ cp creds /usr/bin/ && chmod +x /usr/bin/creds
+$ creds search tomcat
+```
+
+#### Creds script
 
 * Usage Guide
 ```bash
 # Search for product creds
-➤ python3 creds search tomcat                                                                                                      
+➤ creds search tomcat                                                                                                      
 +----------------------------------+------------+------------+
 | Product                          |  username  |  password  |
 +----------------------------------+------------+------------+
@@ -54,13 +73,13 @@ You can turn the cheat sheet into a cli command and perform search queries for a
 +----------------------------------+------------+------------+
 
 # Update records
-➤ python3 creds update
+➤ creds update
 Check for new updates...🔍
 New updates are available 🚧
 [+] Download database...
 
 # Export Creds to files (could be used for brute force attacks)
-➤ python3 creds search tomcat export
+➤ creds search tomcat export
 +----------------------------------+------------+------------+
 | Product                          |  username  |  password  |
 +----------------------------------+------------+------------+
