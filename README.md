@@ -37,17 +37,18 @@
 - [ics-default-passwords](https://github.com/arnaudsoullie/ics-default-passwords) (thanks to @noraj)
 - Vendors documentations/blogs
 
-## Installtion
+## Installation & Usage
 
-The Default Credentials Cheat Sheet is available through [pypi](https://pypi.org/project/defaultcreds-cheat-sheet/)
+The Default Credentials Cheat Sheet tool is available on [pypi](https://pypi.org/project/defaultcreds-cheat-sheet/)
 
 ```bash
 $ pip3 install defaultcreds-cheat-sheet
 $ creds search tomcat
 ```
-Tested on
+Tested on:
 * Kali linux
 * Ubuntu
+* Lubuntu
 
 ##### Manual Installation
 
