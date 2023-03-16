@@ -1468,8 +1468,8 @@ JDS,hydrasna,<blank>
 JDS Microprocessing,hydrasna,<blank>
 Jean-Philippe Lang,admin,admin
 Jeebles Technology,<blank>,admin
-Jeedom,root,Mjeedom96
 Jeedom,jeedom,Mjeedom96
+Jeedom,root,Mjeedom96
 Jenkins (web),<blank>,<blank>
 Jetform,Jetform,<blank>
 JetWay,<blank>,spooml
@@ -1526,20 +1526,20 @@ Konica Minolta,admin,administrator
 Konica Minolta,<blank>,0
 Konica Minolta,<blank>,0000
 Konica Minolta,<blank>,1234
+Konica Minolta,<blank>,1234567812345678
 Konica Minolta,<blank>,<blank>
 Konica Minolta,<blank>,MagiMFP
 Konica Minolta,<blank>,sysadm
 Konica Minolta,<blank>,sysAdmin
-Konica Minolta,<blank>,1234567812345678
 Konica Minolta (web),admin,administrator
 Konica Minolta (web),<blank>,0
 Konica Minolta (web),<blank>,0000
 Konica Minolta (web),<blank>,1234
+Konica Minolta (web),<blank>,1234567812345678
 Konica Minolta (web),<blank>,<blank>
 Konica Minolta (web),<blank>,MagiMFP
 Konica Minolta (web),<blank>,sysadm
 Konica Minolta (web),<blank>,sysAdmin
-Konica Minolta (web),<blank>,1234567812345678
 Kramer,Admin,adminpw
 Kronos,SuperUser,kronites
 KTI,admin,123
@@ -1692,8 +1692,9 @@ Mentec,MICRO,RSX
 MERCURY,Administrator,admin
 Mercury Interactive,admin,admin
 Meridian,service,smile
-metasploit (ssh),msfdev,msfdev
-metasploit (ssh),msf,msf
+metasploit,msfdev,msfdev
+metasploit,msf,msf
+Metasploit,postgres,postgres
 metro,client,client
 Michiel,admin,phplist
 Microcom,admin,epicrouter
@@ -2375,6 +2376,7 @@ postgres (postgres),postgres,postgres
 PostgreSQL,postgres,<blank>
 Powerchute,pwrchute,pwrchute
 POWERLOGIC,Administrator,Gateway
+PowerShell-Empire/Starkiller,empireadmin,password123
 Prestige,admin,1234
 Prestigio,<blank>,<blank>
 PrimeBase,Administrator,<blank>
