@@ -1206,6 +1206,10 @@ huawei (ssh),telecomadmin,admintelecom
 huawei (ssh),user,HuaweiUser
 huawei (ssh),user,user
 huawei (ssh),vodafone,vodafone
+Huawei S2700,admin,admin@huawei.com
+Huawei S3700,admin,admin@huawei.com
+Huawei S5700,admin,admin@huawei.com
+Huawei S6700,admin,admin@huawei.com
 Huawei Technologies Co,admin,admin
 Huawei Technologies Co,TMAR#HWMT8007079,<blank>
 Huawei,TMAR#HWMT8007079,<blank>
