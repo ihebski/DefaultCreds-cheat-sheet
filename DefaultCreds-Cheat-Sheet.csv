@@ -1796,7 +1796,7 @@ Neo4j,neo4j,neo4j
 Nessus,admin,admin123
 NetApp,admin,admin123
 NetApp,admin,NetCache
-NetApp,admin,netapp!123
+NetApp ONTAP,admin,netapp!123
 Netasq,admin,admin
 NetBackup OpsCenter Analytics (web),admin,password
 NetBotz,netbotz,netbotz
