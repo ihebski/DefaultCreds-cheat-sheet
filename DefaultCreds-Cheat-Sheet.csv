@@ -1169,6 +1169,8 @@ Hewlett-Packard,WP,HPOFFICE
 HighPOint,RAID,hpt
 hikvision (ssh),admin,12345
 HipChat Server (ssh),admin,hipchat
+Hirschmann,admin,private
+Hirschmann,user,public
 HiSilicon,admin,<blank>
 Hitachi,<blank>,0000
 Hitachi,<blank>,0300
