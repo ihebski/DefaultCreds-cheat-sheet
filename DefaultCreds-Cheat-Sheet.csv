@@ -535,9 +535,11 @@ Cable And Wireless,admin,1234
 Cabletron,<blank>,<blank>
 Cabletron,netman,<blank>
 caldera,admin,admin
+Cambium Networks AP,admin,admin
 CA NetQoS (web),nqadmin,nq
 CA NetQoS (web),nquser,nq
 Canon,<blank>,0
+Canon,Administrator,7654321
 Canon/Brother,7654321,7654321
 canon (web),root,camera
 canyon,Administrator,admin
@@ -1037,6 +1039,7 @@ Foundry Networks,<blank>,<blank>
 FreeSWITCH,<blank>,ClueCon
 Freetech,<blank>,Posterie
 FrontRange Solutions,master,access
+FS Switch(Web),admin,admin123
 ftp (ftp),anonymous,<blank>
 ftp (ftp),ftp,ftp
 ftp (ftp),guest,guest
