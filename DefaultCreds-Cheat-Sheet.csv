@@ -483,6 +483,7 @@ Biostar,<blank>,Q54arwms
 Biscom,admin,admin
 BizDesign,Admin,ImageFolio
 BLACKBOX,Administrator,public
+blackduck,sysadmin,blackduck
 Black Widow Web Design Ltd,admin,nimda
 Blaeri,Blaeri,22332323
 Blitzz Technologies,admin,admin
@@ -538,8 +539,8 @@ caldera,admin,admin
 Cambium Networks AP,admin,admin
 CA NetQoS (web),nqadmin,nq
 CA NetQoS (web),nquser,nq
-Canon,<blank>,0
 Canon,Administrator,7654321
+Canon,<blank>,0
 Canon/Brother,7654321,7654321
 canon (web),root,camera
 canyon,Administrator,admin
@@ -1203,6 +1204,10 @@ HP Server Automation (web),admin,opsware_admin
 HP StoreAll (GUI),ibrix,ibrix
 HP StoreAll (Root),root,hpinvent
 Huawei,admin,admin
+Huawei S2700,admin,admin@huawei.com
+Huawei S3700,admin,admin@huawei.com
+Huawei S5700,admin,admin@huawei.com
+Huawei S6700,admin,admin@huawei.com
 huawei (ssh),admin,admin
 huawei (ssh),Admin,admin
 huawei (ssh),admin,<blank>
@@ -1211,10 +1216,6 @@ huawei (ssh),telecomadmin,admintelecom
 huawei (ssh),user,HuaweiUser
 huawei (ssh),user,user
 huawei (ssh),vodafone,vodafone
-Huawei S2700,admin,admin@huawei.com
-Huawei S3700,admin,admin@huawei.com
-Huawei S5700,admin,admin@huawei.com
-Huawei S6700,admin,admin@huawei.com
 Huawei Technologies Co,admin,admin
 Huawei Technologies Co,TMAR#HWMT8007079,<blank>
 Huawei,TMAR#HWMT8007079,<blank>
@@ -2333,6 +2334,7 @@ penril datability,<blank>,system
 Pentagram,admin,password
 Pentaoffice,<blank>,pento
 PentaSafe,PSEAdmin,$secure$
+peplink,admin,admin
 Perle,admin,superuser
 pfSense,admin,pfsense
 Pfsense (web),admin,pfsense
