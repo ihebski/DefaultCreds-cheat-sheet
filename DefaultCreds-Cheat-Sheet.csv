@@ -1,4 +1,3 @@
-productvendor,username,password
 3COM,admin,1234admin
 3COM,admin,admin
 3COM,Admin,Admin
@@ -199,6 +198,7 @@ Apache,admin,j5Brn9
 APACHE,admin,jboss4
 Apache,admin,tomcat
 Apache,both,tomcat
+Apache guacamole,guacadmin,guacadmin
 Apache Project,jj,<blank>
 Apache,role1,role1
 Apache,role1,tomcat
