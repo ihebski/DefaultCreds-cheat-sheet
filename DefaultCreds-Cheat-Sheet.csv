@@ -2345,7 +2345,7 @@ Pelco DX4500 / DX4600 Server (Firmware 1.3 or newer),admin,admin
 Pelco DX8100 Client,<blank>,000000
 Pelco DX8100 Server v1.x  (Prompts to change password on 1st login),Admin,Admin
 Pelco DX8100 Server v2.x (Prompts to change but can keep default),admin,admin
-Pelco DX8100 Server Windows Login "Exit to Windows",dx8100adm,dx8100
+Pelco DX8100 Server Windows Login Exit to Windows,dx8100adm,dx8100
 Pelco DS Admin / DS ControlPoint,admin,admin
 Pelco DS SQL (v7.x.x),sa,LETmein333
 Pelco DS Windows Login,DSServiceUser,dsserviceuser
