@@ -2336,6 +2336,38 @@ Pentagram,admin,password
 Pentaoffice,<blank>,pento
 PentaSafe,PSEAdmin,$secure$
 peplink,admin,admin
+Pelco DX1000,<blank>,000 or 202
+Pelco DX3100 Server,<blank>,1981
+Pelco DX4000 Server,<blank>,1234
+Pelco DX4500 / DX4600 Client,<blank>,000000
+Pelco DX4500 / DX4600 Server (Firmware 1.2 or older),ADMINISTRATOR,000000
+Pelco DX4500 / DX4600 Server (Firmware 1.3 or newer),admin,admin
+Pelco DX8100 Client,<blank>,000000
+Pelco DX8100 Server v1.x  (Prompts to change password on 1st login),Admin,Admin
+Pelco DX8100 Server v2.x (Prompts to change but can keep default),admin,admin
+Pelco DX8100 Server Windows Login "Exit to Windows",dx8100adm,dx8100
+Pelco DS Admin / DS ControlPoint,admin,admin
+Pelco DS SQL (v7.x.x),sa,LETmein333
+Pelco DS Windows Login,DSServiceUser,dsserviceuser
+Pelco DS Windows Login (DIACAP DS version 7.7),DSServiceUser,ds_Pelco@$2014
+Pelco DS Windows Login (DIACAP DS version 7.14),DSServiceUser,Q2_Pelco@$2016
+Pelco DS Windows Login (DIACAP DS version 7.16),DSServiceUser,Q1_17@$Pelc0DS
+Pelco DS Services,DSNVSUser,Pelco123
+Pelco DVXi / DVXe,Administrator,letmein
+Pelco Endura SSH (SM5000/SM5200/NSM5200/VCD5000/VCD5202/NET5402R-HD/UDI5000-CAM/UDI5000-MTRX),root,pel2899100
+Pelco Endura Web Interface (SM5000/SM5200/NSM520),admin,admin
+Pelco Endura Windows Login (WS5050/WS5060/WS5070/WS5080),WS50x0 Administrator (Substitute the x with the model of the workstation),2899100
+Pelco Endura WS5200 Software,admin,admin
+Pelco Sarix Web Interface,admin,admin
+Pelco Sarix SSH,root,pel2899100
+Pelco VideoXpert Accessory Server SSH,pelco,Pel2899100
+Pelco VideoXpert Accessory Server Webpage (v2.0+),admin,admin
+Pelco VideoXpert Admin Portal (This must be changed upon initial configuration),admin,admin
+Pelco VideoXpert Enhanced Decoder SSH,decoder,pelco
+Pelco VideoXpert OpsCenter Local Credentials,localadmin,localadmin
+Pelco VideoXpert Storage Server Webpage,admin,admin
+Pelco VideoXpert Storage Server Webpage (Updated),admin,Pel2899100
+Pelco VideoXpert Windows Login,pelco,Pel2899100
 Perle,admin,superuser
 pfSense,admin,pfsense
 Pfsense (web),admin,pfsense
