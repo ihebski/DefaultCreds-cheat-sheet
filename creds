@@ -97,9 +97,9 @@ def search(keyword,export=False):
     """
     if len(db.all()) == 0:
         get_db()
-        print_table(db.search(where("product").search(keyword.lower())),keyword,export)
+        print_table(db.search(where("product").search(str(keyword).lower())),keyword,export)
     else:
-        print_table(db.search(where("product").search(keyword.lower())),keyword,export)
+        print_table(db.search(where("product").search(str(keyword).lower())),keyword,export)
 
 def sha256sum(filename):
     """
