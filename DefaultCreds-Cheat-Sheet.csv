@@ -2477,6 +2477,7 @@ QDI,<blank>,QDI
 QLogic,admin,password
 QLogic,images,images
 Q-Tec,Admin,<blank>
+Quadient,supervisor,09430
 QualiTeam,master,master
 Quantex,<blank>,teX1
 Quantex,<blank>,xljlbj
@@ -2627,6 +2628,8 @@ SAP (web),SAPR3,SAP
 SAP (web),TMSADM,<blank>
 SAP (web),xmi_demo,sap123
 SAP,xmi_demo,sap123
+Sato,MANAGER,6677
+Sato,ADMIN,96726
 Schlage SMS (mssql),sa,SECAdmin1
 Schlage SMS (mssql),SMSAdmin,SECAdmin1
 Schneider Electric,Administrator,admin
