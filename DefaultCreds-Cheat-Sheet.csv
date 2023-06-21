@@ -263,6 +263,10 @@ Arris,admin,password
 Arrowpoint,admin,system
 Arrowpoint,<blank>,<blank>
 ARtem,<blank>,admin
+Artifactory,admin,password
+Artifactory,access-admin,password
+Artifactory,access-admin,(random password)
+Artifactory,anonymous,<blank>
 Aruba,admin,admin
 Aruba (web),admin,admin
 Arun,123,234
