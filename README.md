@@ -1,4 +1,3 @@
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Default Credentials Cheat Sheet
 
@@ -23,8 +22,8 @@
 
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 3518	| 3518	| 3518 |
-| **unique** |	1234	| 1096 |	1628 |
+| **count**	| 3522	| 3522	| 3522 |
+| **unique** |	1235	| 1099 |	1631 |
 | **top** |	Oracle| <blank> | <blank> |
 | **freq** |	235 |	725 |	461 |
 
