@@ -562,10 +562,10 @@ Centreon WebUI,admin,centreon
 Ceragon Networks,root,tooridu
 CGI World,<blank>,protection
 Chase Research,<blank>,iolan
+Check Point 1470 appliance,admin,Admin123
 Checkpoint,admin,abc123
 Checkpoint,admin,admin
 Check Point,admin,admin
-Check Point 1470 appliance,admin,Admin123
 Check Point,admin,adminadmin
 Checkpoint (web),admin,abc123
 Checkpoint (web),admin,admin
@@ -1075,6 +1075,10 @@ glftpd,glftpd,glftpd
 glFtpD,glftpd,glftpd
 Globespan Virata,DSL,DSL
 GlobespanVirata,root,root
+Glpi,glpi,glpi
+Glpi,normal,normal
+Glpi,post-only,postonly
+Glpi,tech,tech
 GoAnywhere MFT,administrator,goanywhere
 Google,admin,urchin
 Gossamer Threads Inc.,admin,admin
@@ -2332,11 +2336,14 @@ patrowl,admin,Bonjour1!
 Patton,monitor,monitor
 Patton,superuser,superuser
 PBX,tech,nician
-penril datability,<blank>,system
-Pentagram,admin,password
-Pentaoffice,<blank>,pento
-PentaSafe,PSEAdmin,$secure$
-peplink,admin,admin
+Pelco DS Admin / DS ControlPoint,admin,admin
+Pelco DS Services,DSNVSUser,Pelco123
+Pelco DS SQL (v7.x.x),sa,LETmein333
+Pelco DS Windows Login (DIACAP DS version 7.14),DSServiceUser,Q2_Pelco@$2016
+Pelco DS Windows Login (DIACAP DS version 7.16),DSServiceUser,Q1_17@$Pelc0DS
+Pelco DS Windows Login (DIACAP DS version 7.7),DSServiceUser,ds_Pelco@$2014
+Pelco DS Windows Login,DSServiceUser,dsserviceuser
+Pelco DVXi / DVXe,Administrator,letmein
 Pelco DX1000,<blank>,000 or 202
 Pelco DX3100 Server,<blank>,1981
 Pelco DX4000 Server,<blank>,1234
@@ -2347,20 +2354,12 @@ Pelco DX8100 Client,<blank>,000000
 Pelco DX8100 Server v1.x  (Prompts to change password on 1st login),Admin,Admin
 Pelco DX8100 Server v2.x (Prompts to change but can keep default),admin,admin
 Pelco DX8100 Server Windows Login Exit to Windows,dx8100adm,dx8100
-Pelco DS Admin / DS ControlPoint,admin,admin
-Pelco DS SQL (v7.x.x),sa,LETmein333
-Pelco DS Windows Login,DSServiceUser,dsserviceuser
-Pelco DS Windows Login (DIACAP DS version 7.7),DSServiceUser,ds_Pelco@$2014
-Pelco DS Windows Login (DIACAP DS version 7.14),DSServiceUser,Q2_Pelco@$2016
-Pelco DS Windows Login (DIACAP DS version 7.16),DSServiceUser,Q1_17@$Pelc0DS
-Pelco DS Services,DSNVSUser,Pelco123
-Pelco DVXi / DVXe,Administrator,letmein
 Pelco Endura SSH (SM5000/SM5200/NSM5200/VCD5000/VCD5202/NET5402R-HD/UDI5000-CAM/UDI5000-MTRX),root,pel2899100
 Pelco Endura Web Interface (SM5000/SM5200/NSM520),admin,admin
 Pelco Endura Windows Login (WS5050/WS5060/WS5070/WS5080),WS50x0 Administrator (Substitute the x with the model of the workstation),2899100
 Pelco Endura WS5200 Software,admin,admin
-Pelco Sarix Web Interface,admin,admin
 Pelco Sarix SSH,root,pel2899100
+Pelco Sarix Web Interface,admin,admin
 Pelco VideoXpert Accessory Server SSH,pelco,Pel2899100
 Pelco VideoXpert Accessory Server Webpage (v2.0+),admin,admin
 Pelco VideoXpert Admin Portal (This must be changed upon initial configuration),admin,admin
@@ -2369,6 +2368,11 @@ Pelco VideoXpert OpsCenter Local Credentials,localadmin,localadmin
 Pelco VideoXpert Storage Server Webpage,admin,admin
 Pelco VideoXpert Storage Server Webpage (Updated),admin,Pel2899100
 Pelco VideoXpert Windows Login,pelco,Pel2899100
+penril datability,<blank>,system
+Pentagram,admin,password
+Pentaoffice,<blank>,pento
+PentaSafe,PSEAdmin,$secure$
+peplink,admin,admin
 Perle,admin,superuser
 pfSense,admin,pfsense
 Pfsense (web),admin,pfsense
@@ -2629,8 +2633,8 @@ SAP (web),SAPR3,SAP
 SAP (web),TMSADM,<blank>
 SAP (web),xmi_demo,sap123
 SAP,xmi_demo,sap123
-Sato,MANAGER,6677
 Sato,ADMIN,96726
+Sato,MANAGER,6677
 Schlage SMS (mssql),sa,SECAdmin1
 Schlage SMS (mssql),SMSAdmin,SECAdmin1
 Schneider Electric,Administrator,admin
