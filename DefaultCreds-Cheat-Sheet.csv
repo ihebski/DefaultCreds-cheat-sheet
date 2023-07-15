@@ -561,6 +561,7 @@ Cellit,cellit,cellit
 Centreon WebUI,admin,centreon
 Ceragon Networks,root,tooridu
 CGI World,<blank>,protection
+chaos Litmus,admin,litmus
 Chase Research,<blank>,iolan
 Check Point 1470 appliance,admin,Admin123
 Checkpoint,admin,abc123
@@ -1623,6 +1624,7 @@ Linux,root,uClinux
 Linux,satan,<blank>
 Linux,snake,<blank>
 Liquidware Labs,ssadmin,sspassword
+LitmusChaos,admin,litmus
 Livingstone,root,<blank>
 Livingston,!root,<blank>
 Lockdown,setup,changeme!
