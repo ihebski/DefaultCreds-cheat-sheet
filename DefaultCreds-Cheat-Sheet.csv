@@ -60,6 +60,7 @@ acti (web),Admin,123456
 Adaptec,Administrator,adaptec
 ADC Kentrox,<blank>,secret
 AdComplete.com,Admin1,Admin1
+Adeptia,admin,indigo1
 Addon,admin,admin
 AddPac Technology,root,router
 ADIC,admin,password
@@ -262,6 +263,10 @@ Arris,admin,password
 Arrowpoint,admin,system
 Arrowpoint,<blank>,<blank>
 ARtem,<blank>,admin
+Artifactory,admin,password
+Artifactory,access-admin,password
+Artifactory,access-admin,(random password)
+Artifactory,anonymous,<blank>
 Aruba,admin,admin
 Aruba (web),admin,admin
 Arun,123,234
@@ -1398,6 +1403,8 @@ IBM,VTAM,VTAM
 IBM WAS (mssql),wasadmin,wasadmin
 IBM,webadmin,webibm
 IBM,wpsadmin,wpsadmin
+IBM MQ,admin,passw0rd
+IBM MQ,mqm,<blank>
 icatch (camera),admin,123456
 icatch (camera),root,icatch99
 Ichano,<blank>,123
@@ -1742,10 +1749,12 @@ Microsoft,LessonUser2,<blank>
 Microsoft,MSHOME,MSHOME
 Microsoft,sa,<blank>
 Microsoft,User,User
+Midpoint,administrator,5ecr3t
 Mike Peters,bsxuser,bsxpass
 Mikrotik,admin,<blank>
 MikroTik,admin,<blank>
 Milan,root,root
+MinIO,minioadmin,minioadmin
 Minolta PagrPro,<blank>,sysadm
 Minolta QMS,admin,<blank>
 Minolta QMS,operator,<blank>
