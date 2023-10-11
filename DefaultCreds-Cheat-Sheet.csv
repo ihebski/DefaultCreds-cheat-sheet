@@ -444,6 +444,7 @@ axis (web),root,admin
 axis (web),root,pass
 AXUS,<blank>,0
 Axway,setup,setup
+Axway,system,System01
 Aztech,admin,admin
 Aztech,isp,isp
 Aztech,root,admin
