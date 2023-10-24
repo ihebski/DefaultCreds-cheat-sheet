@@ -240,6 +240,7 @@ APC,POWERCHUTE,APC
 APC,readonly,apc
 APC SmartSlot (snmp),<blank>,TENmanUFactOryPOWER
 APC UPS (web),apc,apc
+Appian,Administrator,admin
 Apple,admin,public
 Apple,<blank>,admin
 Apple,<blank>,password
