@@ -60,9 +60,9 @@ acti (web),Admin,123456
 Adaptec,Administrator,adaptec
 ADC Kentrox,<blank>,secret
 AdComplete.com,Admin1,Admin1
-Adeptia,admin,indigo1
 Addon,admin,admin
 AddPac Technology,root,router
+Adeptia,admin,indigo1
 ADIC,admin,password
 ADIC,admin,secure
 ADIP,adip,admin
@@ -264,9 +264,9 @@ Arris,admin,password
 Arrowpoint,admin,system
 Arrowpoint,<blank>,<blank>
 ARtem,<blank>,admin
-Artifactory,admin,password
 Artifactory,access-admin,password
 Artifactory,access-admin,(random password)
+Artifactory,admin,password
 Artifactory,anonymous,<blank>
 Aruba,admin,admin
 Aruba (web),admin,admin
@@ -1315,6 +1315,8 @@ IBM Maximo (mssql),maxadmin,maxadmin
 IBM Maximo (mssql),maxreg,maxreg
 IBM Maximo (mssql),mxintadm,mxintadm
 IBM,MOESERV,<blank>
+IBM MQ,admin,passw0rd
+IBM MQ,mqm,<blank>
 IBM Netezza (web),admin,password
 IBM,NEVIEW,<blank>
 IBM,OLTSEP,<blank>
@@ -1405,8 +1407,6 @@ IBM,VTAM,VTAM
 IBM WAS (mssql),wasadmin,wasadmin
 IBM,webadmin,webibm
 IBM,wpsadmin,wpsadmin
-IBM MQ,admin,passw0rd
-IBM MQ,mqm,<blank>
 icatch (camera),admin,123456
 icatch (camera),root,icatch99
 Ichano,<blank>,123
@@ -2049,6 +2049,7 @@ OpenConnect,adminstat,OCS
 OpenConnect,adminuser,OCS
 OpenConnect,adminview,OCS
 OpenConnect,helpdesk,OCS
+Opengear,root,default
 OpenGTS (mssql),gts,opengts
 Openlink,admin,admin
 OpenMarket,admin,demo
