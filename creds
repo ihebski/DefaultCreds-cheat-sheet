@@ -21,8 +21,10 @@ import requests
 import fire
 import pathlib
 import hashlib
+import tempfile
 
 
+tmpdir = tempfile.gettempdir()
 path = pathlib.Path(__file__).parent
 db = TinyDB(f"{path}/DefaultCreds_db.json",storage=CachingMiddleware(JSONStorage))
 DefaultCreds_CSV_FILE = "https://raw.githubusercontent.com/ihebski/DefaultCreds-cheat-sheet/main/DefaultCreds-Cheat-Sheet.csv"
@@ -57,8 +59,8 @@ def export_creds(product,keyword):
     :return 2 files
     """
     # username and passwords default files paths
-    username_path = f"/tmp/{keyword}-usernames.txt"
-    passwords_path = f"/tmp/{keyword}-passwords.txt"
+    username_path = f"{tmpdir}/{keyword}-usernames.txt"
+    passwords_path = f"{tmpdir}/{keyword}-passwords.txt"
 
     # Create lists for (usernames,passwords) and remove duplicates
     username_list, password_list = set([row.get("username").replace('<blank>','') for row in product]), set([row.get("password").replace('<blank>','') for row in product])
@@ -120,8 +122,8 @@ def update():
     Update database records
     """
     try:
-        get_db('/tmp',"Check for new updates...🔍")
-        print('[+] No action needed, We are fine 🤘') if sha256sum('/tmp/DefaultCreds_db.json') == sha256sum(f"{path}/DefaultCreds_db.json") else get_db(path,"New updates are available 🚧\n[+] Download database...")
+        get_db(tmpdir,"Check for new updates...🔍")
+        print('[+] No action needed, We are fine 🤘') if sha256sum(f'{tmpdir}/DefaultCreds_db.json') == sha256sum(f"{path}/DefaultCreds_db.json") else get_db(path,"New updates are available 🚧\n[+] Download database...")
     except Exception:
         print("⚠️ Operation failed, ERR_INTERNET_DISCONNECTED !! 🦄")
 if __name__ == "__main__":
