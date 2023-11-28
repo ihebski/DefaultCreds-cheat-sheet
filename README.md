@@ -48,8 +48,9 @@ $ creds search tomcat
 | Operating System   | Tested         |
 |---------------------|-------------------|
 | Linux(Kali,Ubuntu,Lubuntu)             | ✔️                |
+| Windows(10,11)               | ✔️                |
 | macOS               | ❌               |
-| Windows               | ❌                |
+
 
 ##### Manual Installation
 
