@@ -44,10 +44,12 @@ The Default Credentials Cheat Sheet tool is available on [pypi](https://pypi.org
 $ pip3 install defaultcreds-cheat-sheet
 $ creds search tomcat
 ```
-Tested on:
-* Kali linux
-* Ubuntu
-* Lubuntu
+
+| Operating System   | Tested         |
+|---------------------|-------------------|
+| Linux(Kali,Ubuntu,Lubuntu)             | ✔️                |
+| macOS               | ❌               |
+| Windows               | ❌                |
 
 ##### Manual Installation
 
@@ -58,9 +60,9 @@ $ cp creds /usr/bin/ && chmod +x /usr/bin/creds
 $ creds search tomcat
 ```
 
-#### Creds script
+## Creds script
 
-* Usage Guide
+### Usage Guide
 ```bash
 # Search for product creds
 ➤ creds search tomcat                                                                                                      
@@ -90,6 +92,20 @@ New updates are available 🚧
 
 [+] Creds saved to /tmp/tomcat-usernames.txt , /tmp/tomcat-passwords.txt 📥
 ```
+
+**Run creds through proxy**
+```bash
+# Search for product creds
+➤ creds search tomcat --proxy=http://localhost:8080
+
+# update records
+➤ creds update --proxy=http://localhost:8080
+
+# Search for Tomcat creds and export results to /tmp/tomcat-usernames.txt , /tmp/tomcat-passwords.txt
+➤ creds search tomcat --proxy=http://localhost:8080 export
+```
+
+> **Proxy option** is only available from version 0.5.2
   
 [![asciicast](https://asciinema.org/a/526599.svg)](https://asciinema.org/a/526599)
   
