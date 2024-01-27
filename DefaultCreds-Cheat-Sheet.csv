@@ -3524,6 +3524,7 @@ zte (ssh),root,W!n0&oO7.
 zte (ssh),root,Zte521
 zte (ssh),user,user
 zte (ssh),ZXDSL,ZXDSL
+Zincsearch,admin,Complexpass#123
 ZyWALL Series,<blank>,admin
 Zyxel,1234,1234
 Zyxel,192.168.1.1 60020,@dsl_xilno
