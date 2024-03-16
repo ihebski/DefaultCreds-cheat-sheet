@@ -1573,6 +1573,7 @@ Kronos,SuperUser,kronites
 KTI,admin,123
 KTI,admin,123456
 KTI,superuser,123456
+Kuboard,admin,kuboard123
 Kylin (apache),ADMIN,KYLIN
 Kyocera,2800,2800
 Kyocera,admin,admin
@@ -1809,6 +1810,7 @@ MySQL,admin@example.com,admin
 MySQL,root,<blank>
 MySQL (ssh),root,root
 MySQL,superdba,admin
+Nacos,nacos,nacos
 NAI,admin,admin123
 NAI,GlobalAdmin,GlobalAdmin
 Nanoteq,admin,NetSeq
