@@ -711,11 +711,11 @@ Crossbeam,<blank>,x40rocks
 crt,egcr,ergc
 Crystalview,<blank>,Crystal
 CTX International,<blank>,CTX_123
-Cyberoam,cyberoam,cyber
 cuproplus,<blank>,<blank>
 cyberguard,cgadmin,cgadmin
 Cyberguard,cgadmin,cgadmin
 CyberMax,<blank>,Congress
+Cyberoam,cyberoam,cyber
 CyberPower,cyber,cyber
 CyberPower,device,cyber
 CyberSentry,Administrator,ChangeMe1#
@@ -1529,7 +1529,6 @@ Justin Hagstrom,admin,admin
 Justin Hagstrom,test,test
 JVC,jvc,skaarhoj
 JVC (web),admin,jvc
-keycloak,keycloak-admin,datical
 Kalatel,<blank>,3477
 Kalatel,<blank>,8111
 Kali linux (OS),kali,kali
@@ -1540,6 +1539,7 @@ kaptest,admin,<blank>
 KASDA,admin,adslroot
 Kentico Software,administrator,<blank>
 Kethinov,root,password
+keycloak,keycloak-admin,datical
 Keyscan,keyscan,KEYSCAN
 Kloxo,admin,password
 Kloxo (DB),<blank>,21232f297a
@@ -2049,7 +2049,6 @@ Omnitronix,<blank>,SMDR
 Omnitronix,<blank>,SUPER
 OMRON,<blank>,<blank>
 oodie.com,admin,admin
-OpenPLC,openplc,openplc
 OpenConnect,admin,OCS
 OpenConnect,adminstat,OCS
 OpenConnect,adminuser,OCS
@@ -2076,6 +2075,7 @@ OpenMarket,user_pricer,demo
 OpenMarket,user_publisher,demo
 OpenNetAdmin,admin,admin
 OPEN Networks,root,0P3N
+OpenPLC,openplc,openplc
 Openwave,cac_admin,cacadmin
 Openwave,sys,uplink
 Open-Xchange Inc.,mailadmin,secret
@@ -3016,9 +3016,9 @@ Tandberg,<blank>,TANDBERG
 Tandberg,root,TANDBERG
 Tandem,super.super,<blank>
 Tandem,super.super,master
-Tasman,Tasman,Tasmannet
-taranis3,taranis,taranis
 taranis3,admin,admin
+taranis3,taranis,taranis
+Tasman,Tasman,Tasmannet
 T-Com,<blank>,0
 T-Com,<blank>,123456
 T-Comfort,Administrator,<blank>
@@ -3176,8 +3176,8 @@ Ucopia (web),admin,ucopia
 Unex,<blank>,password
 UNEX,<blank>,password
 Unidesk,Administrator,Unidesk1
-Unify,<blank>,123456
 Unifi,ubnt,ubnt
+Unify,<blank>,123456
 Union,root,root
 Unisys,ADMINISTRATOR,ADMINISTRATOR
 Unisys,HTTP,HTTP
@@ -3522,6 +3522,7 @@ Zenith,<blank>,3098z
 Zenith,<blank>,Zenith
 ZEOS,<blank>,zeosx
 Zeus,admin,<blank>
+Zincsearch,admin,Complexpass#123
 zoom,admin,zoomadsl
 Zoom,admin,zoomadsl
 ZTE,ADSL,expert03
@@ -3531,7 +3532,6 @@ zte (ssh),root,W!n0&oO7.
 zte (ssh),root,Zte521
 zte (ssh),user,user
 zte (ssh),ZXDSL,ZXDSL
-Zincsearch,admin,Complexpass#123
 ZyWALL Series,<blank>,admin
 Zyxel,1234,1234
 Zyxel,192.168.1.1 60020,@dsl_xilno
