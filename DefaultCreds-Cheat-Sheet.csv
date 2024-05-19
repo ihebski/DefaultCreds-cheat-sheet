@@ -512,6 +512,7 @@ Bosch,live,live
 Bosch RPS (mssql),sa,RPSsql12345
 Bosch,service,service
 Bosch,user,user
+Bosch,<blank>,<blank>
 boson,<blank>,<blank>
 Breezecom,<blank>,<blank>
 Breezecom,<blank>,Helpdesk
@@ -1586,6 +1587,7 @@ Kyocera,admin,<blank>
 Kyocera,<blank>,admin00
 Kyocera,<blank>,PASSWORD
 Kyocera,root,root
+Kyocera,Admin,Admin
 LaCie,admin,admin
 LANCOM,<blank>,<blank>
 Lanier,admin,<blank>
@@ -2692,7 +2694,7 @@ Semaphore,PHANTOM,<blank>
 Sempre,admin,admin
 Senao,admin,<blank>
 seninleyimben,admin,admin
-sentry360 (web),admin,1234
+Sentry360 (mini) (web),admin,1234
 Sercom,admin,admin
 Server Technology,ADMN,admn
 Server Technology,GEN1,gen1
@@ -3157,6 +3159,7 @@ Toshiba,super,superpass
 TOTOLINK,onlime_r,12345
 TOTOLINK,root,12345
 TP Link,admin,admin
+TP-Link,admin,admin
 Trend Micro,admin,admin
 Trend Micro,admin,imsa7.0
 TrendMicro,admin,imss7.0
@@ -3554,3 +3557,52 @@ Zyxel NWA/NAP/WAC wireless access point series (ftp),devicehaecived,1234
 Zyxel,root,1234
 Zyxel (ssh),zyfwp,PrOw!aN_fXp
 Zyxel,webadmin,1234
+IP-cam NVR SunEyes (HD-Network Real-time) (telnet),root,antslq
+IP-cam Hi3518E (telnet),root,xmhdipc
+IP-cam Hi3515 (telnet),root,xc3511
+IP-cam HI3516 (telnet),root,xmhdipc
+IP-cam (Remote MGMT) (telnet),root,jvbzd
+IP-cam Hi3516 sensor imx122 (telnet),root,cat1029
+IP-cam 5 Mpix DA-IP8517TDV (analog DONGJIA DJ-IPC-HD8517TDV) (telnet),root,tl789
+IP-cam VC-A20IPBLF1 (HI3516C_IMX322) (telnet),adminlvjh,adminlvjh123
+IP-cam VC-A20IPBLF1 (HI3516C_IMX322) (telnet),root,HI1602014x
+IP-cam ПМ-005-IP-E-COS24-25 (telnet),adminlvjh,adminlvjh123
+IP-cam a5s66_imx322 (telnet),root,h2014071
+IP-cam SMTSEC IMX185+Hi3516A_2Mp_1080p_H.265 (telnet),root,fxjvt1805
+AvertX,admin,1234
+Dahua,admin,admin
+Digital Watchdog,admin,admin
+DRS,admin,1234
+DVTel,Admin,1234
+DynaColor,Admin,1234
+FLIR,admin,fliradmin
+FLIR (Dahua OEM),admin,admin
+FLIR (Quasar/Ariel),admin,admin
+Hanwha,admin,<create by default>
+IndigoVision (BX/GX),Admin,1234
+Intellio,admin,admin
+IPX-DDK,root,admin
+IPX-DDK,root,Admin
+Longse (IP-cam),admin,12345
+LTS (IP-cam),admin,12345
+March Networks (IP-cam),admin,<blank>
+Northern (IP-cam),admin,12345
+Oncam (IP-cam),admin,admin
+Pixord,admin,admin
+Q-See (IP-cam),admin,admin
+Q-See (IP-cam),admin,123456
+Reolink (IP-cam),admin,<blank>
+Samsung Electronics (IP-cam),root,root
+Samsung Electronics (IP-cam),admin,4321
+Samsung Techwin (IP-cam),admin,1111111
+Sanyo (IP-cam),admin,admin
+Scallop (IP-cam),admin,password
+Starvedia (IP-cam),admin,<blank>
+Sunell (IP-cam),admin,admin
+SV3C (IP-cam),admin,123456
+Swann (IP-cam),admin,12345
+Toshiba (IP-cam),root,ikwd
+Vivotek (IP-cam),root,<blank>
+W-Box (Hikvision OEM old) (IP-cam),admin,wbox123
+W-Box (Sunell OEM new) (IP-cam),admin,admin
+Wodsee,admin,<blank>
