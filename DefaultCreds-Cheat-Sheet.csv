@@ -1332,6 +1332,8 @@ IBM,IBMUSER,SYS1
 IBM,IDMS,<blank>
 IBM,IDMSSE,<blank>
 IBM,IIPS,<blank>
+IBM IMM (web),USERID,PASSW0RD
+IBM IMM (IPMI),USERID,PASSW0RD
 IBM,IPC,<blank>
 IBM,IPFSERV,<blank>
 IBM,ISPVM,<blank>
@@ -3605,4 +3607,63 @@ Zyxel,admin,1234
 Zyxel,admin,admin
 Zyxel,Admin,atc456
 Zyxel,root,1234
+Zyxel (ssh),zyfwp,PrOw!aN_fXp
+Zyxel,webadmin,1234
+IP camera NVR SunEyes (HD-Network Real-time) (telnet),root,antslq
+IP camera Hi3518E (telnet),root,xmhdipc
+IP camera Hi3515 (telnet),root,xc3511
+IP camera HI3516 (telnet),root,xmhdipc
+IP camera (Remote MGMT) (telnet),root,jvbzd
+IP camera Hi3516 sensor imx122 (telnet),root,cat1029
+IP camera 5 Mpix DA-IP8517TDV (analog DONGJIA DJ-IPC-HD8517TDV) (telnet),root,tl789
+IP camera VC-A20IPBLF1 (HI3516C_IMX322) (telnet),adminlvjh,adminlvjh123
+IP camera VC-A20IPBLF1 (HI3516C_IMX322) (telnet),root,HI1602014x
+IP camera ПМ-005-IP-E-COS24-25 (telnet),adminlvjh,adminlvjh123
+IP camera a5s66_imx322 (telnet),root,h2014071
+IP camera SMTSEC IMX185+Hi3516A_2Mp_1080p_H.265 (telnet),root,fxjvt1805
+AvertX,admin,1234
+Dahua,admin,admin
+Digital Watchdog,admin,admin
+DRS,admin,1234
+DVTel,Admin,1234
+DynaColor,Admin,1234
+FLIR,admin,fliradmin
+FLIR (Dahua OEM),admin,admin
+FLIR (Quasar/Ariel),admin,admin
+Hanwha,admin,<create by default>
+IndigoVision (BX/GX),Admin,1234
+Intellio,admin,admin
+IPX-DDK,root,admin
+IPX-DDK,root,Admin
+Longse (IP camera),admin,12345
+LTS (IP camera),admin,12345
+March Networks (IP camera),admin,<blank>
+Northern (IP camera),admin,12345
+Oncam (IP camera),admin,admin
+Pixord,admin,admin
+Q-See (IP camera),admin,admin
+Q-See (IPcamera),admin,123456
+Reolink (IP camera),admin,<blank>
+Samsung Electronics (IP camera),root,root
+Samsung Electronics (IP camera),admin,4321
+Samsung Techwin (IP camera),admin,1111111
+Sanyo (IP camera),admin,admin
+Scallop (IP camera),admin,password
+Starvedia (IP camera),admin,<blank>
+Sunell (IP camera),admin,admin
+SV3C (IP camera),admin,123456
+Swann (IP camera),admin,12345
+Toshiba (IP camera),root,ikwd
+Vivotek (IP camera),root,<blank>
+W-Box (Hikvision OEM old) (IP camera),admin,wbox123
+W-Box (Sunell OEM new) (IP camera),admin,admin
+Wodsee,admin,<blank>
+Cisco (IPMI),admin,password
+Dell iDRAC (IPMI),root,calvin
+HP iLO (IPMI),admin,admin
+HP iLO (IPMI),admin,<random string 8 symbol>
+Supermicro SIM (IPMI),ADMIN,ADMIN
+Fujitsu iRMC (IPMI),admin,admin
+Oracle ILOM/Sun ILOM (IPMI),root,changeme
+Asus iKVM BMC (IPMI),admin,admin
 Zyxel,webadmin,1234
