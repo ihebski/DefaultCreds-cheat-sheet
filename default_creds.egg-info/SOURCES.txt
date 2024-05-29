@@ -1,0 +1,9 @@
+LICENSE
+README.md
+creds
+setup.py
+default_creds.egg-info/PKG-INFO
+default_creds.egg-info/SOURCES.txt
+default_creds.egg-info/dependency_links.txt
+default_creds.egg-info/requires.txt
+default_creds.egg-info/top_level.txt
