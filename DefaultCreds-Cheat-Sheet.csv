@@ -1216,6 +1216,8 @@ HiSilicon,admin,<blank>
 Hitachi,<blank>,0000
 Hitachi,<blank>,0300
 Hitachi,<blank>,1900
+Hitachi CSNET Manager,User,User
+Hitachi CSNET Manager,Installer,Installer
 Honeynet Project,roo,honey
 Honeynet Project,root,honey
 Honeywell,LocalComServer,LCS pwd 03
