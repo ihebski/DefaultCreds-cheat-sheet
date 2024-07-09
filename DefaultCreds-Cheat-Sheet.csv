@@ -3278,8 +3278,11 @@ Ucopia (web),admin,ucopia
 Unex,<blank>,password
 UNEX,<blank>,password
 Unidesk,Administrator,Unidesk1
-Unifi,ubnt,ubnt
 Unify,<blank>,123456
+Unifi,root,ubnt
+Unifi,root,ui
+Unifi,ubnt,ubnt
+Unifi,ui,ui
 Union,root,root
 Unisys,ADMINISTRATOR,ADMINISTRATOR
 Unisys,HTTP,HTTP
