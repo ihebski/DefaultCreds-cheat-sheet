@@ -1,1 +1,3 @@
 DefaultCreds_db.json
+venv
+default_creds.egg-info/*

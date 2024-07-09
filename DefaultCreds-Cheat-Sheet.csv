@@ -293,6 +293,7 @@ Asterisk,Admin,admin
 Asus,admin,admin
 Asus,adsl,adsl1234
 Asus,<blank>,admin
+Asus iKVM BMC (IPMI),admin,admin
 asus (ssh),admin,admin
 asus (ssh),Admin,Admin
 asus (ssh),admin,password
@@ -337,6 +338,7 @@ Avaya,root,ggdaseuaimhrke
 Avaya,root,root
 Avaya,root,ROOT500
 Avenger News System (ANS),<blank>,Administrative
+AvertX,admin,1234
 avigilon (web),admin,admin
 avigilon (web),Administrator,<blank>
 AVM,<blank>,0
@@ -504,8 +506,11 @@ BMC Software,Administrator,the same all over
 BMC Software,Best1_User,BackupU$r
 BNI,USER,USER
 Bomgar,admin,password
+Bonita,install,install
+Bonitasoft,install,install
 Borland,<blank>,<blank>
 Borland,politically,correct
+Bosch,<blank>,<blank>
 Bosch,live,live
 Bosch RPS (mssql),sa,RPSsql12345
 Bosch,service,service
@@ -538,6 +543,7 @@ Buffalo/MELCO,root,<blank>
 Buffalo,root,<blank>
 Buffalo Technology,admin,password
 Busybox,admin,admin
+Cumulus,cumulus,cumulus
 CA APM Team Center (web),Admin,<blank>
 CA APM Team Center (web),Guest,Guest
 Cable And Wireless,admin,1234
@@ -625,6 +631,7 @@ Cisco,ESubscriber,<blank>
 Cisco Guard (snmp),<blank>,riverhead
 Cisco,guest,<blank>
 Cisco,hsa,hsadb
+Cisco (IPMI),admin,password
 Cisco,netrangr,attack
 Cisco,pnadmin,pnadmin
 Cisco,praisenetwork,perfectpraise
@@ -711,11 +718,11 @@ Crossbeam,<blank>,x40rocks
 crt,egcr,ergc
 Crystalview,<blank>,Crystal
 CTX International,<blank>,CTX_123
-Cyberoam,cyberoam,cyber
 cuproplus,<blank>,<blank>
 cyberguard,cgadmin,cgadmin
 Cyberguard,cgadmin,cgadmin
 CyberMax,<blank>,Congress
+Cyberoam,cyberoam,cyber
 CyberPower,cyber,cyber
 CyberPower,device,cyber
 CyberSentry,Administrator,ChangeMe1#
@@ -766,6 +773,7 @@ Dell,<blank>,Dell
 Dell,<blank>,Fireport
 Dell,<blank>,nz0u4bbe
 DELL IDARC (web),root,calvin
+Dell iDRAC (IPMI),root,calvin
 Dell iDRAC (web),root,calvin
 Dell,rapport,r@p8p0r+
 Dell,root,calvin
@@ -869,6 +877,7 @@ Digital Equipment,USERP,USERP
 Digital Equipment,USER,USER
 Digital Equipment,VAX,VAX
 Digital Equipment,VMS,VMS
+Digital Watchdog,admin,admin
 Digitus,admin,1234
 Digium Inc,admin,password
 Ditto Forensic FieldStation,ditto,ditto
@@ -906,6 +915,8 @@ DMP V-5012B,scwuser,scw12345user
 DMP V-5014B,scwuser,scw12345user
 DMP V-5052D,scwuser,scw12345user
 DMP V-5054D,scwuser,scw12345user
+Dolibarr,admin,admin
+Dolibarr,admin,changeme
 DotNetNuke Corporation,admin,dnnadmin
 DotNetNuke Corporation,host,dnnhost
 Draytek,admin,admin
@@ -913,6 +924,7 @@ Draytek,admin,<blank>
 Draytek Corp,admin,<blank>
 Draytek,draytek,1234
 Draytek,Draytek,1234
+DRS,admin,1234
 drupal.org,admin,admin
 Ducati Motor Holding,<blank>,Last 4 digits of VIN
 Duhua (telnet),admin,7ujMko0admin
@@ -921,6 +933,8 @@ Duhua (telnet),root,vizxv
 DuPont,root,par0t
 DVB,dvstation,dvst10n
 DVB,root,pixmet2003
+DVTel,Admin,1234
+DynaColor,Admin,1234
 Dynalink,admin,admin
 Dynalink,admin,private
 Dynalink,userNotUsed,userNotU
@@ -1034,6 +1048,9 @@ FatWire,fwadmin,xceladmin
 Fibaro,admin,admin
 Firebird Project,SYSDBA,masterkey
 Firebird,SYSDBA,masterkey
+FLIR,admin,fliradmin
+FLIR (Dahua OEM),admin,admin
+FLIR (Quasar/Ariel),admin,admin
 Flowpoint,admin,admin
 Flowpoint,<blank>,<blank>
 Flowpoint,<blank>,password
@@ -1057,6 +1074,7 @@ FS Switch(Web),admin,admin123
 ftp (ftp),anonymous,<blank>
 ftp (ftp),ftp,ftp
 ftp (ftp),guest,guest
+Fujitsu iRMC (IPMI),admin,admin
 Fujitsu Siemens,<blank>,connect
 Fujitsu Siemens,<blank>,fi-scanner
 Fujitsu Siemens,manage,!manage
@@ -1113,6 +1131,7 @@ GVC,Administrator,admin
 H2O Project,admin,admin
 haier,ucenik23,ucenik
 Haivision Makito X Decoder (web),admin,manager
+Hanwha,admin,<create by default>
 Hayes,system,isp
 Heatmiser Wifi Thermostat (iot),admin,admin
 Hemoco Software,lansweeperuser,mysecretpassword0*
@@ -1197,6 +1216,8 @@ HiSilicon,admin,<blank>
 Hitachi,<blank>,0000
 Hitachi,<blank>,0300
 Hitachi,<blank>,1900
+Hitachi CSNET Manager,User,User
+Hitachi CSNET Manager,Installer,Installer
 Honeynet Project,roo,honey
 Honeynet Project,root,honey
 Honeywell,LocalComServer,LCS pwd 03
@@ -1213,6 +1234,8 @@ HP,Administrator,admin
 HP,<blank>,AUTORAID
 HP,<blank>,<blank>
 HP,Factory,56789
+HP iLO (IPMI),admin,admin
+HP iLO (IPMI),admin,<random string 8 symbol>
 HP LaserJet 600 (printer),<blank>,<blank>
 HP LaserJet No Password Legacy (printer),<blank>,<blank>
 HP LaserJet No Password (printer),<blank>,<blank>
@@ -1307,6 +1330,7 @@ IBM,IBMUSER,SYS1
 IBM,IDMS,<blank>
 IBM,IDMSSE,<blank>
 IBM,IIPS,<blank>
+IBM IMM (IPMI),USERID,PASSW0RD
 IBM IMM (web),USERID,PASSW0RD
 IBM,IPC,<blank>
 IBM,IPFSERV,<blank>
@@ -1414,12 +1438,14 @@ IBM,wpsadmin,wpsadmin
 icatch (camera),admin,123456
 icatch (camera),root,icatch99
 Ichano,<blank>,123
+ICP DAS,<blank>,admin
 iDirect,admin,P@55w0rd!
 iDirect,root,iDirect
 iGuard,admin,123
 IHS Kingdom (mssql),sa,$ei$micMicro
 IMC Networks,admin,admin
 inchon,admin,admin
+IndigoVision (BX/GX),Admin,1234
 Inedo,Admin,Admin
 infacta,Administrator,<blank>
 Infoblox,admin,<blank>
@@ -1445,6 +1471,7 @@ Intel,<blank>,shiva
 Intel,Guest,<blank>
 Intel,intel,intel
 intel,khan,kahn
+Intellio,admin,admin
 IntelliTouch,administrator,1234
 Intel,NICONEX,NICONEX
 intel,root,admin
@@ -1464,6 +1491,30 @@ Inventel,admin,admin
 Inventel Wanadoo,Admin,Admin
 ion,Administrator,admin
 ion,<blank>,admin
+IP-cam 5 Mpix DA-IP8517TDV (analog DONGJIA DJ-IPC-HD8517TDV) (telnet),root,tl789
+IP-cam a5s66_imx322 (telnet),root,h2014071
+IP camera 5 Mpix DA-IP8517TDV (analog DONGJIA DJ-IPC-HD8517TDV) (telnet),root,tl789
+IP camera a5s66_imx322 (telnet),root,h2014071
+IP camera Hi3515 (telnet),root,xc3511
+IP camera Hi3516 sensor imx122 (telnet),root,cat1029
+IP camera HI3516 (telnet),root,xmhdipc
+IP camera Hi3518E (telnet),root,xmhdipc
+IP camera NVR SunEyes (HD-Network Real-time) (telnet),root,antslq
+IP camera (Remote MGMT) (telnet),root,jvbzd
+IP camera SMTSEC IMX185+Hi3516A_2Mp_1080p_H.265 (telnet),root,fxjvt1805
+IP camera VC-A20IPBLF1 (HI3516C_IMX322) (telnet),adminlvjh,adminlvjh123
+IP camera VC-A20IPBLF1 (HI3516C_IMX322) (telnet),root,HI1602014x
+IP camera ПМ-005-IP-E-COS24-25 (telnet),adminlvjh,adminlvjh123
+IP-cam Hi3515 (telnet),root,xc3511
+IP-cam Hi3516 sensor imx122 (telnet),root,cat1029
+IP-cam HI3516 (telnet),root,xmhdipc
+IP-cam Hi3518E (telnet),root,xmhdipc
+IP-cam NVR SunEyes (HD-Network Real-time) (telnet),root,antslq
+IP-cam (Remote MGMT) (telnet),root,jvbzd
+IP-cam SMTSEC IMX185+Hi3516A_2Mp_1080p_H.265 (telnet),root,fxjvt1805
+IP-cam VC-A20IPBLF1 (HI3516C_IMX322) (telnet),adminlvjh,adminlvjh123
+IP-cam VC-A20IPBLF1 (HI3516C_IMX322) (telnet),root,HI1602014x
+IP-cam ПМ-005-IP-E-COS24-25 (telnet),adminlvjh,adminlvjh123
 ipfire (ssh),admin,admin
 ipfire (ssh),admin,<blank>
 ipfire (ssh),root,admin
@@ -1471,11 +1522,14 @@ iPSTAR,admin,operator
 Ipswitch,admin,admin
 Ipswitch,guest,<blank>
 Ipswitch,XXSESS_MGRYY,X#1833
+IPX-DDK,root,admin
+IPX-DDK,root,Admin
 IQinVision,root,system
 iqinvision (web),root,system
 IRC,<blank>,FOOBAR
 Irongate,admin,NetSurvibox
 IronPort,admin,ironport
+iRZ Mobile Router (Web),root,root
 iso sistemi,<blank>,<blank>
 ispconfig,admin,admin
 Iwill,<blank>,iwill
@@ -1532,7 +1586,6 @@ Justin Hagstrom,admin,admin
 Justin Hagstrom,test,test
 JVC,jvc,skaarhoj
 JVC (web),admin,jvc
-keycloak,keycloak-admin,datical
 Kalatel,<blank>,3477
 Kalatel,<blank>,8111
 Kali linux (OS),kali,kali
@@ -1543,6 +1596,7 @@ kaptest,admin,<blank>
 KASDA,admin,adslroot
 Kentico Software,administrator,<blank>
 Kethinov,root,password
+keycloak,keycloak-admin,datical
 Keyscan,keyscan,KEYSCAN
 Kloxo,admin,password
 Kloxo (DB),<blank>,21232f297a
@@ -1581,6 +1635,7 @@ Kuboard,admin,kuboard123
 Kylin (apache),ADMIN,KYLIN
 Kyocera,2800,2800
 Kyocera,admin,admin
+Kyocera,Admin,Admin
 Kyocera,admin,<blank>
 Kyocera,<blank>,admin00
 Kyocera,<blank>,PASSWORD
@@ -1648,9 +1703,13 @@ LogiLink,admin,1234
 Logitech,<blank>,0
 Loglogic,root,logapp
 Loglogic,toor,logapp
+Longse (IP-cam),admin,12345
+Longse (IP camera),admin,12345
 longshine,admin,0
 Longshine,admin,0
 Lorex,admin,admin
+LTS (IP-cam),admin,12345
+LTS (IP camera),admin,12345
 Lucent,admin,AitbISP4eCiG
 Lucent,admin,Ascend
 Lucent,Administrator,<blank>
@@ -1698,6 +1757,7 @@ Macromedia,<blank>,admin
 Macsense,admin,admin
 Magento,admin,123123
 Magic-Pro,<blank>,prost
+mailcow,admin,moohoo
 Main Street Softworks,MCVEADMIN,password
 Makito Decoder (web),admin,%89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
 Mambo,admin,admin
@@ -1705,6 +1765,8 @@ ManageEngine,admin,admin
 Mandarin Library Automation,admin,boca raton
 Mantis,administrator,root
 Marantz,<blank>,000000
+March Networks (IP-cam),admin,<blank>
+March Networks (IP camera),admin,<blank>
 Marconi,ami,<blank>
 Marshall Electronics,admin,1234
 maxdata,<blank>,<blank>
@@ -1814,6 +1876,7 @@ MySQL,admin@example.com,admin
 MySQL,root,<blank>
 MySQL (ssh),root,root
 MySQL,superdba,admin
+N-Able N-Central,productadmin@n-able.com,ManageAllTheThings0!
 Nacos,nacos,nacos
 NAI,admin,admin123
 NAI,GlobalAdmin,GlobalAdmin
@@ -1967,6 +2030,8 @@ Nortel,trmcnfg,trmcnfg
 Nortel,user,<blank>
 Nortel,user,user
 Nortel,user,user0000
+Northern (IP-cam),admin,12345
+Northern (IP camera),admin,12345
 Novell,admin,admin
 Novell,ADMIN,admin
 Novell,ADMIN,ADMIN
@@ -2051,8 +2116,9 @@ olitec (Trendchip),admin,admin
 Omnitronix,<blank>,SMDR
 Omnitronix,<blank>,SUPER
 OMRON,<blank>,<blank>
+Oncam (IP-cam),admin,admin
+Oncam (IP camera),admin,admin
 oodie.com,admin,admin
-OpenPLC,openplc,openplc
 OpenConnect,admin,OCS
 OpenConnect,adminstat,OCS
 OpenConnect,adminuser,OCS
@@ -2079,6 +2145,7 @@ OpenMarket,user_pricer,demo
 OpenMarket,user_publisher,demo
 OpenNetAdmin,admin,admin
 OPEN Networks,root,0P3N
+OpenPLC,openplc,openplc
 Openwave,cac_admin,cacadmin
 Openwave,sys,uplink
 Open-Xchange Inc.,mailadmin,secret
@@ -2163,6 +2230,7 @@ Oracle,HLW,HLW
 Oracle,HR,HR
 Oracle,ilom-admin,ilom-admin
 Oracle,ilom-operator,ilom-operator
+Oracle ILOM/Sun ILOM (IPMI),root,changeme
 Oracle,IMAGEUSER,IMAGEUSER
 Oracle,IMEDIA,IMEDIA
 Oracle,internal,oracle
@@ -2354,6 +2422,7 @@ Panasonic,admin,12345
 Panasonic,<blank>,1234
 Panasonic,<blank>,<blank>
 Pandatel,admin,admin
+Paradox IP150,<blank>,paradox
 Parallels,admin,setup
 Parrot,<blank>,0000
 patrowl,admin,Bonjour1!
@@ -2418,6 +2487,7 @@ Pirelli,admin,mu
 Pirelli,admin,smallbusiness
 Pirelli,user,password
 Pivotal Software,guest,guest
+Pixord,admin,admin
 PlainTree,<blank>,default.password
 Planet,admin,1234
 planet,admin,admin
@@ -2505,6 +2575,10 @@ QDI,<blank>,password
 QDI,<blank>,QDI
 QLogic,admin,password
 QLogic,images,images
+Q-See (IP-cam),admin,123456
+Q-See (IP-cam),admin,admin
+Q-See (IPcamera),admin,123456
+Q-See (IP camera),admin,admin
 Q-Tec,Admin,<blank>
 Quadient,supervisor,09430
 QualiTeam,master,master
@@ -2551,6 +2625,8 @@ reg.pnu.ac.ir,880175445,11223344
 Remedy,ARAdmin,AR#Admin#
 Remedy,Demo,<blank>
 remote-exploit,root,toor
+Reolink (IP-cam),admin,<blank>
+Reolink (IP camera),admin,<blank>
 Research,<blank>,Col2ogro2
 Research Machines,manager,changeme
 Resumix,root,resumix
@@ -2619,11 +2695,19 @@ Sambar Technologies,guest,guest
 Samsung,admin,password
 Samsung,<blank>,<blank>
 Samsung,<blank>,s!a@m#n$p%c
+Samsung Electronics (IP-cam),admin,4321
+Samsung Electronics (IP camera),admin,4321
+Samsung Electronics (IP camera),root,root
+Samsung Electronics (IP-cam),root,root
 Samsung,public,public
+Samsung Techwin (IP-cam),admin,1111111
+Samsung Techwin (IP camera),admin,1111111
 samsung (web),admin,1111111
 samsung (web),admin,4321
 samsung (web),root,admin
 Samuel Abels,user,password
+Sanyo (IP-cam),admin,admin
+Sanyo (IP camera),admin,admin
 SAP,admin,axis2
 SAP,Administrator,manage
 SAP client EARLYWATCH,admin,Support
@@ -2660,6 +2744,8 @@ SAP (web),xmi_demo,sap123
 SAP,xmi_demo,sap123
 Sato,ADMIN,96726
 Sato,MANAGER,6677
+Scallop (IP-cam),admin,password
+Scallop (IP camera),admin,password
 Schlage SMS (mssql),sa,SECAdmin1
 Schlage SMS (mssql),SMSAdmin,SECAdmin1
 Schneider Electric,Administrator,admin
@@ -2689,7 +2775,7 @@ Semaphore,PHANTOM,<blank>
 Sempre,admin,admin
 Senao,admin,<blank>
 seninleyimben,admin,admin
-sentry360 (web),admin,1234
+Sentry360 (mini) (web),admin,1234
 Sercom,admin,admin
 Server Technology,ADMN,admn
 Server Technology,GEN1,gen1
@@ -2961,10 +3047,14 @@ ssh (ssh),root,7ujMko0admin
 ssh (ssh),root,ascend
 Stan Ozier,admin,<blank>
 stardot (web),admin,admin
+Starvedia (IP-cam),admin,<blank>
+Starvedia (IP camera),admin,<blank>
 stratacom,stratacom,stratauser
 Stratitec,root,ahetzip8
 stuccoboy,stuccoboy,100198
 Sun,admin,admin
+Sunell (IP-cam),admin,admin
+Sunell (IP camera),admin,admin
 Sun Microsystems,root,changeme
 Sun,root,changeme
 SUN,root,sun123
@@ -2975,10 +3065,15 @@ Supercook,super,super
 Supermicro,ADMIN,admin
 SuperMicro,<blank>,ksdjfg934t
 Super Micro Computer,ADMIN,ADMIN
+Supermicro SIM (IPMI),ADMIN,ADMIN
 Supermicro (web),ADMIN,ADMIN
 Surecom,admin,admin
 Surecom,admin,surecom
 SuSE GmbH,root,root
+SV3C (IP-cam),admin,123456
+SV3C (IP camera),admin,123456
+Swann (IP-cam),admin,12345
+Swann (IP camera),admin,12345
 Sweex,admin,1234
 Sweex,admin,epicrouter
 Sweex,<blank>,admin
@@ -3020,9 +3115,9 @@ Tandberg,<blank>,TANDBERG
 Tandberg,root,TANDBERG
 Tandem,super.super,<blank>
 Tandem,super.super,master
-Tasman,Tasman,Tasmannet
-taranis3,taranis,taranis
 taranis3,admin,admin
+taranis3,taranis,taranis
+Tasman,Tasman,Tasmannet
 T-Com,<blank>,0
 T-Com,<blank>,123456
 T-Comfort,Administrator,<blank>
@@ -3150,10 +3245,13 @@ Toshiba,<blank>,24Banc81
 Toshiba,<blank>,<blank>
 Toshiba,<blank>,Toshiba
 Toshiba,<blank>,toshy99
+Toshiba (IP camera),root,ikwd
+Toshiba (IP-cam),root,ikwd
 Toshiba,super,superpass
 TOTOLINK,onlime_r,12345
 TOTOLINK,root,12345
 TP Link,admin,admin
+TP-Link,admin,admin
 Trend Micro,admin,admin
 Trend Micro,admin,imsa7.0
 TrendMicro,admin,imss7.0
@@ -3335,6 +3433,8 @@ Virtual Programming,admin,admin
 Virtual Programming,vpasp,vpasp
 Visa VAP,root,QNX
 Visual Networks,admin,visual
+Vivotek (IP camera),root,<blank>
+Vivotek (IP-cam),root,<blank>
 vnc (vnc),<blank>,1234
 vnc (vnc),<blank>,123456
 vnc (vnc),<blank>,1988
@@ -3400,6 +3500,10 @@ Watchguard,<blank>,wg
 WatchGuard,<blank>,wg
 WatchGuard,status,readonly
 Watchguard,user,pass
+W-Box (Hikvision OEM old) (IP-cam),admin,wbox123
+W-Box (Hikvision OEM old) (IP camera),admin,wbox123
+W-Box (Sunell OEM new) (IP-cam),admin,admin
+W-Box (Sunell OEM new) (IP camera),admin,admin
 weblogic,system,weblogic
 Weblogic (web),EXAMPLES,EXAMPLES
 Weblogic (web),monitor,password
@@ -3459,6 +3563,7 @@ winwork,operator,<blank>
 Wireless,root,rootpass
 WLAN_3D,Administrator,admin
 wline,admin,1234
+Wodsee,admin,<blank>
 Wonderware Historian (mssql),aaAdmin,pwAdmin
 Wonderware Historian (mssql),aadbo,pwddbo
 Wonderware Historian (mssql),aaPower,pwPower
@@ -3529,6 +3634,7 @@ Zenith,<blank>,3098z
 Zenith,<blank>,Zenith
 ZEOS,<blank>,zeosx
 Zeus,admin,<blank>
+Zincsearch,admin,Complexpass#123
 zoom,admin,zoomadsl
 Zoom,admin,zoomadsl
 ZTE,ADSL,expert03
@@ -3538,7 +3644,6 @@ zte (ssh),root,W!n0&oO7.
 zte (ssh),root,Zte521
 zte (ssh),user,user
 zte (ssh),ZXDSL,ZXDSL
-Zincsearch,admin,Complexpass#123
 ZyWALL Series,<blank>,admin
 Zyxel,1234,1234
 Zyxel,192.168.1.1 60020,@dsl_xilno
