@@ -1908,6 +1908,7 @@ Netcomm,user,password
 Netcordia,admin,admin
 netcore (ssh),admin,admin
 netcore (ssh),guest,guest
+NetFlow Analyzer,admin,admin
 Netgear,admin,1234
 Netgear,admin,admin
 Netgear,admin,<blank>
