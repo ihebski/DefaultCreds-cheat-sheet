@@ -58,7 +58,6 @@ acti (web),Admin,12345
 acti (web),admin,123456
 acti (web),Admin,123456
 Adaptec,Administrator,adaptec
-AdAudit,admin,admin
 ADC Kentrox,<blank>,secret
 AdComplete.com,Admin1,Admin1
 Addon,admin,admin
@@ -1764,6 +1763,8 @@ Main Street Softworks,MCVEADMIN,password
 Makito Decoder (web),admin,%89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
 Mambo,admin,admin
 ManageEngine,admin,admin
+ManageEngine AdAudit,admin,admin
+ManageEngine Service Desk,administrator,administrator
 Mandarin Library Automation,admin,boca raton
 Mantis,administrator,root
 Marantz,<blank>,000000
