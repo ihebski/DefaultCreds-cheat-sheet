@@ -2675,6 +2675,7 @@ rPath,admin,password
 RSA,admin,admin1234
 RSA,administrator,RSAAppliance
 RSA,master,themaster01
+RSSBus,admin,admin
 RuggedCom,Admin,admin
 Ruijie,admin,admin
 Saba,admin,admin
