@@ -543,7 +543,6 @@ Buffalo/MELCO,root,<blank>
 Buffalo,root,<blank>
 Buffalo Technology,admin,password
 Busybox,admin,admin
-Cumulus,cumulus,cumulus
 CA APM Team Center (web),Admin,<blank>
 CA APM Team Center (web),Guest,Guest
 Cable And Wireless,admin,1234
@@ -718,6 +717,7 @@ Crossbeam,<blank>,x40rocks
 crt,egcr,ergc
 Crystalview,<blank>,Crystal
 CTX International,<blank>,CTX_123
+Cumulus,cumulus,cumulus
 cuproplus,<blank>,<blank>
 cyberguard,cgadmin,cgadmin
 Cyberguard,cgadmin,cgadmin
@@ -1217,8 +1217,8 @@ HiSilicon,admin,<blank>
 Hitachi,<blank>,0000
 Hitachi,<blank>,0300
 Hitachi,<blank>,1900
-Hitachi CSNET Manager,User,User
 Hitachi CSNET Manager,Installer,Installer
+Hitachi CSNET Manager,User,User
 Honeynet Project,roo,honey
 Honeynet Project,root,honey
 Honeywell,LocalComServer,LCS pwd 03
@@ -1246,6 +1246,8 @@ HP Server Automation (web),admin,opsware_admin
 HP StoreAll (GUI),ibrix,ibrix
 HP StoreAll (Root),root,hpinvent
 Huawei,admin,admin
+Huawei EG8245H,Epuser,userEp
+Huawei HG8245,telecomadmin,admintelecom
 Huawei S2700,admin,admin@huawei.com
 Huawei S3700,admin,admin@huawei.com
 Huawei S5700,admin,admin@huawei.com
@@ -1763,8 +1765,8 @@ mailcow,admin,moohoo
 Main Street Softworks,MCVEADMIN,password
 Makito Decoder (web),admin,%89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
 Mambo,admin,admin
-ManageEngine,admin,admin
 ManageEngine AdAudit,admin,admin
+ManageEngine,admin,admin
 ManageEngine Service Desk,administrator,administrator
 Mandarin Library Automation,admin,boca raton
 Mantis,administrator,root
@@ -1973,6 +1975,7 @@ Nokia,<blank>,nokai
 Nokia,<blank>,nokia
 Nokia,<blank>,Telecom
 Nokia,client,client
+Nokia G-140W-C,AdminGPON,ALC@#FGU
 Nokia,m1122,m1122
 Nokia,nop,12345
 Nokia,nop,123454
@@ -3285,11 +3288,11 @@ Ucopia (web),admin,ucopia
 Unex,<blank>,password
 UNEX,<blank>,password
 Unidesk,Administrator,Unidesk1
-Unify,<blank>,123456
 Unifi,root,ubnt
 Unifi,root,ui
 Unifi,ubnt,ubnt
 Unifi,ui,ui
+Unify,<blank>,123456
 Union,root,root
 Unisys,ADMINISTRATOR,ADMINISTRATOR
 Unisys,HTTP,HTTP
