@@ -51,6 +51,8 @@ $ creds search tomcat
 | Windows(10,11)               | ✔️                |
 | macOS               | ❌               |
 
+>pipes has been removed from fire package, it will break on Python13
+>As a workaround solution, after installing defaultcreds via pypi , uninstall fire `pip3 uninstall fire`, install it again `pip3 install fire==0.7.0 ` 
 
 ##### Manual Installation
 
