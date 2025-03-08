@@ -5,7 +5,7 @@
   <img src="https://media.moddb.com/cache/images/games/1/65/64034/thumb_620x2000/Lockpicking.jpg"/>
 </p>
 
-**One place for all the default credentials to assist pentesters during an engagement, this document has several products default login/password gathered from multiple sources.**
+**One place for all the default credentials to assist pentesters/blue Teamers during engagements, featuring default login/password details for various products sourced from multiple references.**
 
 > P.S : Most of the credentials were extracted from changeme,routersploit and Seclists projects, you can use these tools to automate the process https://github.com/ztgrace/changeme , https://github.com/threat9/routersploit (kudos for the awesome work)
 
@@ -22,10 +22,10 @@
 
 |       | Product/Vendor |	Username | Password |
 | --- | --- | --- | --- |
-| **count**	| 3668	| 3668	| 3668 |
-| **unique** |	1347	| 1110 |	1658 |
+| **count**	| 3681	| 3681	| 3681 |
+| **unique** |	1362	| 1117 |	1670 |
 | **top** |	Oracle| <blank> | <blank> |
-| **freq** |	235 |	790 |	474 |
+| **freq** |	235 |	794 |	473 |
 
 #### Sources
 
@@ -49,10 +49,7 @@ $ creds search tomcat
 |---------------------|-------------------|
 | Linux(Kali,Ubuntu,Lubuntu)             | ✔️                |
 | Windows(10,11)               | ✔️                |
-| macOS               | ❌               |
-
->pipes has been removed from fire package, it will break on Python13
->As a workaround solution, after installing defaultcreds via pypi , uninstall fire `pip3 uninstall fire`, install it again `pip3 install fire==0.7.0 ` 
+| macOS               | ✔️               |
 
 ##### Manual Installation
 
