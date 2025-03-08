@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 '''
-Search for a default credentials using the DefaultCreds-cheat-sheet dataset.
-inspired by @ncrocfer whatportis project.
+Search for default credentials using the DefaultCreds-cheat-sheet database.
+code structure inspired by @ncrocfer whatportis project.
 '''
 __author__ = "ihebski"
-__version__ = "0.5.2"
+__version__ = "0.5.3"
 __codename__ = 'creds'
 __source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
 
@@ -103,7 +103,7 @@ def search(keyword,export=False,proxy=None):
     :param keyword
     :return table
     """
-    if len(db.all()) == 0:
+    if not db.all() :
         get_db(proxy=proxy)
         print_table(db.search(where("product").search(str(keyword).lower())),keyword,export)
     else:
@@ -134,5 +134,8 @@ def update(proxy=None):
 def version():
     print(f"[INF] DefaultCreds-cheat-sheet Version: v{__version__}")
 
-if __name__ == "__main__":
+def run():
     fire.Fire()
+
+if __name__ == "__main__":
+    run()
