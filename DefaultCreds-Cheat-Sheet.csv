@@ -688,6 +688,7 @@ Cyclades,root,<blank>
 Cyclades,root,tslinux
 Cyclades,super,surt
 D-Link DIR845L,Alphanetworks,wrgnd21_dlob.hans_dir845
+D-Link DIR300 (CVE-2024-41616),Alphanetworks,wrgg19_c_dlwbr_dir300
 D-Link,<blank>,<blank>
 D-Link,<blank>,admin
 D-Link,<blank>,private
@@ -1731,6 +1732,8 @@ Motorola,service,smile
 Motorola,setup,<blank>
 Motorola,technician,yZgO8Bvj
 Moxa,admin,moxa
+Moxa,<blank>,moxa
+Moxa (telnet) (CVE-2016-8717),94jo3dkru4,moxaiwroot
 Mutare,<blank>,admin
 Muze,admin,muze
 MySQL (ssh),root,root
