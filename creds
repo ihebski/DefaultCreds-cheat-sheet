@@ -129,7 +129,7 @@ def update(proxy=None):
         get_db(tmpdir,"Check for new updates...🔍",proxy)
         print('[+] No action needed, We are fine 🤘') if sha256sum(f'{tmpdir}/DefaultCreds_db.json') == sha256sum(f"{path}/DefaultCreds_db.json") else get_db(path,"New updates are available 🚧\n[+] Download database...",proxy)
     except Exception as e:
-        print("⚠️ Operation failed, An error occurred while updating records !! 🦄 {e}")
+        print(f"⚠️ Operation failed, An error occurred while updating records !! 🦄 {e}")
 
 def version():
     print(f"[INF] DefaultCreds-cheat-sheet Version: v{__version__}")
