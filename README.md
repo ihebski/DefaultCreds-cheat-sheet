@@ -65,7 +65,7 @@ $ creds search tomcat
 ### Usage Guide
 ```bash
 # Search for product creds
-➤ creds search tomcat                                                                                                      
+➤ creds search tomcat
 +----------------------------------+------------+------------+
 | Product                          |  username  |  password  |
 +----------------------------------+------------+------------+
