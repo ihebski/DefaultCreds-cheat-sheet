@@ -1,4 +1,3 @@
-import os
 from setuptools import setup
 
 with open('requirements.txt') as f:
