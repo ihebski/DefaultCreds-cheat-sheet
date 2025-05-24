@@ -109,7 +109,7 @@ def search(keyword,export=False,proxy=None):
     else:
         print_table(db.search(where("product").search(str(keyword).lower())),keyword,export)
 
-def sha256sum(filename):    
+def sha256sum(filename):
     """
     This function is used to compare two file hashes
     :param filename path
