@@ -10,7 +10,7 @@ __version__ = "0.5.3"
 __codename__ = 'creds'
 __source__ ="https://github.com/ihebski/DefaultCreds-cheat-sheet"
 
-from tinydb import TinyDB,Query,where
+from tinydb import TinyDB,where
 from tinydb.storages import JSONStorage
 from tinydb.middlewares import CachingMiddleware
 from prettytable import PrettyTable
