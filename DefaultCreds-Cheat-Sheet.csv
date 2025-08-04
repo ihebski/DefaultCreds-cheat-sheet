@@ -1902,6 +1902,8 @@ NEC,admin,password
 NEC,<blank>,<blank>
 NEC,<blank>,iPbSmNt
 Neo4j,neo4j,neo4j
+NEO Series (SnapHQ),guest,std001
+NEO Series (SnapHQ),admin,adm001
 Nessus,admin,admin123
 NetApp,admin,admin123
 NetApp,admin,NetCache
