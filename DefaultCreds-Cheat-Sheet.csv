@@ -2139,6 +2139,7 @@ OpenConnect,adminstat,OCS
 OpenConnect,adminuser,OCS
 OpenConnect,adminview,OCS
 OpenConnect,helpdesk,OCS
+OpenEdge Explorer Tool,admin,admin
 Opengear,root,default
 OpenGTS (mssql),gts,opengts
 Openlink,admin,admin
