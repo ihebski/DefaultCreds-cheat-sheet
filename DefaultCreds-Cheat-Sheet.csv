@@ -1216,6 +1216,10 @@ Hewlett-Packard,PCUSER,SYS
 Hewlett-Packard,RSBCMON,SYS
 Hewlett-Packard,SPOOLMAN,HPOFFICE
 Hewlett-Packard,WP,HPOFFICE
+Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (WEB: View and change),manage,!manage
+Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (WEB: View only),monitor,!monitor
+Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (FTP),ftp,!ftp
+Hewlett Packard - Storage Management Utility (SMU) [>VE270P003/VL270P003] (WEB ),setup,<blank>
 HighPOint,RAID,hpt
 hikvision (ssh),admin,12345
 HipChat Server (ssh),admin,hipchat
