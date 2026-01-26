@@ -2604,6 +2604,9 @@ Q-See (IP-cam),admin,admin
 Q-See (IPcamera),admin,123456
 Q-See (IP camera),admin,admin
 Q-Tec,Admin,<blank>
+QNAP (QTS/QuTS hero 4.4.1 - 4.3.6 or earlier),admin,admin
+QNAP (QTS/QuTS hero 4.4.2 - 5.1.x),admin,1st MAC address of NAS (uppercase letters without special characters) [ex: MAC = 00-08-9B-F6-15-75 / password = 00089BF61575]
+QNAP (QTS/QuTS hero 5.2.0 and later (5.2.x 5.3.x 6.0.0)),admin,Cloud Key of NAS (uppercase letters without any special characters) [ex: Cloud Key = Q1234-5678 / password = Q12345678]
 Quadient,supervisor,09430
 QualiTeam,master,master
 Quantex,<blank>,teX1
