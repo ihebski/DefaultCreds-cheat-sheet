@@ -200,6 +200,7 @@ Apache,admin,j5Brn9
 APACHE,admin,jboss4
 Apache,admin,tomcat
 Apache,both,tomcat
+Apache Axis2,admin,axis2
 Apache guacamole,guacadmin,guacadmin
 Apache Project,jj,<blank>
 Apache,role1,role1
