@@ -199,8 +199,8 @@ Apache,admin,<blank>
 Apache,admin,j5Brn9
 APACHE,admin,jboss4
 Apache,admin,tomcat
-Apache,both,tomcat
 Apache Axis2,admin,axis2
+Apache,both,tomcat
 Apache guacamole,guacadmin,guacadmin
 Apache Project,jj,<blank>
 Apache,role1,role1
@@ -241,6 +241,8 @@ APC,POWERCHUTE,APC
 APC,readonly,apc
 APC SmartSlot (snmp),<blank>,TENmanUFactOryPOWER
 APC UPS (web),apc,apc
+APC UPS (web),device,apc
+APC UPS (web),readonly,apc
 Appian,Administrator,admin
 Apple,admin,public
 Apple,<blank>,admin
@@ -444,6 +446,7 @@ Award,<blank>,zbaaaca
 AWARD,<blank>,zbaaaca
 AWARD,<blank>,zjaaadc
 Axis,<blank>,<blank>
+Axis camera (web),root,<blank>
 Axis Communications,root,pass
 Axis,root,pass
 Axis (web),root,admin
@@ -552,6 +555,7 @@ CA APM Team Center (web),Guest,Guest
 Cable And Wireless,admin,1234
 Cabletron,<blank>,<blank>
 Cabletron,netman,<blank>
+Cacti (web),admin,admin
 caldera,admin,admin
 Cambium Networks AP,admin,admin
 CA NetQoS (web),nqadmin,nq
@@ -764,6 +768,7 @@ db2 (db2),db2inst1,db2inst1
 db2 (db2),db2inst1,db2pass
 db2 (db2),db2inst1,db2password
 db2 (db2),db2inst1,db2pw
+DD-WRT (web),root,admin
 Debian,<blank>,tatercounter2000
 decnet,operator,admin
 Deerfield,MDaemon,MServer
@@ -1023,6 +1028,7 @@ Ericsson,expert,expert
 Ericsson,MD110,help
 Ericsson,netman,netman
 ERNITEC,Admin,1234
+ERPNext (web),Administrator,admin
 eSeSIX Computer GmbH,root,jstwo
 E-Tech,admin,epicrouter
 E-Tech,admin,password
@@ -1127,6 +1133,7 @@ GrandStream,Administrator,admin
 GrandStream,<blank>,admin
 GrandStream,End User,123 (or blank)
 grandstream (web),admin,admin
+Graylog (web),admin,admin
 Greatspeed,admin,broadband
 greatspeed,netadmin,nimdaten
 Greenlight BigBlueButton,admin@example.com,administrator
@@ -1141,6 +1148,7 @@ H3C UniServer,admin,h3capadmin
 haier,ucenik23,ucenik
 Haivision Makito X Decoder (web),admin,manager
 Hanwha,admin,<create by default>
+Harbor (web),admin,Harbor12345
 Hayes,system,isp
 Heatmiser Wifi Thermostat (iot),admin,admin
 Hemoco Software,lansweeperuser,mysecretpassword0*
@@ -1216,11 +1224,11 @@ Hewlett-Packard,Oper,Oper
 Hewlett-Packard,PCUSER,SYS
 Hewlett-Packard,RSBCMON,SYS
 Hewlett-Packard,SPOOLMAN,HPOFFICE
-Hewlett-Packard,WP,HPOFFICE
-Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (WEB: View and change),manage,!manage
-Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (WEB: View only),monitor,!monitor
 Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (FTP),ftp,!ftp
 Hewlett Packard - Storage Management Utility (SMU) [>VE270P003/VL270P003] (WEB ),setup,<blank>
+Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (WEB: View and change),manage,!manage
+Hewlett Packard - Storage Management Utility (SMU) [<VE270P003/VL270P003] (WEB: View only),monitor,!monitor
+Hewlett-Packard,WP,HPOFFICE
 HighPOint,RAID,hpt
 hikvision (ssh),admin,12345
 HipChat Server (ssh),admin,hipchat
@@ -1456,9 +1464,11 @@ IBM,wpsadmin,wpsadmin
 icatch (camera),admin,123456
 icatch (camera),root,icatch99
 Ichano,<blank>,123
+Icinga (web),icingaadmin,icinga
 ICP DAS,<blank>,admin
 iDirect,admin,P@55w0rd!
 iDirect,root,iDirect
+iDRAC (Dell),root,calvin
 iGuard,admin,123
 IHS Kingdom (mssql),sa,$ei$micMicro
 IMC Networks,admin,admin
@@ -1836,6 +1846,7 @@ Midpoint,administrator,5ecr3t
 Mike Peters,bsxuser,bsxpass
 Mikrotik,admin,<blank>
 MikroTik,admin,<blank>
+MikroTik RouterOS,admin,<blank>
 Milan,root,root
 MinIO,minioadmin,minioadmin
 Minolta PagrPro,<blank>,sysadm
@@ -1859,6 +1870,8 @@ mobotix (web),admin,meinsm
 modern.ie (ssh),IEUser,D@rj33l1ng
 Mole,admin,admin
 Mongodb noauth (mongodb),<blank>,<blank>
+Mongo Express (web),admin,pass
+Mongo Express (web),<blank>,<blank>
 Motive,admin,isee
 Motorola,admin,motorola
 Motorola,admin,password
@@ -1893,6 +1906,7 @@ MySQL (ssh),root,root
 MySQL,superdba,admin
 N-Able N-Central,productadmin@n-able.com,ManageAllTheThings0!
 Nacos,nacos,nacos
+Nagios (web),nagiosadmin,nagiosadmin
 NAI,admin,admin123
 NAI,GlobalAdmin,GlobalAdmin
 Nanoteq,admin,NetSeq
@@ -1908,8 +1922,8 @@ NEC,admin,password
 NEC,<blank>,<blank>
 NEC,<blank>,iPbSmNt
 Neo4j,neo4j,neo4j
-NEO Series (SnapHQ),guest,std001
 NEO Series (SnapHQ),admin,adm001
+NEO Series (SnapHQ),guest,std001
 Nessus,admin,admin123
 NetApp,admin,admin123
 NetApp,admin,NetCache
@@ -2123,6 +2137,7 @@ Nullsoft,admin,changeme
 Nurit,$system,<blank>
 Nutanix,nutanix,4u
 Nuxeo Server (general),Administrator,Administrator
+Observium (web),admin,changeme
 OCE,<blank>,0 and the number of OCE printer
 OCS Inventory,admin,admin
 Odoo (general),admin,admin
@@ -2172,6 +2187,7 @@ OPEN Networks,root,0P3N
 OpenPLC,openplc,openplc
 Openwave,cac_admin,cacadmin
 Openwave,sys,uplink
+OpenWrt (web),root,<blank>
 Open-Xchange Inc.,mailadmin,secret
 OpManager,admin,admin
 OPNSense,root,opnsense
@@ -2600,14 +2616,15 @@ QDI,<blank>,password
 QDI,<blank>,QDI
 QLogic,admin,password
 QLogic,images,images
+QNAP (QTS/QuTS hero 4.4.1 - 4.3.6 or earlier),admin,admin
+QNAP (QTS/QuTS hero 4.4.2 - 5.1.x),admin,1st MAC address of NAS (uppercase letters without special characters) [ex: MAC = 00-08-9B-F6-15-75 / password = 00089BF61575]
+QNAP (QTS/QuTS hero 5.2.0 and later (5.2.x 5.3.x 6.0.0)),admin,Cloud Key of NAS (uppercase letters without any special characters) [ex: Cloud Key = Q1234-5678 / password = Q12345678]
+QNAP QTS (web),admin,admin
 Q-See (IP-cam),admin,123456
 Q-See (IP-cam),admin,admin
 Q-See (IPcamera),admin,123456
 Q-See (IP camera),admin,admin
 Q-Tec,Admin,<blank>
-QNAP (QTS/QuTS hero 4.4.1 - 4.3.6 or earlier),admin,admin
-QNAP (QTS/QuTS hero 4.4.2 - 5.1.x),admin,1st MAC address of NAS (uppercase letters without special characters) [ex: MAC = 00-08-9B-F6-15-75 / password = 00089BF61575]
-QNAP (QTS/QuTS hero 5.2.0 and later (5.2.x 5.3.x 6.0.0)),admin,Cloud Key of NAS (uppercase letters without any special characters) [ex: Cloud Key = Q1234-5678 / password = Q12345678]
 Quadient,supervisor,09430
 QualiTeam,master,master
 Quantex,<blank>,teX1
@@ -2704,6 +2721,7 @@ RSA,master,themaster01
 RSSBus,admin,admin
 RuggedCom,Admin,admin
 Ruijie,admin,admin
+Rundeck (web),admin,admin
 Saba,admin,admin
 Safecom,admin,epicrouter
 SafeNet Sentinel EMS (mssql),sa,DBA!sa@EMSDB123
@@ -3048,6 +3066,7 @@ Sony,<blank>,4x 'Enter' button
 Sony Ericsson,<blank>,0000
 SOPHIA (Schweiz),admin,Protector
 SOPHIA (Schweiz),root,root
+Sophos UTM (web),admin,admin
 Sorenson,<blank>,admin
 Sourcecodester,admin,admin
 Sourcefire,admin,password
@@ -3094,6 +3113,7 @@ Supercook,super,super
 Supermicro,ADMIN,admin
 SuperMicro,<blank>,ksdjfg934t
 Super Micro Computer,ADMIN,ADMIN
+Supermicro IPMI,ADMIN,ADMIN
 Supermicro SIM (IPMI),ADMIN,ADMIN
 Supermicro (web),ADMIN,ADMIN
 Surecom,admin,admin
@@ -3131,6 +3151,7 @@ Symbol,Symbol,Symbol
 Symbol Technologies,admin,superuser
 Symmetricom,guest,truetime
 Symmetricom,operator,mercury
+Synology DSM (web),admin,<blank>
 Synology Inc,admin,<blank>
 SysKonnect,default.password,<blank>
 SysMaster,admin,12345
@@ -3302,6 +3323,7 @@ Ubiquiti EdgeOS (web),ubnt,ubnt
 ubiquiti (ssh),admin,admin
 ubiquiti (ssh),root,ubnt
 ubiquiti (ssh),ubnt,ubnt
+Ubiquiti UniFi (web),ubnt,ubnt
 Ucopia (ssh),admin,bhu85tgb
 Ucopia (web),admin,ucopia
 Unex,<blank>,password
