@@ -1928,6 +1928,7 @@ MSSQL (mssql),sa,sa
 MSSQL (mssql),sa,sqlserver
 M Technology,<blank>,mMmM
 MTNL,admin,admin
+multiOTP,admin,1234
 Mutare,<blank>,admin
 Muze,admin,muze
 MyioSoft,demo,demo
