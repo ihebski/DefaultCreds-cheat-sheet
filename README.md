@@ -2,7 +2,7 @@
 # Default Credentials Cheat Sheet
 
 <p align="center">
-  <img src="https://media.moddb.com/cache/images/games/1/65/64034/thumb_620x2000/Lockpicking.jpg"/>
+  <img src="sc/default-credentials-cheat-sheet-6444.jpeg"/>
 </p>
 
 **One place for all the default credentials to assist pentesters/blue Teamers during engagements, featuring default login/password details for various products sourced from multiple references.**
