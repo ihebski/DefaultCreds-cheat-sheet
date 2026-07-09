@@ -8,5 +8,6 @@ setup(name='default-creds',
     description='One place for all the default credentials to assist pentesters during an engagement, this document has several products default login/password gathered from multiple sources.',
     url='https://github.com/ihebski/DefaultCreds-cheat-sheet.git',
     install_requires=install_requires,
-    scripts=['creds']
+    scripts=['creds'],
+    packages=[]
 )
